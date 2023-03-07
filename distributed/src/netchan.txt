@@ -1,0 +1,9 @@
+find_library(netchan_loc netchan REQUIRED)
+add_library(netchan SHARED IMPORTED)
+set_target_properties(netchan PROPERTIES IMPORTED_LOCATION ${netchan_loc})
+target_link_libraries(${LF_MAIN_TARGET} netchan)
+
+find_library(mrp_loc mrp REQUIRED)
+add_library(mrp SHARED IMPORTED)
+set_target_properties(mrp PROPERTIES IMPORTED_LOCATION ${mrp_loc})
+target_link_libraries(${LF_MAIN_TARGET} mrp)

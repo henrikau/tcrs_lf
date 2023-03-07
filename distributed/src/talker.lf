@@ -1,0 +1,67 @@
+target C {
+    timeout: 3 secs,
+    files: ["manifest.h"],
+    cmake-include: ["netchan.txt"],
+    threading: true,
+    coordination: decentralized,
+}
+preamble {=
+    #include <netchan.h>
+    #include "manifest.h"
+    typedef struct netchan_avtp netchan_avtp_t;
+
+=}
+
+reactor TalkerOut {
+    timer t(0, 1 sec);
+    input sensor_data:sensor_t;
+    
+    state tx:netchan_avtp_t*;
+
+    reaction(startup) {=
+        nf_set_nic("lo");
+        self->tx = pdu_create_standalone("sensor_data", 1, net_fifo_chans, sizeof(net_fifo_chans));
+    =}
+
+    reaction(sensor_data) {=
+        uint64_t t = lf_time_physical();
+        sensor_data->value.idel = t - sensor_data->value.ts;
+
+        printf("Sensor_data: ts=%lu, data=%lu, delay=%lu ns\n", 
+            sensor_data->value.ts, 
+            sensor_data->value.data,
+            sensor_data->value.idel);
+        pdu_send_now_wait(self->tx, &sensor_data->value);
+    =}
+    reaction(shutdown) {=
+        nh_destroy_standalone();
+        printf("Talker and channel destroyed\n");
+    =}
+}
+
+reactor Sensor {
+    timer t(0, 100 msec);
+    state ctr:uint64_t(0);
+    output sensor_data:sensor_t;
+    
+
+    reaction(t) -> sensor_data {=
+        uint64_t t = lf_time_physical();
+        sensor_t s;
+        s.ts = t;
+        s.data = self->ctr;
+        self->ctr++;
+        lf_set(sensor_data, s);
+        printf("[SENSOR] timestamp: %lu, data: %lu\n", s.ts, s.data);
+    =}
+}
+main reactor {
+    timer t(0, 500 msec);
+    talker = new TalkerOut();
+    s = new Sensor();
+    s.sensor_data -> talker.sensor_data;
+
+    reaction (t) {=
+        printf("Main triggering\n");
+    =}
+}
