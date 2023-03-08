@@ -52,7 +52,7 @@ typedef struct sensor_data sensor_t;
 struct net_fifo net_fifo_chans[] = {
 	{
 		/* DEFAULT_MCAST */
-		.dst       = {0x91, 0xE0, 0xF0, 0x00, 0xFE, 0x01},
+		.dst       = {0x01, 0x00, 0x5E, 0x00, 0xFE, 0x01},
 		.stream_id = 1,
 		.sc	   = CLASS_A,
 		.size      = sizeof(struct ur_state),
@@ -61,8 +61,8 @@ struct net_fifo net_fifo_chans[] = {
 	},
 	{
 		/* DEFAULT_MCAST */
-		.dst       = {0x91, 0xE0, 0xF0, 0x00, 0xFE, 0x02},
-		.stream_id = 1,
+		.dst       = {0x01, 0x00, 0x5E, 0x00, 0xFE, 0x02},
+		.stream_id = 2,
 		.sc	   = CLASS_A,
 		.size      = sizeof(struct ur_ctrl),
 		.freq      = 500,
@@ -70,8 +70,8 @@ struct net_fifo net_fifo_chans[] = {
 	},
 	{
 		/* DEFAULT_MCAST */
-		.dst       = {0x91, 0xE0, 0xF0, 0x00, 0xFE, 0x03},
-		.stream_id = 1,
+		.dst       = {0x01, 0x00, 0x5E, 0x01, 0x11, 0x03},
+		.stream_id = 3,
 		.sc        = CLASS_A,
 		.size      = sizeof(struct sensor_data),
 		.freq      = 10,
