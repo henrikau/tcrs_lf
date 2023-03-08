@@ -1,6 +1,6 @@
 target C {
-    files: ["manifest.h"],
-    cmake-include: ["netchan.txt"],
+    files: ["../../include/manifest.h"],
+    cmake-include: ["../../include/netchan.txt"],
     threading: true,
     keepalive: true,
 }
@@ -15,7 +15,7 @@ preamble {=
     void *external(void *recvd) {
         if (!data)
             return NULL;
-        nf_set_nic("lo");
+        nf_set_nic("enp9s0");
         NETCHAN_RX(sensor_data);
         
         printf("Starting loop, data=%p\n", data);
@@ -36,6 +36,7 @@ main reactor {
     reaction(startup) -> recvd {=
         data = calloc(1, sizeof(data));
         lf_thread_create(&self->thread_id, &external, recvd);
+        printf("t1,t2,t3,t4,seqnr\n");
     =}
 
     reaction(shutdown) {=
@@ -45,12 +46,10 @@ main reactor {
     =}
 
     reaction (recvd) {=
-        time_t ts = lf_time_physical();
+        time_t t3 = lf_time_physical();
 
         // We *assume* that data is available for us and that it safe to access.
         // (which we cannot as recvd is async and new data can arrive at *any* time)
-        printf("[RECVD] data=%lu, capture_ts=%lu, local_delay=%lu, recvd_ts=%lu\n",
-                data->data, data->ts, data->idel, ts);
-        printf("[RECVD] delay: %.3f us\n", (double)(ts - data->ts)/1000.0);
+        printf("%lu,%lu,%lu,NaN,%lu\n", data->t1, data->t2, t3, data->seqnr);
     =}
 }

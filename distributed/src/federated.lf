@@ -1,0 +1,49 @@
+target C {
+    files: ["../../include/manifest.h"],
+    threading: true,
+    keepalive: true,
+    timeout: 5 sec,
+    coordination: decentralized,
+}
+
+preamble {=
+    #include "manifest.h"
+=}
+
+reactor Talker {
+    timer t(0, 100 msecs);
+    output sensor_out:sensor_t;
+    state ctr:uint64_t(0);
+
+    reaction (t) -> sensor_out {=
+        sensor_t s;
+        uint64_t t1 = lf_time_physical();
+        s.t1 = t1;
+        s.seqnr = self->ctr;
+        s.data = self->ctr;
+        self->ctr++;
+        lf_set(sensor_out, s);
+    =}
+}
+
+reactor Listener {
+    input sensor_in:sensor_t;
+
+    reaction(sensor_in) {=
+        sensor_in->value.t2 = lf_time_physical();
+        printf("%lu,%lu,%lu\n",
+            sensor_in->value.t1,
+            sensor_in->value.t2,
+            sensor_in->value.seqnr);
+    =}
+
+    reaction(startup) {=
+        printf("t1,t2,seqnr\n");
+    =}
+}
+
+federated reactor {
+    talker = new Talker();
+    listener = new Listener();
+    talker.sensor_out -> listener.sensor_in after 2 ms;
+}

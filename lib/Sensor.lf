@@ -1,0 +1,23 @@
+target C;
+
+reactor Sensor {
+    physical action a;
+    
+    state ctr:uint64_t(0);
+    output sensor_data:sensor_t;
+
+    /* Let physical action be driven by a timer for now */
+    timer t(0, 100 msecs);
+    reaction(t) -> a {=
+        lf_schedule(a, 0);
+    =}
+
+    reaction(a) -> sensor_data {=
+        uint64_t t1 = lf_time_physical();
+        sensor_t s;
+        s.t1 = t1;
+        s.data = self->ctr;
+        self->ctr++;
+        lf_set(sensor_data, s);
+    =}
+}
