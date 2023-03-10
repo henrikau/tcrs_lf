@@ -45,5 +45,5 @@ reactor Listener {
 federated reactor {
     talker = new Talker();
     listener = new Listener();
-    talker.sensor_out -> listener.sensor_in after 2 ms;
+    talker.sensor_out -> listener.sensor_in;
 }

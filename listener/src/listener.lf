@@ -15,10 +15,10 @@ preamble {=
     void *external(void *recvd) {
         if (!data)
             return NULL;
-        nf_set_nic("enp9s0");
+        nf_set_nic("enp5s0");
+        nf_use_srp();
         NETCHAN_RX(sensor_data);
-        
-        printf("Starting loop, data=%p\n", data);
+
         sensor_t incoming_data;
         while (true && data) {
             READ(sensor_data, &incoming_data);
@@ -36,7 +36,7 @@ main reactor {
     reaction(startup) -> recvd {=
         data = calloc(1, sizeof(data));
         lf_thread_create(&self->thread_id, &external, recvd);
-        printf("t1,t2,t3,t4,seqnr\n");
+        printf("t1,t2,seqnr\n");
     =}
 
     reaction(shutdown) {=
@@ -46,10 +46,14 @@ main reactor {
     =}
 
     reaction (recvd) {=
-        time_t t3 = lf_time_physical();
-
-        // We *assume* that data is available for us and that it safe to access.
-        // (which we cannot as recvd is async and new data can arrive at *any* time)
-        printf("%lu,%lu,%lu,NaN,%lu\n", data->t1, data->t2, t3, data->seqnr);
+        data->t2 = lf_time_physical();
+        if (data->t1 == -1) {
+            printf("Stop received, closing\n");
+            request_stop();
+        } else {
+            // We *assume* that data is available for us and that it safe to access.
+            // (which we cannot as recvd is async and new data can arrive at *any* time)
+            printf("%lu,%lu,%lu\n", data->t1, data->t2, data->seqnr);
+        }
     =}
 }

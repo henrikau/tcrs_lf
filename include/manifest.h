@@ -43,9 +43,8 @@ typedef struct ur_ctrl  ur_ctrl_t;
 #define NIC (char *)"lo"
     
 struct sensor_data {
-	uint64_t t1; // data capture
-	uint64_t t2; // received at TalkerOut 
-	uint64_t t3; // received at listener (and woken up)
+	uint64_t t1; // data sent
+	uint64_t t2; // data received
 	uint64_t data;
 	uint64_t seqnr;
 };
