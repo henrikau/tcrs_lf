@@ -15,13 +15,14 @@ preamble {=
     void *external(void *recvd) {
         if (!data)
             return NULL;
-        nf_set_nic("enp5s0");
+        nf_set_nic("enp2s0");
         nf_use_srp();
+
         NETCHAN_RX(sensor_data);
 
         sensor_t incoming_data;
         while (true && data) {
-            READ(sensor_data, &incoming_data);
+            READ_WAIT(sensor_data, &incoming_data);
             memcpy(data, &incoming_data, sizeof(incoming_data));
             // Notify reactor about new data
             lf_schedule(recvd, 0);
