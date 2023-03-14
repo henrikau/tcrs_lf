@@ -8,6 +8,8 @@ target C {
 preamble {=
     #include <stdlib.h>
     #include <netchan.h>
+    #include <stdio.h>
+    #include <sys/mman.h>
     #include "manifest.h"
 
     sensor_t *data;
@@ -15,7 +17,7 @@ preamble {=
     void *external(void *recvd) {
         if (!data)
             return NULL;
-        nf_set_nic("enp2s0");
+        nf_set_nic("enp2s0.2");
         nf_use_srp();
 
         NETCHAN_RX(sensor_data);
@@ -34,16 +36,40 @@ main reactor {
     physical action recvd(0, 0, "replace"):uint64_t;
     state thread_id:lf_thread_t(0);
 
+    state idx:int(0);
+    state readings:sensor_t*;
+
     reaction(startup) -> recvd {=
         data = calloc(1, sizeof(data));
         lf_thread_create(&self->thread_id, &external, recvd);
-        printf("t1,t2,seqnr\n");
+
+	/* Allocate and pin timestamps in memory to avoid pagefault-noise */
+	mlockall(MCL_CURRENT|MCL_FUTURE);
+	self->readings = malloc(sizeof(sensor_t)*BUFFER_SIZE);
+	if (self->readings) {
+		for (int i = 0; i < BUFFER_SIZE; i++)
+			memset(self->readings, 0, sizeof(sensor_t));
+	}
     =}
 
     reaction(shutdown) {=
         nh_destroy_standalone();
+
         if (data)
             free(data);
+
+	if (self->readings) {
+		    FILE *fd = fopen("netchan_e2e.csv", "w");
+		    fprintf(fd, "t1,t2,seqnr\n");
+		    for (int i = 0; i < self->idx; i++) {
+			    fprintf(fd, "%lu,%lu,%lu\n",
+				    self->readings[i].t1,
+				    self->readings[i].t2,
+				    self->readings[i].seqnr);
+		    }
+		    fclose(fd);
+		    free(self->readings);
+	}
     =}
 
     reaction (recvd) {=
@@ -52,9 +78,12 @@ main reactor {
             printf("Stop received, closing\n");
             request_stop();
         } else {
-            // We *assume* that data is available for us and that it safe to access.
-            // (which we cannot as recvd is async and new data can arrive at *any* time)
-            printf("%lu,%lu,%lu\n", data->t1, data->t2, data->seqnr);
-        }
+		if (self->readings && self->idx < BUFFER_SIZE) {
+			self->readings[self->idx].t1 = data->t1;
+			self->readings[self->idx].t2 = data->t2;
+			self->readings[self->idx].seqnr = data->seqnr;
+			self->idx++;
+		}
+	}
     =}
 }

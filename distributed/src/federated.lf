@@ -2,16 +2,21 @@ target C {
     files: ["../../include/manifest.h"],
     threading: true,
     keepalive: true,
-    timeout: 5 sec,
+    timeout: 300 sec,
     coordination: decentralized,
 }
 
 preamble {=
     #include "manifest.h"
+    #include <stdio.h>
+    #include <sys/mman.h>
 =}
 
 reactor Talker {
-    timer t(0, 100 msecs);
+	timer t(0, 100 msecs);
+	timer hb(0,1 sec);
+	state hbctr:int(0);
+
     output sensor_out:sensor_t;
     state ctr:uint64_t(0);
 
@@ -24,26 +29,54 @@ reactor Talker {
         self->ctr++;
         lf_set(sensor_out, s);
     =}
+    reaction (hb) {=
+    	     printf("[HEARTBEAT] %d\n", self->hbctr);
+	     self->hbctr++;
+    =}
 }
 
 reactor Listener {
     input sensor_in:sensor_t;
+    state idx:int(0);
+    state readings:sensor_t*;
 
     reaction(sensor_in) {=
         sensor_in->value.t2 = lf_time_physical();
-        printf("%lu,%lu,%lu\n",
-            sensor_in->value.t1,
-            sensor_in->value.t2,
-            sensor_in->value.seqnr);
+	if (self->readings && self->idx < BUFFER_SIZE) {
+	   self->readings[self->idx].t1 = sensor_in->value.t1;
+	   self->readings[self->idx].t2 = sensor_in->value.t2;
+	   self->readings[self->idx].seqnr = sensor_in->value.seqnr;
+	   self->idx++;
+	}
+    =}
+
+    reaction(shutdown) {=
+	    if (self->readings) {
+		    FILE *fd = fopen("federated_e2e.csv", "w");
+	       fprintf(fd, "t1,t2,seqnr\n");
+	       for (int i = 0; i < self->idx; i++) {
+		       fprintf(fd, "%lu,%lu,%lu\n",
+			       self->readings[i].t1,
+			       self->readings[i].t2,
+			       self->readings[i].seqnr);
+	       }
+	       fclose(fd);
+	       free(self->readings);
+	    }
     =}
 
     reaction(startup) {=
-        printf("t1,t2,seqnr\n");
+       mlockall(MCL_CURRENT|MCL_FUTURE);
+       self->readings = malloc(sizeof(sensor_t)*BUFFER_SIZE);
+       if (self->readings) {
+	       for (int i = 0; i < BUFFER_SIZE; i++)
+		       memset(self->readings, 0, sizeof(sensor_t));
+       }
     =}
 }
 
 federated reactor {
     talker = new Talker();
     listener = new Listener();
-    talker.sensor_out -> listener.sensor_in;
+    talker.sensor_out -> listener.sensor_in after 2 ms;
 }

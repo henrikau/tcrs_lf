@@ -1,5 +1,5 @@
 target C {
-    timeout: 60 secs,
+    timeout: 305 secs,
     files: ["../../include/manifest.h"],
     cmake-include: ["../../include/netchan.txt"],
     threading: true,
@@ -17,7 +17,10 @@ reactor Sensor {
     state ctr:uint64_t(0);
     output sensor_data:uint64_t;
 
-    timer t(0, 100 msecs);
+    /* wait before starting to make sure TSN and SRP have negotiated
+     * properly */
+    timer t(5 sec, 100 msecs);
+
     reaction(t) -> sensor_data {=
         uint64_t sensor_val = self->ctr;
         self->ctr++;
@@ -31,8 +34,17 @@ reactor TalkerOut {
     state seqnr:uint64_t(0);
     state tx:netchan_avtp_t*;
 
+    timer hb(0,1 sec);
+    state hbctr:int(0);
+
+    reaction (hb) {=
+    	     printf("[HEARTBEAT] %d\n", self->hbctr);
+	     self->hbctr++;
+    =}
+
+
     reaction(startup) {=
-        nf_set_nic("enp2s0");
+        nf_set_nic("enp2s0.2");
         nf_use_srp();
         self->tx = pdu_create_standalone("sensor_data", 1, net_fifo_chans, sizeof(net_fifo_chans));
     =}
@@ -45,7 +57,7 @@ reactor TalkerOut {
         sensor.data = sensor_data;
         sensor.seqnr = self->seqnr;
         self->seqnr++;
-        
+
         pdu_send_now(self->tx, &sensor);
     =}
 
