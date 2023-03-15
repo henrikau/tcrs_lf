@@ -38,8 +38,8 @@ reactor TalkerOut {
     state hbctr:int(0);
 
     reaction (hb) {=
-    	     printf("[HEARTBEAT] %d\n", self->hbctr);
-	     self->hbctr++;
+        printf("[HEARTBEAT] %d\n", self->hbctr);
+	    self->hbctr++;
     =}
 
 
