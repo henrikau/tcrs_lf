@@ -1,0 +1,1425 @@
+Mar 14 10:43:55 tsn2 phc2sys: [656281.417] CLOCK_REALTIME phc offset       -13 s2 freq  -15859 delay   2812
+Mar 14 10:43:55 tsn2 ptp4l: [656281.534] rms   11 max   17 freq -63172 +/-  14 delay    24 +/-   0
+Mar 14 10:43:56 tsn2 phc2sys: [656282.417] CLOCK_REALTIME phc offset        36 s2 freq  -15814 delay   2829
+Mar 14 10:43:56 tsn2 ptp4l: [656282.548] rms   11 max   19 freq -63170 +/-  15 delay    24 +/-   0
+Mar 14 10:43:57 tsn2 phc2sys: [656283.418] CLOCK_REALTIME phc offset       -46 s2 freq  -15886 delay   2814
+Mar 14 10:43:57 tsn2 ptp4l: [656283.561] rms   13 max   20 freq -63159 +/-  16 delay    26 +/-   0
+Mar 14 10:43:58 tsn2 phc2sys: [656284.418] CLOCK_REALTIME phc offset        -9 s2 freq  -15862 delay   2823
+Mar 14 10:43:59 tsn2 ptp4l: [656284.578] rms   11 max   14 freq -63173 +/-  13 delay    26 +/-   0
+Mar 14 10:43:59 tsn2 phc2sys: [656285.418] CLOCK_REALTIME phc offset        -4 s2 freq  -15860 delay   2820
+Mar 14 10:44:00 tsn2 ptp4l: [656285.593] rms   11 max   20 freq -63162 +/-  15 delay    27 +/-   0
+Mar 14 10:44:00 tsn2 phc2sys: [656286.418] CLOCK_REALTIME phc offset         7 s2 freq  -15850 delay   2811
+Mar 14 10:44:01 tsn2 ptp4l: [656286.604] rms   11 max   15 freq -63174 +/-  14 delay    28 +/-   0
+Mar 14 10:44:01 tsn2 phc2sys: [656287.418] CLOCK_REALTIME phc offset        45 s2 freq  -15810 delay   2792
+Mar 14 10:44:02 tsn2 ptp4l: [656287.614] rms    9 max   23 freq -63166 +/-  12 delay    27 +/-   0
+Mar 14 10:44:02 tsn2 phc2sys: [656288.419] CLOCK_REALTIME phc offset       -33 s2 freq  -15875 delay   2824
+Mar 14 10:44:03 tsn2 ptp4l: [656288.628] rms    7 max   15 freq -63168 +/-  10 delay    27 +/-   0
+Mar 14 10:44:03 tsn2 phc2sys: [656289.419] CLOCK_REALTIME phc offset        69 s2 freq  -15783 delay   2846
+Mar 14 10:44:04 tsn2 ptp4l: [656289.640] rms   12 max   19 freq -63162 +/-  16 delay    27 +/-   0
+Mar 14 10:44:04 tsn2 phc2sys: [656290.419] CLOCK_REALTIME phc offset       -84 s2 freq  -15915 delay   2821
+Mar 14 10:44:05 tsn2 ptp4l: [656290.654] rms   12 max   22 freq -63164 +/-  16 delay    27 +/-   0
+Mar 14 10:44:05 tsn2 phc2sys: [656291.419] CLOCK_REALTIME phc offset        46 s2 freq  -15810 delay   2818
+Mar 14 10:44:06 tsn2 ptp4l: [656291.664] rms   10 max   16 freq -63161 +/-  14 delay    27 +/-   0
+Mar 14 10:44:06 tsn2 phc2sys: [656292.420] CLOCK_REALTIME phc offset         5 s2 freq  -15837 delay   2844
+Mar 14 10:44:07 tsn2 ptp4l: [656292.676] rms   10 max   17 freq -63171 +/-  12 delay    26 +/-   0
+Mar 14 10:44:07 tsn2 phc2sys: [656293.420] CLOCK_REALTIME phc offset      -549 s2 freq  -16390 delay   1892
+Mar 14 10:44:08 tsn2 ptp4l: [656293.688] rms   10 max   19 freq -63162 +/-  14 delay    27 +/-   0
+Mar 14 10:44:08 tsn2 phc2sys: [656294.420] CLOCK_REALTIME phc offset       503 s2 freq  -15502 delay   2823
+Mar 14 10:44:09 tsn2 ptp4l: [656294.701] rms   10 max   17 freq -63158 +/-  13 delay    28 +/-   0
+Mar 14 10:44:09 tsn2 phc2sys: [656295.421] CLOCK_REALTIME phc offset       193 s2 freq  -15662 delay   2855
+Mar 14 10:44:10 tsn2 ptp4l: [656295.712] rms   14 max   19 freq -63166 +/-  19 delay    25 +/-   0
+Mar 14 10:44:10 tsn2 phc2sys: [656296.421] CLOCK_REALTIME phc offset       -49 s2 freq  -15846 delay   2763
+Mar 14 10:44:11 tsn2 ptp4l: [656296.724] rms   12 max   14 freq -63159 +/-  16 delay    25 +/-   0
+Mar 14 10:44:11 tsn2 phc2sys: [656297.421] CLOCK_REALTIME phc offset       -58 s2 freq  -15869 delay   2597
+Mar 14 10:44:12 tsn2 ptp4l: [656297.733] rms   13 max   21 freq -63169 +/-  17 delay    28 +/-   0
+Mar 14 10:44:12 tsn2 phc2sys: [656298.421] CLOCK_REALTIME phc offset       -60 s2 freq  -15889 delay   2759
+Mar 14 10:44:13 tsn2 ptp4l: [656298.747] rms   14 max   22 freq -63165 +/-  19 delay    28 +/-   0
+Mar 14 10:44:13 tsn2 phc2sys: [656299.422] CLOCK_REALTIME phc offset        21 s2 freq  -15826 delay   2837
+Mar 14 10:44:14 tsn2 ptp4l: [656299.757] rms   10 max   14 freq -63171 +/-  13 delay    28 +/-   0
+Mar 14 10:44:14 tsn2 phc2sys: [656300.422] CLOCK_REALTIME phc offset        -7 s2 freq  -15847 delay   2837
+Mar 14 10:44:15 tsn2 ptp4l: [656300.773] rms   12 max   20 freq -63165 +/-  17 delay    28 +/-   0
+Mar 14 10:44:15 tsn2 phc2sys: [656301.422] CLOCK_REALTIME phc offset      -492 s2 freq  -16335 delay   1744
+Mar 14 10:44:16 tsn2 ptp4l: [656301.784] rms    9 max   20 freq -63171 +/-  12 delay    27 +/-   0
+Mar 14 10:44:16 tsn2 phc2sys: [656302.422] CLOCK_REALTIME phc offset       -16 s2 freq  -16006 delay   1743
+Mar 14 10:44:17 tsn2 ptp4l: [656302.800] rms   10 max   20 freq -63163 +/-  14 delay    27 +/-   0
+Mar 14 10:44:17 tsn2 phc2sys: [656303.422] CLOCK_REALTIME phc offset       146 s2 freq  -15849 delay   1716
+Mar 14 10:44:18 tsn2 ptp4l: [656303.813] rms   13 max   17 freq -63163 +/-  17 delay    27 +/-   0
+Mar 14 10:44:18 tsn2 phc2sys: [656304.422] CLOCK_REALTIME phc offset       131 s2 freq  -15820 delay   1753
+Mar 14 10:44:19 tsn2 ptp4l: [656304.822] rms   12 max   20 freq -63166 +/-  17 delay    27 +/-   0
+Mar 14 10:44:19 tsn2 phc2sys: [656305.422] CLOCK_REALTIME phc offset       549 s2 freq  -15363 delay   2605
+Mar 14 10:44:20 tsn2 ptp4l: [656305.834] rms    9 max   18 freq -63165 +/-  13 delay    28 +/-   0
+Mar 14 10:44:20 tsn2 phc2sys: [656306.422] CLOCK_REALTIME phc offset      -403 s2 freq  -16150 delay   1727
+Mar 14 10:44:21 tsn2 ptp4l: [656306.846] rms   11 max   20 freq -63165 +/-  14 delay    28 +/-   0
+Mar 14 10:44:21 tsn2 phc2sys: [656307.423] CLOCK_REALTIME phc offset       -95 s2 freq  -15963 delay   1694
+Mar 14 10:44:22 tsn2 ptp4l: [656307.858] rms    9 max   15 freq -63164 +/-  13 delay    28 +/-   0
+Mar 14 10:44:22 tsn2 phc2sys: [656308.423] CLOCK_REALTIME phc offset        -1 s2 freq  -15898 delay   1726
+Mar 14 10:44:23 tsn2 ptp4l: [656308.872] rms    9 max   23 freq -63165 +/-  13 delay    27 +/-   0
+Mar 14 10:44:23 tsn2 phc2sys: [656309.423] CLOCK_REALTIME phc offset        43 s2 freq  -15854 delay   1700
+Mar 14 10:44:24 tsn2 ptp4l: [656309.885] rms   12 max   22 freq -63160 +/-  17 delay    29 +/-   0
+Mar 14 10:44:24 tsn2 phc2sys: [656310.423] CLOCK_REALTIME phc offset        41 s2 freq  -15843 delay   1729
+Mar 14 10:44:25 tsn2 ptp4l: [656310.897] rms   10 max   16 freq -63169 +/-  14 delay    30 +/-   0
+Mar 14 10:44:25 tsn2 phc2sys: [656311.423] CLOCK_REALTIME phc offset        32 s2 freq  -15840 delay   1731
+Mar 14 10:44:26 tsn2 ptp4l: [656311.906] rms   11 max   17 freq -63152 +/-  12 delay    30 +/-   0
+Mar 14 10:44:26 tsn2 phc2sys: [656312.423] CLOCK_REALTIME phc offset        13 s2 freq  -15849 delay   1744
+Mar 14 10:44:27 tsn2 ptp4l: [656312.921] rms   14 max   22 freq -63174 +/-  15 delay    30 +/-   0
+Mar 14 10:44:27 tsn2 phc2sys: [656313.423] CLOCK_REALTIME phc offset         6 s2 freq  -15852 delay   1710
+Mar 14 10:44:28 tsn2 ptp4l: [656313.933] rms    8 max   14 freq -63173 +/-  11 delay    30 +/-   0
+Mar 14 10:44:28 tsn2 phc2sys: [656314.423] CLOCK_REALTIME phc offset        -5 s2 freq  -15861 delay   1729
+Mar 14 10:44:29 tsn2 ptp4l: [656314.945] rms   11 max   20 freq -63156 +/-  11 delay    30 +/-   0
+Mar 14 10:44:29 tsn2 phc2sys: [656315.423] CLOCK_REALTIME phc offset        13 s2 freq  -15845 delay   1723
+Mar 14 10:44:30 tsn2 ptp4l: [656315.962] rms   12 max   17 freq -63154 +/-  15 delay    30 +/-   0
+Mar 14 10:44:30 tsn2 phc2sys: [656316.423] CLOCK_REALTIME phc offset        23 s2 freq  -15831 delay   1696
+Mar 14 10:44:31 tsn2 ptp4l: [656316.978] rms   13 max   17 freq -63164 +/-  17 delay    28 +/-   0
+Mar 14 10:44:31 tsn2 phc2sys: [656317.423] CLOCK_REALTIME phc offset       -36 s2 freq  -15883 delay   1744
+Mar 14 10:44:32 tsn2 ptp4l: [656317.991] rms   10 max   16 freq -63171 +/-  12 delay    27 +/-   0
+Mar 14 10:44:32 tsn2 phc2sys: [656318.423] CLOCK_REALTIME phc offset         1 s2 freq  -15857 delay   1730
+Mar 14 10:44:33 tsn2 ptp4l: [656319.005] rms   11 max   24 freq -63164 +/-  15 delay    26 +/-   0
+Mar 14 10:44:33 tsn2 phc2sys: [656319.423] CLOCK_REALTIME phc offset        20 s2 freq  -15838 delay   1673
+Mar 14 10:44:34 tsn2 ptp4l: [656320.016] rms   14 max   22 freq -63160 +/-  19 delay    26 +/-   0
+Mar 14 10:44:34 tsn2 phc2sys: [656320.423] CLOCK_REALTIME phc offset       -12 s2 freq  -15864 delay   1693
+Mar 14 10:44:35 tsn2 ptp4l: [656321.029] rms   12 max   23 freq -63157 +/-  16 delay    24 +/-   0
+Mar 14 10:44:35 tsn2 phc2sys: [656321.424] CLOCK_REALTIME phc offset       -14 s2 freq  -15869 delay   1743
+Mar 14 10:44:36 tsn2 ptp4l: [656322.042] rms   10 max   19 freq -63165 +/-  13 delay    24 +/-   0
+Mar 14 10:44:36 tsn2 phc2sys: [656322.424] CLOCK_REALTIME phc offset         1 s2 freq  -15858 delay   1730
+Mar 14 10:44:37 tsn2 ptp4l: [656323.056] rms    8 max   16 freq -63168 +/-  11 delay    26 +/-   0
+Mar 14 10:44:37 tsn2 phc2sys: [656323.424] CLOCK_REALTIME phc offset        13 s2 freq  -15846 delay   1743
+Mar 14 10:44:38 tsn2 ptp4l: [656324.069] rms   12 max   21 freq -63157 +/-  15 delay    27 +/-   0
+Mar 14 10:44:38 tsn2 phc2sys: [656324.424] CLOCK_REALTIME phc offset        -4 s2 freq  -15859 delay   1732
+Mar 14 10:44:39 tsn2 ptp4l: [656325.080] rms   11 max   17 freq -63166 +/-  16 delay    26 +/-   0
+Mar 14 10:44:39 tsn2 phc2sys: [656325.424] CLOCK_REALTIME phc offset         4 s2 freq  -15852 delay   1745
+Mar 14 10:44:40 tsn2 ptp4l: [656326.091] rms   13 max   18 freq -63172 +/-  17 delay    27 +/-   0
+Mar 14 10:44:40 tsn2 phc2sys: [656326.424] CLOCK_REALTIME phc offset        -5 s2 freq  -15860 delay   1721
+Mar 14 10:44:41 tsn2 ptp4l: [656327.103] rms   11 max   18 freq -63163 +/-  14 delay    29 +/-   0
+Mar 14 10:44:41 tsn2 phc2sys: [656327.424] CLOCK_REALTIME phc offset        -8 s2 freq  -15865 delay   1729
+Mar 14 10:44:42 tsn2 ptp4l: [656328.118] rms   11 max   18 freq -63168 +/-  15 delay    32 +/-   0
+Mar 14 10:44:42 tsn2 phc2sys: [656328.424] CLOCK_REALTIME phc offset         0 s2 freq  -15859 delay   1728
+Mar 14 10:44:43 tsn2 ptp4l: [656329.129] rms   14 max   17 freq -63169 +/-  19 delay    34 +/-   0
+Mar 14 10:44:43 tsn2 phc2sys: [656329.424] CLOCK_REALTIME phc offset       -10 s2 freq  -15869 delay   1732
+Mar 14 10:44:44 tsn2 ptp4l: [656330.139] rms    5 max    9 freq -63172 +/-   7 delay    34 +/-   0
+Mar 14 10:44:44 tsn2 phc2sys: [656330.424] CLOCK_REALTIME phc offset        13 s2 freq  -15849 delay   1691
+Mar 14 10:44:45 tsn2 ptp4l: [656331.152] rms    9 max   20 freq -63161 +/-  11 delay    34 +/-   0
+Mar 14 10:44:45 tsn2 phc2sys: [656331.424] CLOCK_REALTIME phc offset        -1 s2 freq  -15859 delay   1734
+Mar 14 10:44:46 tsn2 ptp4l: [656332.167] rms    4 max    7 freq -63165 +/-   5 delay    32 +/-   0
+Mar 14 10:44:46 tsn2 phc2sys: [656332.424] CLOCK_REALTIME phc offset         7 s2 freq  -15851 delay   1736
+Mar 14 10:44:47 tsn2 ptp4l: [656333.181] rms   11 max   18 freq -63154 +/-  13 delay    34 +/-   0
+Mar 14 10:44:47 tsn2 phc2sys: [656333.424] CLOCK_REALTIME phc offset         1 s2 freq  -15855 delay   1732
+Mar 14 10:44:48 tsn2 ptp4l: [656334.193] rms   11 max   16 freq -63170 +/-  13 delay    35 +/-   0
+Mar 14 10:44:48 tsn2 phc2sys: [656334.424] CLOCK_REALTIME phc offset       -10 s2 freq  -15866 delay   1747
+Mar 14 10:44:49 tsn2 ptp4l: [656335.207] rms   12 max   17 freq -63164 +/-  16 delay    35 +/-   0
+Mar 14 10:44:49 tsn2 phc2sys: [656335.425] CLOCK_REALTIME phc offset        26 s2 freq  -15833 delay   1729
+Mar 14 10:44:50 tsn2 ptp4l: [656336.219] rms   10 max   18 freq -63171 +/-  14 delay    32 +/-   0
+Mar 14 10:44:50 tsn2 phc2sys: [656336.425] CLOCK_REALTIME phc offset       -20 s2 freq  -15871 delay   1731
+Mar 14 10:44:51 tsn2 ptp4l: [656337.230] rms   11 max   19 freq -63169 +/-  14 delay    32 +/-   0
+Mar 14 10:44:51 tsn2 phc2sys: [656337.425] CLOCK_REALTIME phc offset        12 s2 freq  -15845 delay   1682
+Mar 14 10:44:52 tsn2 ptp4l: [656338.244] rms   14 max   26 freq -63158 +/-  17 delay    31 +/-   0
+Mar 14 10:44:52 tsn2 phc2sys: [656338.425] CLOCK_REALTIME phc offset       -17 s2 freq  -15871 delay   1743
+Mar 14 10:44:53 tsn2 ptp4l: [656339.256] rms   11 max   23 freq -63161 +/-  16 delay    28 +/-   0
+Mar 14 10:44:53 tsn2 phc2sys: [656339.425] CLOCK_REALTIME phc offset       -11 s2 freq  -15870 delay   1750
+Mar 14 10:44:54 tsn2 ptp4l: [656340.268] rms   11 max   14 freq -63164 +/-  15 delay    27 +/-   0
+Mar 14 10:44:54 tsn2 phc2sys: [656340.425] CLOCK_REALTIME phc offset        18 s2 freq  -15844 delay   1730
+Mar 14 10:44:55 tsn2 ptp4l: [656341.281] rms   12 max   15 freq -63161 +/-  17 delay    27 +/-   0
+Mar 14 10:44:55 tsn2 phc2sys: [656341.425] CLOCK_REALTIME phc offset        20 s2 freq  -15837 delay   1700
+Mar 14 10:44:56 tsn2 ptp4l: [656342.293] rms   13 max   22 freq -63171 +/-  15 delay    27 +/-   0
+Mar 14 10:44:56 tsn2 phc2sys: [656342.425] CLOCK_REALTIME phc offset       -23 s2 freq  -15874 delay   1726
+Mar 14 10:44:57 tsn2 ptp4l: [656343.305] rms   13 max   21 freq -63159 +/-  18 delay    25 +/-   0
+Mar 14 10:44:57 tsn2 phc2sys: [656343.425] CLOCK_REALTIME phc offset         4 s2 freq  -15854 delay   1729
+Mar 14 10:44:58 tsn2 ptp4l: [656344.318] rms   11 max   19 freq -63166 +/-  14 delay    25 +/-   0
+Mar 14 10:44:58 tsn2 phc2sys: [656344.425] CLOCK_REALTIME phc offset       -19 s2 freq  -15875 delay   1748
+Mar 14 10:44:59 tsn2 ptp4l: [656345.328] rms   12 max   17 freq -63160 +/-  16 delay    25 +/-   0
+Mar 14 10:44:59 tsn2 phc2sys: [656345.425] CLOCK_REALTIME phc offset        12 s2 freq  -15850 delay   1725
+Mar 14 10:45:00 tsn2 ptp4l: [656346.339] rms   14 max   22 freq -63174 +/-  17 delay    27 +/-   0
+Mar 14 10:45:00 tsn2 phc2sys: [656346.425] CLOCK_REALTIME phc offset         6 s2 freq  -15852 delay   1689
+Mar 14 10:45:01 tsn2 ptp4l: [656347.353] rms   10 max   17 freq -63166 +/-  13 delay    27 +/-   0
+Mar 14 10:45:01 tsn2 phc2sys: [656347.425] CLOCK_REALTIME phc offset        13 s2 freq  -15844 delay   1688
+Mar 14 10:45:02 tsn2 ptp4l: [656348.369] rms   12 max   19 freq -63161 +/-  17 delay    26 +/-   0
+Mar 14 10:45:02 tsn2 phc2sys: [656348.425] CLOCK_REALTIME phc offset       -30 s2 freq  -15883 delay   1738
+Mar 14 10:45:03 tsn2 ptp4l: [656349.382] rms   11 max   18 freq -63164 +/-  15 delay    26 +/-   0
+Mar 14 10:45:03 tsn2 phc2sys: [656349.426] CLOCK_REALTIME phc offset        -6 s2 freq  -15868 delay   1729
+Mar 14 10:45:04 tsn2 ptp4l: [656350.394] rms   10 max   19 freq -63157 +/-  13 delay    26 +/-   0
+Mar 14 10:45:04 tsn2 phc2sys: [656350.426] CLOCK_REALTIME phc offset         8 s2 freq  -15856 delay   1727
+Mar 14 10:45:05 tsn2 ptp4l: [656351.406] rms   13 max   20 freq -63170 +/-  17 delay    26 +/-   0
+Mar 14 10:45:05 tsn2 phc2sys: [656351.426] CLOCK_REALTIME phc offset         2 s2 freq  -15859 delay   1726
+Mar 14 10:45:06 tsn2 ptp4l: [656352.421] rms    6 max   10 freq -63172 +/-   6 delay    26 +/-   0
+Mar 14 10:45:06 tsn2 phc2sys: [656352.426] CLOCK_REALTIME phc offset        -3 s2 freq  -15864 delay   1716
+Mar 14 10:45:07 tsn2 phc2sys: [656353.426] CLOCK_REALTIME phc offset         0 s2 freq  -15861 delay   1725
+Mar 14 10:45:07 tsn2 ptp4l: [656353.435] rms    4 max    6 freq -63168 +/-   5 delay    28 +/-   0
+Mar 14 10:45:08 tsn2 phc2sys: [656354.426] CLOCK_REALTIME phc offset        12 s2 freq  -15849 delay   1717
+Mar 14 10:45:08 tsn2 ptp4l: [656354.449] rms   16 max   27 freq -63154 +/-  20 delay    26 +/-   0
+Mar 14 10:45:09 tsn2 phc2sys: [656355.426] CLOCK_REALTIME phc offset       469 s2 freq  -15389 delay   2568
+Mar 14 10:45:09 tsn2 ptp4l: [656355.459] rms   13 max   18 freq -63165 +/-  18 delay    25 +/-   0
+Mar 14 10:45:10 tsn2 phc2sys: [656356.426] CLOCK_REALTIME phc offset      -482 s2 freq  -16199 delay   1729
+Mar 14 10:45:10 tsn2 ptp4l: [656356.472] rms   11 max   17 freq -63172 +/-  15 delay    25 +/-   0
+Mar 14 10:45:11 tsn2 phc2sys: [656357.426] CLOCK_REALTIME phc offset      -130 s2 freq  -15992 delay   1683
+Mar 14 10:45:11 tsn2 ptp4l: [656357.487] rms    6 max   10 freq -63175 +/-   7 delay    24 +/-   0
+Mar 14 10:45:12 tsn2 phc2sys: [656358.426] CLOCK_REALTIME phc offset        -9 s2 freq  -15910 delay   1700
+Mar 14 10:45:12 tsn2 ptp4l: [656358.500] rms    9 max   21 freq -63167 +/-  12 delay    24 +/-   0
+Mar 14 10:45:13 tsn2 phc2sys: [656359.426] CLOCK_REALTIME phc offset        52 s2 freq  -15851 delay   1681
+Mar 14 10:45:13 tsn2 ptp4l: [656359.513] rms   12 max   24 freq -63164 +/-  16 delay    25 +/-   0
+Mar 14 10:45:14 tsn2 phc2sys: [656360.426] CLOCK_REALTIME phc offset        55 s2 freq  -15833 delay   1682
+Mar 14 10:45:14 tsn2 ptp4l: [656360.525] rms   12 max   16 freq -63166 +/-  16 delay    25 +/-   0
+Mar 14 10:45:15 tsn2 phc2sys: [656361.426] CLOCK_REALTIME phc offset         2 s2 freq  -15869 delay   1728
+Mar 14 10:45:15 tsn2 ptp4l: [656361.537] rms    9 max   14 freq -63175 +/-  11 delay    26 +/-   0
+Mar 14 10:45:16 tsn2 phc2sys: [656362.426] CLOCK_REALTIME phc offset         7 s2 freq  -15864 delay   1730
+Mar 14 10:45:16 tsn2 ptp4l: [656362.551] rms    4 max    7 freq -63176 +/-   4 delay    26 +/-   0
+Mar 14 10:45:17 tsn2 phc2sys: [656363.427] CLOCK_REALTIME phc offset         1 s2 freq  -15868 delay   1730
+Mar 14 10:45:17 tsn2 ptp4l: [656363.566] rms   10 max   26 freq -63165 +/-  12 delay    26 +/-   0
+Mar 14 10:45:18 tsn2 phc2sys: [656364.427] CLOCK_REALTIME phc offset        18 s2 freq  -15850 delay   1734
+Mar 14 10:45:19 tsn2 ptp4l: [656364.579] rms   10 max   17 freq -63165 +/-  13 delay    28 +/-   0
+Mar 14 10:45:19 tsn2 phc2sys: [656365.427] CLOCK_REALTIME phc offset         2 s2 freq  -15861 delay   1746
+Mar 14 10:45:20 tsn2 ptp4l: [656365.591] rms   12 max   18 freq -63171 +/-  17 delay    28 +/-   0
+Mar 14 10:45:20 tsn2 phc2sys: [656366.427] CLOCK_REALTIME phc offset        27 s2 freq  -15835 delay   1680
+Mar 14 10:45:21 tsn2 ptp4l: [656366.604] rms   10 max   18 freq -63175 +/-  14 delay    26 +/-   0
+Mar 14 10:45:21 tsn2 phc2sys: [656367.427] CLOCK_REALTIME phc offset       -43 s2 freq  -15897 delay   1732
+Mar 14 10:45:22 tsn2 ptp4l: [656367.618] rms    9 max   17 freq -63171 +/-  13 delay    26 +/-   0
+Mar 14 10:45:22 tsn2 phc2sys: [656368.427] CLOCK_REALTIME phc offset        -6 s2 freq  -15873 delay   1734
+Mar 14 10:45:23 tsn2 ptp4l: [656368.631] rms   10 max   21 freq -63178 +/-  14 delay    28 +/-   0
+Mar 14 10:45:23 tsn2 phc2sys: [656369.427] CLOCK_REALTIME phc offset        -6 s2 freq  -15875 delay   1729
+Mar 14 10:45:24 tsn2 ptp4l: [656369.646] rms   12 max   24 freq -63170 +/-  16 delay    28 +/-   0
+Mar 14 10:45:24 tsn2 phc2sys: [656370.427] CLOCK_REALTIME phc offset        17 s2 freq  -15854 delay   1717
+Mar 14 10:45:25 tsn2 ptp4l: [656370.659] rms   10 max   16 freq -63174 +/-  14 delay    28 +/-   0
+Mar 14 10:45:25 tsn2 phc2sys: [656371.427] CLOCK_REALTIME phc offset         2 s2 freq  -15864 delay   1735
+Mar 14 10:45:26 tsn2 ptp4l: [656371.670] rms   13 max   21 freq -63165 +/-  16 delay    27 +/-   0
+Mar 14 10:45:26 tsn2 phc2sys: [656372.427] CLOCK_REALTIME phc offset         5 s2 freq  -15860 delay   1726
+Mar 14 10:45:27 tsn2 ptp4l: [656372.682] rms   12 max   18 freq -63169 +/-  16 delay    27 +/-   0
+Mar 14 10:45:27 tsn2 phc2sys: [656373.427] CLOCK_REALTIME phc offset        -6 s2 freq  -15870 delay   1727
+Mar 14 10:45:28 tsn2 ptp4l: [656373.692] rms   13 max   22 freq -63176 +/-  17 delay    27 +/-   0
+Mar 14 10:45:28 tsn2 phc2sys: [656374.427] CLOCK_REALTIME phc offset         6 s2 freq  -15859 delay   1736
+Mar 14 10:45:29 tsn2 ptp4l: [656374.705] rms   13 max   22 freq -63184 +/-  15 delay    27 +/-   0
+Mar 14 10:45:29 tsn2 phc2sys: [656375.427] CLOCK_REALTIME phc offset         3 s2 freq  -15861 delay   1698
+Mar 14 10:45:30 tsn2 ptp4l: [656375.718] rms    7 max   14 freq -63184 +/-   9 delay    29 +/-   0
+Mar 14 10:45:30 tsn2 phc2sys: [656376.427] CLOCK_REALTIME phc offset       -12 s2 freq  -15875 delay   1686
+Mar 14 10:45:31 tsn2 ptp4l: [656376.731] rms   12 max   19 freq -63173 +/-  15 delay    29 +/-   0
+Mar 14 10:45:31 tsn2 phc2sys: [656377.428] CLOCK_REALTIME phc offset        -4 s2 freq  -15870 delay   1728
+Mar 14 10:45:32 tsn2 ptp4l: [656377.746] rms   12 max   18 freq -63176 +/-  17 delay    29 +/-   0
+Mar 14 10:45:32 tsn2 phc2sys: [656378.428] CLOCK_REALTIME phc offset       -14 s2 freq  -15881 delay   1736
+Mar 14 10:45:33 tsn2 ptp4l: [656378.757] rms   12 max   20 freq -63185 +/-  15 delay    29 +/-   0
+Mar 14 10:45:33 tsn2 phc2sys: [656379.428] CLOCK_REALTIME phc offset         3 s2 freq  -15869 delay   1744
+Mar 14 10:45:34 tsn2 ptp4l: [656379.767] rms   10 max   14 freq -63178 +/-  14 delay    29 +/-   0
+Mar 14 10:45:34 tsn2 phc2sys: [656380.428] CLOCK_REALTIME phc offset        -4 s2 freq  -15875 delay   1730
+Mar 14 10:45:35 tsn2 ptp4l: [656380.780] rms   13 max   20 freq -63188 +/-  17 delay    30 +/-   0
+Mar 14 10:45:35 tsn2 phc2sys: [656381.428] CLOCK_REALTIME phc offset         3 s2 freq  -15869 delay   1730
+Mar 14 10:45:36 tsn2 ptp4l: [656381.795] rms   10 max   19 freq -63186 +/-  13 delay    30 +/-   0
+Mar 14 10:45:36 tsn2 phc2sys: [656382.428] CLOCK_REALTIME phc offset        12 s2 freq  -15859 delay   1701
+Mar 14 10:45:37 tsn2 ptp4l: [656382.807] rms   10 max   18 freq -63182 +/-  13 delay    29 +/-   0
+Mar 14 10:45:37 tsn2 phc2sys: [656383.428] CLOCK_REALTIME phc offset        -8 s2 freq  -15875 delay   1730
+Mar 14 10:45:38 tsn2 ptp4l: [656383.825] rms   12 max   17 freq -63183 +/-  17 delay    28 +/-   0
+Mar 14 10:45:38 tsn2 phc2sys: [656384.428] CLOCK_REALTIME phc offset       -10 s2 freq  -15880 delay   1732
+Mar 14 10:45:39 tsn2 ptp4l: [656384.836] rms   13 max   18 freq -63181 +/-  18 delay    27 +/-   0
+Mar 14 10:45:39 tsn2 phc2sys: [656385.428] CLOCK_REALTIME phc offset        -1 s2 freq  -15874 delay   1727
+Mar 14 10:45:40 tsn2 ptp4l: [656385.847] rms   11 max   20 freq -63191 +/-  13 delay    26 +/-   0
+Mar 14 10:45:40 tsn2 phc2sys: [656386.428] CLOCK_REALTIME phc offset         1 s2 freq  -15872 delay   1749
+Mar 14 10:45:41 tsn2 ptp4l: [656386.865] rms   11 max   15 freq -63187 +/-  15 delay    27 +/-   0
+Mar 14 10:45:41 tsn2 phc2sys: [656387.428] CLOCK_REALTIME phc offset         0 s2 freq  -15873 delay   1732
+Mar 14 10:45:42 tsn2 ptp4l: [656387.878] rms   12 max   17 freq -63196 +/-  16 delay    27 +/-   0
+Mar 14 10:45:42 tsn2 phc2sys: [656388.428] CLOCK_REALTIME phc offset        -6 s2 freq  -15879 delay   1736
+Mar 14 10:45:43 tsn2 ptp4l: [656388.892] rms    9 max   15 freq -63184 +/-  12 delay    27 +/-   0
+Mar 14 10:45:43 tsn2 phc2sys: [656389.428] CLOCK_REALTIME phc offset        -2 s2 freq  -15877 delay   1730
+Mar 14 10:45:44 tsn2 ptp4l: [656389.904] rms   12 max   16 freq -63202 +/-  11 delay    27 +/-   0
+Mar 14 10:45:44 tsn2 phc2sys: [656390.428] CLOCK_REALTIME phc offset        16 s2 freq  -15859 delay   1686
+Mar 14 10:45:45 tsn2 ptp4l: [656390.918] rms   10 max   15 freq -63195 +/-  14 delay    27 +/-   0
+Mar 14 10:45:45 tsn2 phc2sys: [656391.429] CLOCK_REALTIME phc offset       -13 s2 freq  -15883 delay   1732
+Mar 14 10:45:46 tsn2 ptp4l: [656391.931] rms   11 max   16 freq -63194 +/-  14 delay    26 +/-   0
+Mar 14 10:45:46 tsn2 phc2sys: [656392.429] CLOCK_REALTIME phc offset       -35 s2 freq  -15909 delay   1750
+Mar 14 10:45:47 tsn2 ptp4l: [656392.941] rms   12 max   19 freq -63194 +/-  16 delay    25 +/-   0
+Mar 14 10:45:47 tsn2 phc2sys: [656393.429] CLOCK_REALTIME phc offset         9 s2 freq  -15876 delay   1737
+Mar 14 10:45:48 tsn2 ptp4l: [656393.955] rms   11 max   16 freq -63204 +/-  13 delay    25 +/-   0
+Mar 14 10:45:48 tsn2 phc2sys: [656394.429] CLOCK_REALTIME phc offset        -7 s2 freq  -15889 delay   1745
+Mar 14 10:45:49 tsn2 ptp4l: [656394.970] rms   12 max   23 freq -63192 +/-  16 delay    25 +/-   0
+Mar 14 10:45:49 tsn2 phc2sys: [656395.429] CLOCK_REALTIME phc offset        19 s2 freq  -15865 delay   1708
+Mar 14 10:45:50 tsn2 ptp4l: [656395.981] rms   13 max   18 freq -63196 +/-  18 delay    26 +/-   0
+Mar 14 10:45:50 tsn2 phc2sys: [656396.429] CLOCK_REALTIME phc offset         0 s2 freq  -15879 delay   1745
+Mar 14 10:45:51 tsn2 ptp4l: [656396.995] rms   10 max   17 freq -63197 +/-  13 delay    26 +/-   0
+Mar 14 10:45:51 tsn2 phc2sys: [656397.429] CLOCK_REALTIME phc offset        16 s2 freq  -15863 delay   1683
+Mar 14 10:45:52 tsn2 ptp4l: [656398.008] rms   12 max   15 freq -63207 +/-  15 delay    26 +/-   0
+Mar 14 10:45:52 tsn2 phc2sys: [656398.429] CLOCK_REALTIME phc offset       -14 s2 freq  -15888 delay   1726
+Mar 14 10:45:53 tsn2 ptp4l: [656399.021] rms   10 max   15 freq -63209 +/-  13 delay    25 +/-   0
+Mar 14 10:45:53 tsn2 phc2sys: [656399.429] CLOCK_REALTIME phc offset       -16 s2 freq  -15894 delay   1692
+Mar 14 10:45:54 tsn2 ptp4l: [656400.034] rms    9 max   15 freq -63205 +/-  12 delay    25 +/-   0
+Mar 14 10:45:54 tsn2 phc2sys: [656400.429] CLOCK_REALTIME phc offset       -23 s2 freq  -15906 delay   1737
+Mar 14 10:45:55 tsn2 ptp4l: [656401.048] rms   10 max   15 freq -63201 +/-  14 delay    25 +/-   0
+Mar 14 10:45:55 tsn2 phc2sys: [656401.429] CLOCK_REALTIME phc offset         6 s2 freq  -15884 delay   1725
+Mar 14 10:45:56 tsn2 ptp4l: [656402.059] rms    9 max   19 freq -63210 +/-  12 delay    25 +/-   0
+Mar 14 10:45:56 tsn2 phc2sys: [656402.429] CLOCK_REALTIME phc offset        18 s2 freq  -15870 delay   1731
+Mar 14 10:45:57 tsn2 ptp4l: [656403.071] rms   12 max   20 freq -63205 +/-  16 delay    26 +/-   0
+Mar 14 10:45:57 tsn2 phc2sys: [656403.429] CLOCK_REALTIME phc offset         2 s2 freq  -15880 delay   1732
+Mar 14 10:45:58 tsn2 ptp4l: [656404.083] rms   11 max   16 freq -63212 +/-  15 delay    26 +/-   0
+Mar 14 10:45:58 tsn2 phc2sys: [656404.429] CLOCK_REALTIME phc offset         0 s2 freq  -15882 delay   1728
+Mar 14 10:45:59 tsn2 ptp4l: [656405.097] rms    8 max   16 freq -63214 +/-  11 delay    25 +/-   0
+Mar 14 10:45:59 tsn2 phc2sys: [656405.430] CLOCK_REALTIME phc offset        -5 s2 freq  -15887 delay   1738
+Mar 14 10:46:00 tsn2 ptp4l: [656406.108] rms   12 max   21 freq -63206 +/-  15 delay    25 +/-   0
+Mar 14 10:46:00 tsn2 phc2sys: [656406.430] CLOCK_REALTIME phc offset         3 s2 freq  -15880 delay   1742
+Mar 14 10:46:01 tsn2 ptp4l: [656407.127] rms   13 max   16 freq -63211 +/-  18 delay    25 +/-   0
+Mar 14 10:46:01 tsn2 phc2sys: [656407.430] CLOCK_REALTIME phc offset         6 s2 freq  -15876 delay   1732
+Mar 14 10:46:02 tsn2 ptp4l: [656408.142] rms   11 max   17 freq -63221 +/-  13 delay    25 +/-   0
+Mar 14 10:46:02 tsn2 phc2sys: [656408.430] CLOCK_REALTIME phc offset        -9 s2 freq  -15890 delay   1729
+Mar 14 10:46:03 tsn2 ptp4l: [656409.156] rms   14 max   19 freq -63214 +/-  19 delay    27 +/-   0
+Mar 14 10:46:03 tsn2 phc2sys: [656409.430] CLOCK_REALTIME phc offset        -5 s2 freq  -15888 delay   1730
+Mar 14 10:46:04 tsn2 ptp4l: [656410.168] rms   11 max   20 freq -63219 +/-  15 delay    28 +/-   0
+Mar 14 10:46:04 tsn2 phc2sys: [656410.430] CLOCK_REALTIME phc offset         5 s2 freq  -15880 delay   1728
+Mar 14 10:46:05 tsn2 ptp4l: [656411.180] rms   10 max   20 freq -63218 +/-  14 delay    29 +/-   0
+Mar 14 10:46:05 tsn2 phc2sys: [656411.430] CLOCK_REALTIME phc offset        -6 s2 freq  -15889 delay   1742
+Mar 14 10:46:06 tsn2 ptp4l: [656412.191] rms    9 max   18 freq -63223 +/-  12 delay    29 +/-   0
+Mar 14 10:46:06 tsn2 phc2sys: [656412.430] CLOCK_REALTIME phc offset        -3 s2 freq  -15888 delay   1729
+Mar 14 10:46:07 tsn2 ptp4l: [656413.204] rms   13 max   24 freq -63216 +/-  18 delay    29 +/-   0
+Mar 14 10:46:07 tsn2 phc2sys: [656413.430] CLOCK_REALTIME phc offset         4 s2 freq  -15882 delay   1731
+Mar 14 10:46:08 tsn2 ptp4l: [656414.219] rms   12 max   16 freq -63212 +/-  16 delay    29 +/-   0
+Mar 14 10:46:08 tsn2 phc2sys: [656414.430] CLOCK_REALTIME phc offset        17 s2 freq  -15868 delay   1745
+Mar 14 10:46:09 tsn2 ptp4l: [656415.232] rms    9 max   14 freq -63222 +/-  12 delay    29 +/-   0
+Mar 14 10:46:09 tsn2 phc2sys: [656415.430] CLOCK_REALTIME phc offset        24 s2 freq  -15856 delay   1681
+Mar 14 10:46:10 tsn2 ptp4l: [656416.244] rms   11 max   16 freq -63222 +/-  16 delay    29 +/-   0
+Mar 14 10:46:10 tsn2 phc2sys: [656416.430] CLOCK_REALTIME phc offset       -22 s2 freq  -15895 delay   1728
+Mar 14 10:46:11 tsn2 ptp4l: [656417.257] rms   11 max   14 freq -63227 +/-  14 delay    29 +/-   0
+Mar 14 10:46:11 tsn2 phc2sys: [656417.430] CLOCK_REALTIME phc offset        -1 s2 freq  -15880 delay   1680
+Mar 14 10:46:12 tsn2 ptp4l: [656418.270] rms   12 max   17 freq -63221 +/-  16 delay    27 +/-   0
+Mar 14 10:46:12 tsn2 phc2sys: [656418.430] CLOCK_REALTIME phc offset       -22 s2 freq  -15901 delay   1728
+Mar 14 10:46:13 tsn2 ptp4l: [656419.286] rms   11 max   17 freq -63229 +/-  14 delay    26 +/-   0
+Mar 14 10:46:13 tsn2 phc2sys: [656419.431] CLOCK_REALTIME phc offset        17 s2 freq  -15869 delay   1681
+Mar 14 10:46:14 tsn2 ptp4l: [656420.299] rms   13 max   18 freq -63226 +/-  18 delay    24 +/-   0
+Mar 14 10:46:14 tsn2 phc2sys: [656420.431] CLOCK_REALTIME phc offset        -3 s2 freq  -15884 delay   1690
+Mar 14 10:46:15 tsn2 ptp4l: [656421.313] rms   11 max   17 freq -63231 +/-  15 delay    24 +/-   0
+Mar 14 10:46:15 tsn2 phc2sys: [656421.431] CLOCK_REALTIME phc offset       -15 s2 freq  -15897 delay   1734
+Mar 14 10:46:16 tsn2 ptp4l: [656422.323] rms    7 max   16 freq -63226 +/-   9 delay    23 +/-   0
+Mar 14 10:46:16 tsn2 phc2sys: [656422.431] CLOCK_REALTIME phc offset        -9 s2 freq  -15895 delay   1744
+Mar 14 10:46:17 tsn2 ptp4l: [656423.336] rms   11 max   18 freq -63227 +/-  15 delay    24 +/-   0
+Mar 14 10:46:17 tsn2 phc2sys: [656423.431] CLOCK_REALTIME phc offset        18 s2 freq  -15871 delay   1695
+Mar 14 10:46:18 tsn2 ptp4l: [656424.350] rms   15 max   21 freq -63233 +/-  20 delay    25 +/-   0
+Mar 14 10:46:18 tsn2 phc2sys: [656424.431] CLOCK_REALTIME phc offset        -8 s2 freq  -15892 delay   1735
+Mar 14 10:46:19 tsn2 ptp4l: [656425.364] rms   10 max   14 freq -63239 +/-  13 delay    25 +/-   0
+Mar 14 10:46:19 tsn2 phc2sys: [656425.431] CLOCK_REALTIME phc offset        -6 s2 freq  -15892 delay   1723
+Mar 14 10:46:20 tsn2 ptp4l: [656426.375] rms   13 max   18 freq -63237 +/-  17 delay    27 +/-   0
+Mar 14 10:46:20 tsn2 phc2sys: [656426.431] CLOCK_REALTIME phc offset        -2 s2 freq  -15890 delay   1730
+Mar 14 10:46:21 tsn2 ptp4l: [656427.387] rms   11 max   20 freq -63247 +/-  14 delay    31 +/-   0
+Mar 14 10:46:21 tsn2 phc2sys: [656427.431] CLOCK_REALTIME phc offset       -11 s2 freq  -15899 delay   1740
+Mar 14 10:46:22 tsn2 ptp4l: [656428.400] rms   13 max   22 freq -63238 +/-  17 delay    31 +/-   0
+Mar 14 10:46:22 tsn2 phc2sys: [656428.431] CLOCK_REALTIME phc offset         3 s2 freq  -15889 delay   1731
+Mar 14 10:46:23 tsn2 ptp4l: [656429.412] rms   14 max   20 freq -63243 +/-  19 delay    35 +/-   0
+Mar 14 10:46:23 tsn2 phc2sys: [656429.431] CLOCK_REALTIME phc offset         0 s2 freq  -15891 delay   1731
+Mar 14 10:46:24 tsn2 ptp4l: [656430.422] rms   13 max   17 freq -63240 +/-  17 delay    35 +/-   0
+Mar 14 10:46:24 tsn2 phc2sys: [656430.431] CLOCK_REALTIME phc offset        -2 s2 freq  -15893 delay   1731
+Mar 14 10:46:25 tsn2 phc2sys: [656431.431] CLOCK_REALTIME phc offset        -4 s2 freq  -15895 delay   1740
+Mar 14 10:46:25 tsn2 ptp4l: [656431.438] rms   13 max   17 freq -63239 +/-  18 delay    36 +/-   0
+Mar 14 10:46:26 tsn2 phc2sys: [656432.431] CLOCK_REALTIME phc offset        28 s2 freq  -15865 delay   1743
+Mar 14 10:46:26 tsn2 ptp4l: [656432.449] rms   11 max   16 freq -63239 +/-  16 delay    35 +/-   0
+Mar 14 10:46:27 tsn2 phc2sys: [656433.432] CLOCK_REALTIME phc offset         6 s2 freq  -15878 delay   1734
+Mar 14 10:46:27 tsn2 ptp4l: [656433.462] rms   12 max   24 freq -63246 +/-  16 delay    31 +/-   0
+Mar 14 10:46:28 tsn2 phc2sys: [656434.432] CLOCK_REALTIME phc offset       -22 s2 freq  -15904 delay   1725
+Mar 14 10:46:28 tsn2 ptp4l: [656434.475] rms   13 max   20 freq -63255 +/-  16 delay    29 +/-   0
+Mar 14 10:46:29 tsn2 phc2sys: [656435.432] CLOCK_REALTIME phc offset         2 s2 freq  -15887 delay   1717
+Mar 14 10:46:29 tsn2 ptp4l: [656435.487] rms   11 max   17 freq -63254 +/-  15 delay    32 +/-   0
+Mar 14 10:46:30 tsn2 phc2sys: [656436.432] CLOCK_REALTIME phc offset         3 s2 freq  -15885 delay   1685
+Mar 14 10:46:30 tsn2 ptp4l: [656436.499] rms   12 max   18 freq -63255 +/-  17 delay    29 +/-   0
+Mar 14 10:46:31 tsn2 phc2sys: [656437.432] CLOCK_REALTIME phc offset        72 s2 freq  -15816 delay   1926
+Mar 14 10:46:31 tsn2 ptp4l: [656437.512] rms   13 max   21 freq -63255 +/-  18 delay    30 +/-   0
+Mar 14 10:46:32 tsn2 phc2sys: [656438.432] CLOCK_REALTIME phc offset      -106 s2 freq  -15972 delay   1733
+Mar 14 10:46:32 tsn2 ptp4l: [656438.526] rms   10 max   13 freq -63257 +/-  14 delay    29 +/-   0
+Mar 14 10:46:33 tsn2 phc2sys: [656439.432] CLOCK_REALTIME phc offset       -44 s2 freq  -15942 delay   1731
+Mar 14 10:46:33 tsn2 ptp4l: [656439.537] rms   11 max   17 freq -63258 +/-  15 delay    29 +/-   0
+Mar 14 10:46:34 tsn2 phc2sys: [656440.432] CLOCK_REALTIME phc offset        14 s2 freq  -15897 delay   1728
+Mar 14 10:46:34 tsn2 ptp4l: [656440.549] rms   13 max   18 freq -63249 +/-  16 delay    29 +/-   0
+Mar 14 10:46:35 tsn2 phc2sys: [656441.432] CLOCK_REALTIME phc offset         5 s2 freq  -15902 delay   1726
+Mar 14 10:46:35 tsn2 ptp4l: [656441.565] rms   12 max   17 freq -63259 +/-  16 delay    25 +/-   0
+Mar 14 10:46:36 tsn2 phc2sys: [656442.432] CLOCK_REALTIME phc offset        28 s2 freq  -15877 delay   1738
+Mar 14 10:46:37 tsn2 ptp4l: [656442.577] rms    9 max   13 freq -63263 +/-  12 delay    26 +/-   0
+Mar 14 10:46:37 tsn2 phc2sys: [656443.432] CLOCK_REALTIME phc offset        18 s2 freq  -15879 delay   1694
+Mar 14 10:46:38 tsn2 ptp4l: [656443.589] rms   12 max   15 freq -63264 +/-  16 delay    30 +/-   0
+Mar 14 10:46:38 tsn2 phc2sys: [656444.432] CLOCK_REALTIME phc offset       -19 s2 freq  -15910 delay   1737
+Mar 14 10:46:39 tsn2 ptp4l: [656444.605] rms   10 max   18 freq -63264 +/-  14 delay    26 +/-   0
+Mar 14 10:46:39 tsn2 phc2sys: [656445.432] CLOCK_REALTIME phc offset        -7 s2 freq  -15904 delay   1725
+Mar 14 10:46:40 tsn2 ptp4l: [656445.616] rms    8 max   15 freq -63269 +/-  10 delay    23 +/-   0
+Mar 14 10:46:40 tsn2 phc2sys: [656446.432] CLOCK_REALTIME phc offset        11 s2 freq  -15888 delay   1695
+Mar 14 10:46:41 tsn2 ptp4l: [656446.639] rms    8 max   19 freq -63266 +/-  12 delay    26 +/-   0
+Mar 14 10:46:41 tsn2 phc2sys: [656447.433] CLOCK_REALTIME phc offset        -8 s2 freq  -15904 delay   1737
+Mar 14 10:46:42 tsn2 ptp4l: [656447.657] rms   13 max   18 freq -63264 +/-  17 delay    26 +/-   0
+Mar 14 10:46:42 tsn2 phc2sys: [656448.433] CLOCK_REALTIME phc offset       -10 s2 freq  -15908 delay   1748
+Mar 14 10:46:43 tsn2 ptp4l: [656448.672] rms    8 max   16 freq -63276 +/-   8 delay    29 +/-   0
+Mar 14 10:46:43 tsn2 phc2sys: [656449.433] CLOCK_REALTIME phc offset       -10 s2 freq  -15911 delay   1723
+Mar 14 10:46:44 tsn2 ptp4l: [656449.686] rms   13 max   19 freq -63276 +/-  18 delay    29 +/-   0
+Mar 14 10:46:44 tsn2 phc2sys: [656450.433] CLOCK_REALTIME phc offset        15 s2 freq  -15889 delay   1731
+Mar 14 10:46:45 tsn2 ptp4l: [656450.700] rms   12 max   16 freq -63267 +/-  16 delay    27 +/-   0
+Mar 14 10:46:45 tsn2 phc2sys: [656451.433] CLOCK_REALTIME phc offset        14 s2 freq  -15886 delay   1688
+Mar 14 10:46:46 tsn2 ptp4l: [656451.712] rms   11 max   21 freq -63283 +/-  13 delay    27 +/-   0
+Mar 14 10:46:46 tsn2 phc2sys: [656452.433] CLOCK_REALTIME phc offset       -37 s2 freq  -15933 delay   1746
+Mar 14 10:46:47 tsn2 ptp4l: [656452.724] rms   12 max   16 freq -63282 +/-  16 delay    27 +/-   0
+Mar 14 10:46:47 tsn2 phc2sys: [656453.433] CLOCK_REALTIME phc offset        -2 s2 freq  -15909 delay   1731
+Mar 14 10:46:48 tsn2 ptp4l: [656453.733] rms   11 max   17 freq -63280 +/-  15 delay    27 +/-   0
+Mar 14 10:46:48 tsn2 phc2sys: [656454.433] CLOCK_REALTIME phc offset        -4 s2 freq  -15911 delay   1740
+Mar 14 10:46:49 tsn2 ptp4l: [656454.744] rms    9 max   15 freq -63286 +/-  11 delay    27 +/-   0
+Mar 14 10:46:49 tsn2 phc2sys: [656455.433] CLOCK_REALTIME phc offset        46 s2 freq  -15863 delay   1675
+Mar 14 10:46:50 tsn2 ptp4l: [656455.756] rms   12 max   23 freq -63274 +/-  15 delay    27 +/-   0
+Mar 14 10:46:50 tsn2 phc2sys: [656456.433] CLOCK_REALTIME phc offset       -15 s2 freq  -15910 delay   1731
+Mar 14 10:46:51 tsn2 ptp4l: [656456.768] rms   10 max   13 freq -63285 +/-  13 delay    27 +/-   0
+Mar 14 10:46:51 tsn2 phc2sys: [656457.433] CLOCK_REALTIME phc offset        -3 s2 freq  -15902 delay   1717
+Mar 14 10:46:52 tsn2 ptp4l: [656457.781] rms   14 max   20 freq -63287 +/-  19 delay    25 +/-   0
+Mar 14 10:46:52 tsn2 phc2sys: [656458.433] CLOCK_REALTIME phc offset        -8 s2 freq  -15908 delay   1729
+Mar 14 10:46:53 tsn2 ptp4l: [656458.795] rms   11 max   20 freq -63280 +/-  15 delay    24 +/-   0
+Mar 14 10:46:53 tsn2 phc2sys: [656459.433] CLOCK_REALTIME phc offset        21 s2 freq  -15882 delay   1676
+Mar 14 10:46:54 tsn2 ptp4l: [656459.807] rms   14 max   22 freq -63295 +/-  17 delay    25 +/-   0
+Mar 14 10:46:54 tsn2 phc2sys: [656460.433] CLOCK_REALTIME phc offset       -35 s2 freq  -15931 delay   1732
+Mar 14 10:46:55 tsn2 ptp4l: [656460.821] rms   12 max   15 freq -63302 +/-  14 delay    28 +/-   0
+Mar 14 10:46:55 tsn2 phc2sys: [656461.434] CLOCK_REALTIME phc offset        20 s2 freq  -15887 delay   1695
+Mar 14 10:46:56 tsn2 ptp4l: [656461.834] rms   12 max   18 freq -63295 +/-  17 delay    29 +/-   0
+Mar 14 10:46:56 tsn2 phc2sys: [656462.434] CLOCK_REALTIME phc offset       -17 s2 freq  -15918 delay   1731
+Mar 14 10:46:57 tsn2 ptp4l: [656462.843] rms   10 max   17 freq -63288 +/-  13 delay    29 +/-   0
+Mar 14 10:46:57 tsn2 phc2sys: [656463.434] CLOCK_REALTIME phc offset         1 s2 freq  -15905 delay   1730
+Mar 14 10:46:58 tsn2 ptp4l: [656463.857] rms   10 max   17 freq -63300 +/-  12 delay    25 +/-   0
+Mar 14 10:46:58 tsn2 phc2sys: [656464.434] CLOCK_REALTIME phc offset        14 s2 freq  -15892 delay   1730
+Mar 14 10:46:59 tsn2 ptp4l: [656464.871] rms   12 max   17 freq -63300 +/-  17 delay    29 +/-   0
+Mar 14 10:46:59 tsn2 phc2sys: [656465.434] CLOCK_REALTIME phc offset        -9 s2 freq  -15910 delay   1716
+Mar 14 10:47:00 tsn2 ptp4l: [656465.885] rms   11 max   17 freq -63303 +/-  15 delay    33 +/-   0
+Mar 14 10:47:00 tsn2 phc2sys: [656466.434] CLOCK_REALTIME phc offset        16 s2 freq  -15888 delay   1684
+Mar 14 10:47:01 tsn2 ptp4l: [656466.897] rms   11 max   14 freq -63292 +/-  14 delay    29 +/-   0
+Mar 14 10:47:01 tsn2 phc2sys: [656467.434] CLOCK_REALTIME phc offset       -10 s2 freq  -15909 delay   1726
+Mar 14 10:47:02 tsn2 ptp4l: [656467.911] rms   14 max   21 freq -63317 +/-  12 delay    33 +/-   0
+Mar 14 10:47:02 tsn2 phc2sys: [656468.434] CLOCK_REALTIME phc offset       -31 s2 freq  -15933 delay   1730
+Mar 14 10:47:03 tsn2 ptp4l: [656468.925] rms    6 max   11 freq -63317 +/-   3 delay    33 +/-   0
+Mar 14 10:47:03 tsn2 phc2sys: [656469.434] CLOCK_REALTIME phc offset       -13 s2 freq  -15925 delay   1750
+Mar 14 10:47:04 tsn2 ptp4l: [656469.939] rms   15 max   28 freq -63296 +/-  17 delay    30 +/-   0
+Mar 14 10:47:04 tsn2 phc2sys: [656470.434] CLOCK_REALTIME phc offset        24 s2 freq  -15891 delay   1717
+Mar 14 10:47:05 tsn2 ptp4l: [656470.955] rms   11 max   20 freq -63303 +/-  16 delay    28 +/-   0
+Mar 14 10:47:05 tsn2 phc2sys: [656471.434] CLOCK_REALTIME phc offset         7 s2 freq  -15901 delay   1732
+Mar 14 10:47:06 tsn2 ptp4l: [656471.967] rms   12 max   17 freq -63313 +/-  15 delay    28 +/-   0
+Mar 14 10:47:06 tsn2 phc2sys: [656472.434] CLOCK_REALTIME phc offset        -7 s2 freq  -15913 delay   1747
+Mar 14 10:47:07 tsn2 ptp4l: [656472.982] rms   12 max   19 freq -63308 +/-  17 delay    27 +/-   0
+Mar 14 10:47:07 tsn2 phc2sys: [656473.434] CLOCK_REALTIME phc offset        19 s2 freq  -15889 delay   1743
+Mar 14 10:47:08 tsn2 ptp4l: [656473.994] rms    9 max   14 freq -63317 +/-  10 delay    27 +/-   0
+Mar 14 10:47:08 tsn2 phc2sys: [656474.434] CLOCK_REALTIME phc offset         7 s2 freq  -15896 delay   1711
+Mar 14 10:47:09 tsn2 ptp4l: [656475.009] rms   11 max   16 freq -63315 +/-  15 delay    26 +/-   0
+Mar 14 10:47:09 tsn2 phc2sys: [656475.435] CLOCK_REALTIME phc offset       -24 s2 freq  -15924 delay   1728
+Mar 14 10:47:10 tsn2 ptp4l: [656476.022] rms   11 max   16 freq -63319 +/-  14 delay    26 +/-   0
+Mar 14 10:47:10 tsn2 phc2sys: [656476.435] CLOCK_REALTIME phc offset        -9 s2 freq  -15917 delay   1732
+Mar 14 10:47:11 tsn2 ptp4l: [656477.036] rms   13 max   17 freq -63321 +/-  17 delay    26 +/-   0
+Mar 14 10:47:11 tsn2 phc2sys: [656477.435] CLOCK_REALTIME phc offset        14 s2 freq  -15896 delay   1734
+Mar 14 10:47:12 tsn2 ptp4l: [656478.049] rms   11 max   22 freq -63328 +/-  14 delay    26 +/-   0
+Mar 14 10:47:12 tsn2 phc2sys: [656478.435] CLOCK_REALTIME phc offset       -24 s2 freq  -15930 delay   1729
+Mar 14 10:47:13 tsn2 ptp4l: [656479.061] rms   14 max   19 freq -63326 +/-  19 delay    26 +/-   0
+Mar 14 10:47:13 tsn2 phc2sys: [656479.435] CLOCK_REALTIME phc offset         6 s2 freq  -15907 delay   1747
+Mar 14 10:47:14 tsn2 ptp4l: [656480.077] rms   12 max   21 freq -63330 +/-  16 delay    25 +/-   0
+Mar 14 10:47:14 tsn2 phc2sys: [656480.435] CLOCK_REALTIME phc offset         0 s2 freq  -15912 delay   1740
+Mar 14 10:47:15 tsn2 ptp4l: [656481.089] rms    8 max   13 freq -63331 +/-  11 delay    26 +/-   0
+Mar 14 10:47:15 tsn2 phc2sys: [656481.435] CLOCK_REALTIME phc offset        10 s2 freq  -15902 delay   1692
+Mar 14 10:47:16 tsn2 ptp4l: [656482.100] rms   12 max   18 freq -63326 +/-  16 delay    26 +/-   0
+Mar 14 10:47:16 tsn2 phc2sys: [656482.435] CLOCK_REALTIME phc offset       -21 s2 freq  -15930 delay   1733
+Mar 14 10:47:17 tsn2 ptp4l: [656483.112] rms   10 max   16 freq -63338 +/-  12 delay    26 +/-   0
+Mar 14 10:47:17 tsn2 phc2sys: [656483.435] CLOCK_REALTIME phc offset        21 s2 freq  -15894 delay   1691
+Mar 14 10:47:18 tsn2 ptp4l: [656484.129] rms   12 max   20 freq -63335 +/-  17 delay    26 +/-   0
+Mar 14 10:47:18 tsn2 phc2sys: [656484.435] CLOCK_REALTIME phc offset        -9 s2 freq  -15918 delay   1723
+Mar 14 10:47:19 tsn2 ptp4l: [656485.143] rms   12 max   22 freq -63334 +/-  17 delay    25 +/-   0
+Mar 14 10:47:19 tsn2 phc2sys: [656485.435] CLOCK_REALTIME phc offset       -12 s2 freq  -15923 delay   1732
+Mar 14 10:47:20 tsn2 ptp4l: [656486.156] rms   10 max   20 freq -63339 +/-  13 delay    25 +/-   0
+Mar 14 10:47:20 tsn2 phc2sys: [656486.435] CLOCK_REALTIME phc offset        -3 s2 freq  -15918 delay   1732
+Mar 14 10:47:21 tsn2 ptp4l: [656487.168] rms   10 max   20 freq -63333 +/-  13 delay    25 +/-   0
+Mar 14 10:47:21 tsn2 phc2sys: [656487.435] CLOCK_REALTIME phc offset        10 s2 freq  -15906 delay   1722
+Mar 14 10:47:22 tsn2 ptp4l: [656488.184] rms   11 max   17 freq -63334 +/-  15 delay    23 +/-   0
+Mar 14 10:47:22 tsn2 phc2sys: [656488.435] CLOCK_REALTIME phc offset       461 s2 freq  -15452 delay   2615
+Mar 14 10:47:23 tsn2 ptp4l: [656489.196] rms    8 max   17 freq -63334 +/-  11 delay    22 +/-   0
+Mar 14 10:47:23 tsn2 phc2sys: [656489.436] CLOCK_REALTIME phc offset      -430 s2 freq  -16204 delay   1690
+Mar 14 10:47:24 tsn2 ptp4l: [656490.211] rms   18 max   29 freq -63358 +/-  17 delay    22 +/-   0
+Mar 14 10:47:24 tsn2 phc2sys: [656490.436] CLOCK_REALTIME phc offset      -162 s2 freq  -16065 delay   1742
+Mar 14 10:47:25 tsn2 ptp4l: [656491.223] rms   14 max   21 freq -63353 +/-  18 delay    22 +/-   0
+Mar 14 10:47:25 tsn2 phc2sys: [656491.436] CLOCK_REALTIME phc offset       432 s2 freq  -15520 delay   2623
+Mar 14 10:47:26 tsn2 ptp4l: [656492.236] rms   11 max   19 freq -63348 +/-  15 delay    22 +/-   0
+Mar 14 10:47:26 tsn2 phc2sys: [656492.436] CLOCK_REALTIME phc offset      -412 s2 freq  -16234 delay   1733
+Mar 14 10:47:27 tsn2 ptp4l: [656493.251] rms   10 max   18 freq -63355 +/-  13 delay    22 +/-   0
+Mar 14 10:47:27 tsn2 phc2sys: [656493.436] CLOCK_REALTIME phc offset       -89 s2 freq  -16035 delay   1726
+Mar 14 10:47:28 tsn2 ptp4l: [656494.264] rms   12 max   22 freq -63348 +/-  16 delay    20 +/-   0
+Mar 14 10:47:28 tsn2 phc2sys: [656494.436] CLOCK_REALTIME phc offset        34 s2 freq  -15939 delay   1712
+Mar 14 10:47:29 tsn2 ptp4l: [656495.277] rms   11 max   18 freq -63356 +/-  15 delay    24 +/-   0
+Mar 14 10:47:29 tsn2 phc2sys: [656495.436] CLOCK_REALTIME phc offset        84 s2 freq  -15879 delay   1675
+Mar 14 10:47:30 tsn2 ptp4l: [656496.291] rms   13 max   20 freq -63351 +/-  17 delay    20 +/-   0
+Mar 14 10:47:30 tsn2 phc2sys: [656496.436] CLOCK_REALTIME phc offset        14 s2 freq  -15923 delay   1736
+Mar 14 10:47:31 tsn2 ptp4l: [656497.302] rms   11 max   14 freq -63365 +/-  11 delay    20 +/-   0
+Mar 14 10:47:31 tsn2 phc2sys: [656497.436] CLOCK_REALTIME phc offset        27 s2 freq  -15906 delay   1731
+Mar 14 10:47:32 tsn2 ptp4l: [656498.312] rms   12 max   17 freq -63358 +/-  16 delay    22 +/-   0
+Mar 14 10:47:32 tsn2 phc2sys: [656498.436] CLOCK_REALTIME phc offset        30 s2 freq  -15895 delay   1716
+Mar 14 10:47:33 tsn2 ptp4l: [656499.323] rms   13 max   19 freq -63363 +/-  17 delay    23 +/-   0
+Mar 14 10:47:33 tsn2 phc2sys: [656499.436] CLOCK_REALTIME phc offset       -13 s2 freq  -15929 delay   1731
+Mar 14 10:47:34 tsn2 ptp4l: [656500.335] rms   11 max   19 freq -63361 +/-  15 delay    26 +/-   0
+Mar 14 10:47:34 tsn2 phc2sys: [656500.436] CLOCK_REALTIME phc offset         6 s2 freq  -15914 delay   1731
+Mar 14 10:47:35 tsn2 ptp4l: [656501.348] rms   11 max   16 freq -63368 +/-  15 delay    23 +/-   0
+Mar 14 10:47:35 tsn2 phc2sys: [656501.436] CLOCK_REALTIME phc offset        12 s2 freq  -15906 delay   1728
+Mar 14 10:47:36 tsn2 ptp4l: [656502.363] rms   11 max   15 freq -63371 +/-  15 delay    23 +/-   0
+Mar 14 10:47:36 tsn2 phc2sys: [656502.436] CLOCK_REALTIME phc offset        19 s2 freq  -15896 delay   1680
+Mar 14 10:47:37 tsn2 ptp4l: [656503.376] rms    8 max   15 freq -63372 +/-  11 delay    23 +/-   0
+Mar 14 10:47:37 tsn2 phc2sys: [656503.437] CLOCK_REALTIME phc offset       -26 s2 freq  -15935 delay   1718
+Mar 14 10:47:38 tsn2 ptp4l: [656504.388] rms   11 max   21 freq -63364 +/-  14 delay    23 +/-   0
+Mar 14 10:47:38 tsn2 phc2sys: [656504.437] CLOCK_REALTIME phc offset        -7 s2 freq  -15924 delay   1746
+Mar 14 10:47:39 tsn2 ptp4l: [656505.399] rms   12 max   15 freq -63367 +/-  16 delay    23 +/-   0
+Mar 14 10:47:39 tsn2 phc2sys: [656505.437] CLOCK_REALTIME phc offset         9 s2 freq  -15910 delay   1729
+Mar 14 10:47:40 tsn2 ptp4l: [656506.412] rms   10 max   16 freq -63385 +/-   5 delay    25 +/-   0
+Mar 14 10:47:40 tsn2 phc2sys: [656506.437] CLOCK_REALTIME phc offset        -9 s2 freq  -15925 delay   1737
+Mar 14 10:47:41 tsn2 ptp4l: [656507.424] rms   10 max   16 freq -63377 +/-  14 delay    25 +/-   0
+Mar 14 10:47:41 tsn2 phc2sys: [656507.437] CLOCK_REALTIME phc offset         1 s2 freq  -15918 delay   1739
+Mar 14 10:47:42 tsn2 ptp4l: [656508.435] rms   12 max   24 freq -63374 +/-  16 delay    26 +/-   2
+Mar 14 10:47:42 tsn2 phc2sys: [656508.437] CLOCK_REALTIME phc offset        10 s2 freq  -15908 delay   1729
+Mar 14 10:47:43 tsn2 phc2sys: [656509.437] CLOCK_REALTIME phc offset         0 s2 freq  -15915 delay   1748
+Mar 14 10:47:43 tsn2 ptp4l: [656509.448] rms   10 max   16 freq -63378 +/-  13 delay    25 +/-   0
+Mar 14 10:47:44 tsn2 phc2sys: [656510.437] CLOCK_REALTIME phc offset        -5 s2 freq  -15920 delay   1731
+Mar 14 10:47:44 tsn2 ptp4l: [656510.463] rms   12 max   21 freq -63378 +/-  16 delay    28 +/-   0
+Mar 14 10:47:45 tsn2 phc2sys: [656511.437] CLOCK_REALTIME phc offset        -7 s2 freq  -15924 delay   1724
+Mar 14 10:47:45 tsn2 ptp4l: [656511.474] rms   13 max   18 freq -63387 +/-  17 delay    29 +/-   0
+Mar 14 10:47:46 tsn2 phc2sys: [656512.437] CLOCK_REALTIME phc offset        31 s2 freq  -15888 delay   1676
+Mar 14 10:47:46 tsn2 ptp4l: [656512.486] rms    9 max   19 freq -63381 +/-  13 delay    29 +/-   0
+Mar 14 10:47:47 tsn2 phc2sys: [656513.437] CLOCK_REALTIME phc offset       -38 s2 freq  -15948 delay   1729
+Mar 14 10:47:47 tsn2 ptp4l: [656513.498] rms   12 max   18 freq -63385 +/-  17 delay    29 +/-   0
+Mar 14 10:47:48 tsn2 phc2sys: [656514.437] CLOCK_REALTIME phc offset         4 s2 freq  -15917 delay   1738
+Mar 14 10:47:48 tsn2 ptp4l: [656514.514] rms   12 max   16 freq -63386 +/-  17 delay    27 +/-   0
+Mar 14 10:47:49 tsn2 phc2sys: [656515.437] CLOCK_REALTIME phc offset        -6 s2 freq  -15926 delay   1746
+Mar 14 10:47:49 tsn2 ptp4l: [656515.527] rms    9 max   15 freq -63392 +/-  11 delay    25 +/-   0
+Mar 14 10:47:50 tsn2 phc2sys: [656516.437] CLOCK_REALTIME phc offset        10 s2 freq  -15912 delay   1752
+Mar 14 10:47:50 tsn2 ptp4l: [656516.541] rms   14 max   23 freq -63378 +/-  17 delay    25 +/-   0
+Mar 14 10:47:51 tsn2 phc2sys: [656517.438] CLOCK_REALTIME phc offset        25 s2 freq  -15894 delay   1687
+Mar 14 10:47:51 tsn2 ptp4l: [656517.554] rms   10 max   17 freq -63392 +/-  12 delay    25 +/-   0
+Mar 14 10:47:52 tsn2 phc2sys: [656518.438] CLOCK_REALTIME phc offset       -12 s2 freq  -15923 delay   1729
+Mar 14 10:47:52 tsn2 ptp4l: [656518.569] rms   11 max   18 freq -63400 +/-  12 delay    24 +/-   0
+Mar 14 10:47:53 tsn2 phc2sys: [656519.438] CLOCK_REALTIME phc offset         1 s2 freq  -15914 delay   1695
+Mar 14 10:47:54 tsn2 ptp4l: [656519.581] rms   11 max   20 freq -63388 +/-  15 delay    24 +/-   0
+Mar 14 10:47:54 tsn2 phc2sys: [656520.438] CLOCK_REALTIME phc offset       -19 s2 freq  -15934 delay   1734
+Mar 14 10:47:55 tsn2 ptp4l: [656520.593] rms   13 max   20 freq -63400 +/-  17 delay    24 +/-   0
+Mar 14 10:47:55 tsn2 phc2sys: [656521.438] CLOCK_REALTIME phc offset        22 s2 freq  -15898 delay   1672
+Mar 14 10:47:56 tsn2 ptp4l: [656521.606] rms   13 max   18 freq -63391 +/-  17 delay    23 +/-   0
+Mar 14 10:47:56 tsn2 phc2sys: [656522.438] CLOCK_REALTIME phc offset       -22 s2 freq  -15936 delay   1743
+Mar 14 10:47:57 tsn2 ptp4l: [656522.620] rms   13 max   24 freq -63397 +/-  18 delay    24 +/-   0
+Mar 14 10:47:57 tsn2 phc2sys: [656523.438] CLOCK_REALTIME phc offset       -14 s2 freq  -15934 delay   1729
+Mar 14 10:47:58 tsn2 ptp4l: [656523.636] rms   14 max   21 freq -63399 +/-  19 delay    24 +/-   0
+Mar 14 10:47:58 tsn2 phc2sys: [656524.438] CLOCK_REALTIME phc offset        -6 s2 freq  -15930 delay   1726
+Mar 14 10:47:59 tsn2 ptp4l: [656524.648] rms   12 max   14 freq -63409 +/-  14 delay    25 +/-   0
+Mar 14 10:47:59 tsn2 phc2sys: [656525.438] CLOCK_REALTIME phc offset        17 s2 freq  -15909 delay   1693
+Mar 14 10:48:00 tsn2 ptp4l: [656525.662] rms   12 max   15 freq -63404 +/-  16 delay    26 +/-   0
+Mar 14 10:48:00 tsn2 phc2sys: [656526.438] CLOCK_REALTIME phc offset         1 s2 freq  -15920 delay   1680
+Mar 14 10:48:01 tsn2 ptp4l: [656526.675] rms    9 max   17 freq -63412 +/-  12 delay    26 +/-   0
+Mar 14 10:48:01 tsn2 phc2sys: [656527.438] CLOCK_REALTIME phc offset       -18 s2 freq  -15939 delay   1733
+Mar 14 10:48:02 tsn2 ptp4l: [656527.689] rms   10 max   17 freq -63406 +/-  13 delay    26 +/-   0
+Mar 14 10:48:02 tsn2 phc2sys: [656528.438] CLOCK_REALTIME phc offset        21 s2 freq  -15905 delay   1692
+Mar 14 10:48:03 tsn2 ptp4l: [656528.704] rms   11 max   22 freq -63399 +/-  14 delay    26 +/-   0
+Mar 14 10:48:03 tsn2 phc2sys: [656529.438] CLOCK_REALTIME phc offset       -13 s2 freq  -15933 delay   1712
+Mar 14 10:48:04 tsn2 ptp4l: [656529.716] rms   11 max   18 freq -63405 +/-  16 delay    26 +/-   0
+Mar 14 10:48:04 tsn2 phc2sys: [656530.438] CLOCK_REALTIME phc offset        17 s2 freq  -15907 delay   1730
+Mar 14 10:48:05 tsn2 ptp4l: [656530.733] rms   11 max   17 freq -63410 +/-  15 delay    26 +/-   0
+Mar 14 10:48:05 tsn2 phc2sys: [656531.439] CLOCK_REALTIME phc offset        11 s2 freq  -15908 delay   1685
+Mar 14 10:48:06 tsn2 ptp4l: [656531.746] rms   12 max   20 freq -63420 +/-  14 delay    26 +/-   0
+Mar 14 10:48:06 tsn2 phc2sys: [656532.439] CLOCK_REALTIME phc offset       -37 s2 freq  -15952 delay   1724
+Mar 14 10:48:07 tsn2 ptp4l: [656532.759] rms   10 max   16 freq -63411 +/-  13 delay    28 +/-   0
+Mar 14 10:48:07 tsn2 phc2sys: [656533.439] CLOCK_REALTIME phc offset         8 s2 freq  -15919 delay   1700
+Mar 14 10:48:08 tsn2 ptp4l: [656533.772] rms   11 max   17 freq -63426 +/-  11 delay    29 +/-   0
+Mar 14 10:48:08 tsn2 phc2sys: [656534.439] CLOCK_REALTIME phc offset       -21 s2 freq  -15945 delay   1730
+Mar 14 10:48:09 tsn2 ptp4l: [656534.786] rms   11 max   20 freq -63416 +/-  15 delay    29 +/-   0
+Mar 14 10:48:09 tsn2 phc2sys: [656535.439] CLOCK_REALTIME phc offset         3 s2 freq  -15927 delay   1742
+Mar 14 10:48:10 tsn2 ptp4l: [656535.800] rms   10 max   14 freq -63421 +/-  14 delay    30 +/-   0
+Mar 14 10:48:10 tsn2 phc2sys: [656536.439] CLOCK_REALTIME phc offset        27 s2 freq  -15903 delay   1676
+Mar 14 10:48:11 tsn2 ptp4l: [656536.814] rms   13 max   17 freq -63427 +/-  17 delay    29 +/-   0
+Mar 14 10:48:11 tsn2 phc2sys: [656537.439] CLOCK_REALTIME phc offset       -26 s2 freq  -15947 delay   1733
+Mar 14 10:48:12 tsn2 ptp4l: [656537.827] rms   12 max   17 freq -63417 +/-  16 delay    29 +/-   0
+Mar 14 10:48:12 tsn2 phc2sys: [656538.439] CLOCK_REALTIME phc offset       -15 s2 freq  -15944 delay   1734
+Mar 14 10:48:13 tsn2 ptp4l: [656538.839] rms   15 max   23 freq -63433 +/-  18 delay    29 +/-   0
+Mar 14 10:48:13 tsn2 phc2sys: [656539.439] CLOCK_REALTIME phc offset        28 s2 freq  -15906 delay   1686
+Mar 14 10:48:14 tsn2 ptp4l: [656539.852] rms   12 max   19 freq -63434 +/-  15 delay    30 +/-   0
+Mar 14 10:48:14 tsn2 phc2sys: [656540.439] CLOCK_REALTIME phc offset       -24 s2 freq  -15949 delay   1732
+Mar 14 10:48:15 tsn2 ptp4l: [656540.863] rms    9 max   18 freq -63434 +/-  13 delay    30 +/-   0
+Mar 14 10:48:15 tsn2 phc2sys: [656541.439] CLOCK_REALTIME phc offset       -18 s2 freq  -15951 delay   1731
+Mar 14 10:48:16 tsn2 ptp4l: [656541.880] rms   11 max   19 freq -63433 +/-  15 delay    31 +/-   0
+Mar 14 10:48:16 tsn2 phc2sys: [656542.439] CLOCK_REALTIME phc offset        40 s2 freq  -15898 delay   1679
+Mar 14 10:48:17 tsn2 ptp4l: [656542.892] rms   13 max   19 freq -63437 +/-  18 delay    31 +/-   0
+Mar 14 10:48:17 tsn2 phc2sys: [656543.439] CLOCK_REALTIME phc offset       -21 s2 freq  -15947 delay   1689
+Mar 14 10:48:18 tsn2 ptp4l: [656543.904] rms   12 max   18 freq -63442 +/-  17 delay    31 +/-   0
+Mar 14 10:48:18 tsn2 phc2sys: [656544.439] CLOCK_REALTIME phc offset       -16 s2 freq  -15948 delay   1743
+Mar 14 10:48:19 tsn2 ptp4l: [656544.916] rms   11 max   18 freq -63436 +/-  15 delay    31 +/-   0
+Mar 14 10:48:19 tsn2 phc2sys: [656545.440] CLOCK_REALTIME phc offset         3 s2 freq  -15934 delay   1728
+Mar 14 10:48:20 tsn2 ptp4l: [656545.928] rms   13 max   17 freq -63434 +/-  17 delay    30 +/-   0
+Mar 14 10:48:20 tsn2 phc2sys: [656546.440] CLOCK_REALTIME phc offset        27 s2 freq  -15909 delay   1730
+Mar 14 10:48:21 tsn2 ptp4l: [656546.942] rms   11 max   16 freq -63446 +/-  14 delay    30 +/-   0
+Mar 14 10:48:21 tsn2 phc2sys: [656547.440] CLOCK_REALTIME phc offset        -6 s2 freq  -15934 delay   1730
+Mar 14 10:48:22 tsn2 ptp4l: [656547.955] rms   12 max   17 freq -63443 +/-  17 delay    30 +/-   0
+Mar 14 10:48:22 tsn2 phc2sys: [656548.440] CLOCK_REALTIME phc offset        12 s2 freq  -15918 delay   1673
+Mar 14 10:48:23 tsn2 ptp4l: [656548.967] rms   13 max   20 freq -63444 +/-  18 delay    30 +/-   0
+Mar 14 10:48:23 tsn2 phc2sys: [656549.440] CLOCK_REALTIME phc offset        -3 s2 freq  -15929 delay   1687
+Mar 14 10:48:24 tsn2 ptp4l: [656549.976] rms   12 max   20 freq -63449 +/-  16 delay    28 +/-   0
+Mar 14 10:48:24 tsn2 phc2sys: [656550.440] CLOCK_REALTIME phc offset       -26 s2 freq  -15953 delay   1726
+Mar 14 10:48:25 tsn2 ptp4l: [656550.990] rms   11 max   20 freq -63449 +/-  14 delay    28 +/-   0
+Mar 14 10:48:25 tsn2 phc2sys: [656551.440] CLOCK_REALTIME phc offset       -10 s2 freq  -15945 delay   1744
+Mar 14 10:48:26 tsn2 ptp4l: [656552.004] rms   12 max   17 freq -63449 +/-  17 delay    28 +/-   0
+Mar 14 10:48:26 tsn2 phc2sys: [656552.440] CLOCK_REALTIME phc offset         9 s2 freq  -15929 delay   1721
+Mar 14 10:48:27 tsn2 ptp4l: [656553.016] rms   10 max   16 freq -63446 +/-  14 delay    25 +/-   0
+Mar 14 10:48:27 tsn2 phc2sys: [656553.440] CLOCK_REALTIME phc offset        19 s2 freq  -15916 delay   1728
+Mar 14 10:48:28 tsn2 ptp4l: [656554.027] rms   12 max   19 freq -63457 +/-  15 delay    25 +/-   0
+Mar 14 10:48:28 tsn2 phc2sys: [656554.440] CLOCK_REALTIME phc offset         2 s2 freq  -15928 delay   1724
+Mar 14 10:48:29 tsn2 ptp4l: [656555.043] rms   11 max   15 freq -63456 +/-  15 delay    25 +/-   0
+Mar 14 10:48:29 tsn2 phc2sys: [656555.440] CLOCK_REALTIME phc offset       -17 s2 freq  -15946 delay   1733
+Mar 14 10:48:30 tsn2 ptp4l: [656556.056] rms   13 max   19 freq -63458 +/-  18 delay    27 +/-   0
+Mar 14 10:48:30 tsn2 phc2sys: [656556.440] CLOCK_REALTIME phc offset       -10 s2 freq  -15944 delay   1733
+Mar 14 10:48:31 tsn2 ptp4l: [656557.068] rms   10 max   14 freq -63466 +/-  13 delay    29 +/-   0
+Mar 14 10:48:31 tsn2 phc2sys: [656557.440] CLOCK_REALTIME phc offset         8 s2 freq  -15929 delay   1733
+Mar 14 10:48:32 tsn2 ptp4l: [656558.081] rms   11 max   17 freq -63458 +/-  15 delay    28 +/-   0
+Mar 14 10:48:32 tsn2 phc2sys: [656558.440] CLOCK_REALTIME phc offset         4 s2 freq  -15931 delay   1727
+Mar 14 10:48:33 tsn2 ptp4l: [656559.096] rms    9 max   13 freq -63457 +/-  13 delay    29 +/-   0
+Mar 14 10:48:33 tsn2 phc2sys: [656559.440] CLOCK_REALTIME phc offset        -2 s2 freq  -15935 delay   1732
+Mar 14 10:48:34 tsn2 ptp4l: [656560.109] rms   14 max   25 freq -63466 +/-  18 delay    29 +/-   0
+Mar 14 10:48:34 tsn2 phc2sys: [656560.441] CLOCK_REALTIME phc offset         2 s2 freq  -15932 delay   1723
+Mar 14 10:48:35 tsn2 ptp4l: [656561.122] rms   13 max   21 freq -63476 +/-  15 delay    29 +/-   0
+Mar 14 10:48:35 tsn2 phc2sys: [656561.441] CLOCK_REALTIME phc offset       -11 s2 freq  -15944 delay   1735
+Mar 14 10:48:36 tsn2 ptp4l: [656562.135] rms   11 max   20 freq -63466 +/-  15 delay    29 +/-   0
+Mar 14 10:48:36 tsn2 phc2sys: [656562.441] CLOCK_REALTIME phc offset         8 s2 freq  -15929 delay   1732
+Mar 14 10:48:37 tsn2 ptp4l: [656563.148] rms   11 max   20 freq -63461 +/-  14 delay    30 +/-   0
+Mar 14 10:48:37 tsn2 phc2sys: [656563.441] CLOCK_REALTIME phc offset         1 s2 freq  -15933 delay   1735
+Mar 14 10:48:38 tsn2 ptp4l: [656564.162] rms   12 max   18 freq -63475 +/-  14 delay    30 +/-   0
+Mar 14 10:48:38 tsn2 phc2sys: [656564.441] CLOCK_REALTIME phc offset         8 s2 freq  -15926 delay   1730
+Mar 14 10:48:39 tsn2 ptp4l: [656565.175] rms   11 max   17 freq -63474 +/-  15 delay    29 +/-   0
+Mar 14 10:48:39 tsn2 phc2sys: [656565.441] CLOCK_REALTIME phc offset       441 s2 freq  -15491 delay   2600
+Mar 14 10:48:40 tsn2 ptp4l: [656566.190] rms    7 max   11 freq -63477 +/-   9 delay    29 +/-   0
+Mar 14 10:48:40 tsn2 phc2sys: [656566.441] CLOCK_REALTIME phc offset      -444 s2 freq  -16243 delay   1729
+Mar 14 10:48:41 tsn2 ptp4l: [656567.202] rms   11 max   20 freq -63472 +/-  16 delay    30 +/-   0
+Mar 14 10:48:41 tsn2 phc2sys: [656567.441] CLOCK_REALTIME phc offset      -122 s2 freq  -16055 delay   1702
+Mar 14 10:48:42 tsn2 ptp4l: [656568.215] rms    7 max   12 freq -63483 +/-   6 delay    30 +/-   0
+Mar 14 10:48:42 tsn2 phc2sys: [656568.441] CLOCK_REALTIME phc offset       -24 s2 freq  -15993 delay   1736
+Mar 14 10:48:43 tsn2 ptp4l: [656569.227] rms   11 max   20 freq -63471 +/-  14 delay    29 +/-   0
+Mar 14 10:48:43 tsn2 phc2sys: [656569.441] CLOCK_REALTIME phc offset        65 s2 freq  -15911 delay   1670
+Mar 14 10:48:44 tsn2 ptp4l: [656570.239] rms    9 max   21 freq -63475 +/-  12 delay    27 +/-   0
+Mar 14 10:48:44 tsn2 phc2sys: [656570.441] CLOCK_REALTIME phc offset        25 s2 freq  -15932 delay   1748
+Mar 14 10:48:45 tsn2 ptp4l: [656571.253] rms   10 max   18 freq -63476 +/-  14 delay    23 +/-   0
+Mar 14 10:48:45 tsn2 phc2sys: [656571.441] CLOCK_REALTIME phc offset        16 s2 freq  -15933 delay   1723
+Mar 14 10:48:46 tsn2 ptp4l: [656572.265] rms   12 max   16 freq -63482 +/-  15 delay    22 +/-   0
+Mar 14 10:48:46 tsn2 phc2sys: [656572.441] CLOCK_REALTIME phc offset        32 s2 freq  -15913 delay   1736
+Mar 14 10:48:47 tsn2 ptp4l: [656573.279] rms   13 max   19 freq -63481 +/-  18 delay    20 +/-   0
+Mar 14 10:48:47 tsn2 phc2sys: [656573.442] CLOCK_REALTIME phc offset         5 s2 freq  -15930 delay   1739
+Mar 14 10:48:48 tsn2 ptp4l: [656574.289] rms    9 max   15 freq -63487 +/-  12 delay    20 +/-   0
+Mar 14 10:48:48 tsn2 phc2sys: [656574.442] CLOCK_REALTIME phc offset        22 s2 freq  -15911 delay   1685
+Mar 14 10:48:49 tsn2 ptp4l: [656575.305] rms   12 max   16 freq -63483 +/-  16 delay    20 +/-   0
+Mar 14 10:48:49 tsn2 phc2sys: [656575.442] CLOCK_REALTIME phc offset       -19 s2 freq  -15946 delay   1730
+Mar 14 10:48:50 tsn2 ptp4l: [656576.313] rms   12 max   16 freq -63493 +/-  15 delay    20 +/-   0
+Mar 14 10:48:50 tsn2 phc2sys: [656576.442] CLOCK_REALTIME phc offset        -7 s2 freq  -15940 delay   1744
+Mar 14 10:48:51 tsn2 ptp4l: [656577.326] rms   12 max   17 freq -63497 +/-  16 delay    20 +/-   0
+Mar 14 10:48:51 tsn2 phc2sys: [656577.442] CLOCK_REALTIME phc offset         6 s2 freq  -15929 delay   1692
+Mar 14 10:48:52 tsn2 ptp4l: [656578.337] rms   12 max   20 freq -63488 +/-  16 delay    20 +/-   0
+Mar 14 10:48:52 tsn2 phc2sys: [656578.442] CLOCK_REALTIME phc offset        -8 s2 freq  -15941 delay   1716
+Mar 14 10:48:53 tsn2 ptp4l: [656579.347] rms   13 max   17 freq -63488 +/-  18 delay    21 +/-   0
+Mar 14 10:48:53 tsn2 phc2sys: [656579.442] CLOCK_REALTIME phc offset        -1 s2 freq  -15936 delay   1732
+Mar 14 10:48:54 tsn2 ptp4l: [656580.358] rms   10 max   18 freq -63492 +/-  14 delay    21 +/-   0
+Mar 14 10:48:54 tsn2 phc2sys: [656580.442] CLOCK_REALTIME phc offset         7 s2 freq  -15929 delay   1734
+Mar 14 10:48:55 tsn2 ptp4l: [656581.372] rms   15 max   23 freq -63507 +/-  17 delay    26 +/-   0
+Mar 14 10:48:55 tsn2 phc2sys: [656581.442] CLOCK_REALTIME phc offset        -6 s2 freq  -15939 delay   1734
+Mar 14 10:48:56 tsn2 ptp4l: [656582.383] rms   12 max   19 freq -63511 +/-  15 delay    32 +/-   0
+Mar 14 10:48:56 tsn2 phc2sys: [656582.442] CLOCK_REALTIME phc offset         7 s2 freq  -15928 delay   1680
+Mar 14 10:48:57 tsn2 ptp4l: [656583.394] rms    4 max    7 freq -63506 +/-   6 delay    34 +/-   0
+Mar 14 10:48:57 tsn2 phc2sys: [656583.442] CLOCK_REALTIME phc offset       -32 s2 freq  -15965 delay   1732
+Mar 14 10:48:58 tsn2 ptp4l: [656584.406] rms    8 max   21 freq -63499 +/-  10 delay    34 +/-   0
+Mar 14 10:48:58 tsn2 phc2sys: [656584.442] CLOCK_REALTIME phc offset        33 s2 freq  -15910 delay   1685
+Mar 14 10:48:59 tsn2 ptp4l: [656585.420] rms   11 max   22 freq -63494 +/-  14 delay    34 +/-   0
+Mar 14 10:48:59 tsn2 phc2sys: [656585.442] CLOCK_REALTIME phc offset       -18 s2 freq  -15951 delay   1738
+Mar 14 10:49:00 tsn2 ptp4l: [656586.435] rms   13 max   19 freq -63505 +/-  17 delay    34 +/-   0
+Mar 14 10:49:00 tsn2 phc2sys: [656586.442] CLOCK_REALTIME phc offset         4 s2 freq  -15934 delay   1738
+Mar 14 10:49:01 tsn2 phc2sys: [656587.442] CLOCK_REALTIME phc offset         4 s2 freq  -15933 delay   1743
+Mar 14 10:49:01 tsn2 ptp4l: [656587.447] rms   12 max   17 freq -63504 +/-  16 delay    34 +/-   0
+Mar 14 10:49:02 tsn2 phc2sys: [656588.443] CLOCK_REALTIME phc offset         2 s2 freq  -15934 delay   1733
+Mar 14 10:49:02 tsn2 ptp4l: [656588.459] rms   11 max   19 freq -63510 +/-  15 delay    32 +/-   0
+Mar 14 10:49:03 tsn2 phc2sys: [656589.443] CLOCK_REALTIME phc offset        17 s2 freq  -15918 delay   1734
+Mar 14 10:49:03 tsn2 ptp4l: [656589.473] rms   10 max   18 freq -63504 +/-  14 delay    30 +/-   0
+Mar 14 10:49:04 tsn2 phc2sys: [656590.443] CLOCK_REALTIME phc offset         6 s2 freq  -15924 delay   1702
+Mar 14 10:49:04 tsn2 ptp4l: [656590.485] rms   11 max   21 freq -63519 +/-  11 delay    28 +/-   0
+Mar 14 10:49:05 tsn2 phc2sys: [656591.443] CLOCK_REALTIME phc offset       -16 s2 freq  -15944 delay   1723
+Mar 14 10:49:05 tsn2 ptp4l: [656591.494] rms   10 max   17 freq -63510 +/-  13 delay    26 +/-   0
+Mar 14 10:49:06 tsn2 phc2sys: [656592.443] CLOCK_REALTIME phc offset        -6 s2 freq  -15939 delay   1726
+Mar 14 10:49:06 tsn2 ptp4l: [656592.506] rms   12 max   19 freq -63504 +/-  15 delay    25 +/-   0
+Mar 14 10:49:07 tsn2 phc2sys: [656593.443] CLOCK_REALTIME phc offset        10 s2 freq  -15925 delay   1732
+Mar 14 10:49:07 tsn2 ptp4l: [656593.520] rms   11 max   15 freq -63513 +/-  15 delay    25 +/-   0
+Mar 14 10:49:08 tsn2 phc2sys: [656594.443] CLOCK_REALTIME phc offset         1 s2 freq  -15931 delay   1731
+Mar 14 10:49:08 tsn2 ptp4l: [656594.532] rms   10 max   17 freq -63514 +/-  14 delay    25 +/-   0
+Mar 14 10:49:09 tsn2 phc2sys: [656595.443] CLOCK_REALTIME phc offset       -21 s2 freq  -15953 delay   1735
+Mar 14 10:49:09 tsn2 ptp4l: [656595.544] rms   12 max   16 freq -63522 +/-  15 delay    26 +/-   0
+Mar 14 10:49:10 tsn2 phc2sys: [656596.443] CLOCK_REALTIME phc offset        10 s2 freq  -15928 delay   1724
+Mar 14 10:49:10 tsn2 ptp4l: [656596.554] rms   11 max   18 freq -63520 +/-  15 delay    26 +/-   0
+Mar 14 10:49:11 tsn2 phc2sys: [656597.443] CLOCK_REALTIME phc offset        -1 s2 freq  -15936 delay   1725
+Mar 14 10:49:11 tsn2 ptp4l: [656597.566] rms   14 max   18 freq -63520 +/-  20 delay    26 +/-   0
+Mar 14 10:49:12 tsn2 phc2sys: [656598.443] CLOCK_REALTIME phc offset        -7 s2 freq  -15942 delay   1748
+Mar 14 10:49:13 tsn2 ptp4l: [656598.578] rms   12 max   16 freq -63521 +/-  16 delay    24 +/-   0
+Mar 14 10:49:13 tsn2 phc2sys: [656599.443] CLOCK_REALTIME phc offset        -7 s2 freq  -15944 delay   1747
+Mar 14 10:49:14 tsn2 ptp4l: [656599.591] rms   11 max   15 freq -63521 +/-  14 delay    24 +/-   0
+Mar 14 10:49:14 tsn2 phc2sys: [656600.443] CLOCK_REALTIME phc offset         9 s2 freq  -15930 delay   1733
+Mar 14 10:49:15 tsn2 ptp4l: [656600.601] rms   11 max   19 freq -63530 +/-  13 delay    24 +/-   0
+Mar 14 10:49:15 tsn2 phc2sys: [656601.443] CLOCK_REALTIME phc offset         2 s2 freq  -15935 delay   1745
+Mar 14 10:49:16 tsn2 ptp4l: [656601.616] rms   12 max   18 freq -63525 +/-  16 delay    25 +/-   0
+Mar 14 10:49:16 tsn2 phc2sys: [656602.444] CLOCK_REALTIME phc offset        18 s2 freq  -15918 delay   1723
+Mar 14 10:49:17 tsn2 ptp4l: [656602.630] rms   14 max   19 freq -63529 +/-  20 delay    25 +/-   0
+Mar 14 10:49:17 tsn2 phc2sys: [656603.444] CLOCK_REALTIME phc offset       -10 s2 freq  -15941 delay   1732
+Mar 14 10:49:18 tsn2 ptp4l: [656603.643] rms   10 max   23 freq -63535 +/-  14 delay    25 +/-   0
+Mar 14 10:49:18 tsn2 phc2sys: [656604.444] CLOCK_REALTIME phc offset        -4 s2 freq  -15938 delay   1722
+Mar 14 10:49:19 tsn2 ptp4l: [656604.655] rms    9 max   20 freq -63532 +/-  12 delay    26 +/-   0
+Mar 14 10:49:19 tsn2 phc2sys: [656605.444] CLOCK_REALTIME phc offset        24 s2 freq  -15911 delay   1683
+Mar 14 10:49:20 tsn2 ptp4l: [656605.667] rms   11 max   18 freq -63531 +/-  15 delay    26 +/-   0
+Mar 14 10:49:20 tsn2 phc2sys: [656606.444] CLOCK_REALTIME phc offset       -20 s2 freq  -15948 delay   1743
+Mar 14 10:49:21 tsn2 ptp4l: [656606.679] rms    9 max   15 freq -63536 +/-  13 delay    27 +/-   0
+Mar 14 10:49:21 tsn2 phc2sys: [656607.444] CLOCK_REALTIME phc offset       -14 s2 freq  -15948 delay   1731
+Mar 14 10:49:22 tsn2 ptp4l: [656607.695] rms    3 max    6 freq -63540 +/-   3 delay    27 +/-   0
+Mar 14 10:49:22 tsn2 phc2sys: [656608.444] CLOCK_REALTIME phc offset         2 s2 freq  -15936 delay   1726
+Mar 14 10:49:23 tsn2 ptp4l: [656608.707] rms   15 max   19 freq -63529 +/-  20 delay    27 +/-   0
+Mar 14 10:49:23 tsn2 phc2sys: [656609.444] CLOCK_REALTIME phc offset         9 s2 freq  -15928 delay   1728
+Mar 14 10:49:24 tsn2 ptp4l: [656609.719] rms   12 max   20 freq -63533 +/-  17 delay    27 +/-   0
+Mar 14 10:49:24 tsn2 phc2sys: [656610.444] CLOCK_REALTIME phc offset       -13 s2 freq  -15948 delay   1740
+Mar 14 10:49:25 tsn2 ptp4l: [656610.731] rms   11 max   17 freq -63543 +/-  14 delay    25 +/-   0
+Mar 14 10:49:25 tsn2 phc2sys: [656611.444] CLOCK_REALTIME phc offset        22 s2 freq  -15917 delay   1712
+Mar 14 10:49:26 tsn2 ptp4l: [656611.744] rms   15 max   19 freq -63540 +/-  20 delay    27 +/-   0
+Mar 14 10:49:26 tsn2 phc2sys: [656612.444] CLOCK_REALTIME phc offset        -9 s2 freq  -15941 delay   1728
+Mar 14 10:49:27 tsn2 ptp4l: [656612.758] rms   12 max   17 freq -63543 +/-  16 delay    27 +/-   0
+Mar 14 10:49:27 tsn2 phc2sys: [656613.444] CLOCK_REALTIME phc offset        16 s2 freq  -15919 delay   1729
+Mar 14 10:49:28 tsn2 ptp4l: [656613.769] rms   10 max   16 freq -63540 +/-  13 delay    25 +/-   0
+Mar 14 10:49:28 tsn2 phc2sys: [656614.444] CLOCK_REALTIME phc offset        -2 s2 freq  -15932 delay   1736
+Mar 14 10:49:29 tsn2 ptp4l: [656614.783] rms   13 max   24 freq -63539 +/-  18 delay    23 +/-   0
+Mar 14 10:49:29 tsn2 phc2sys: [656615.444] CLOCK_REALTIME phc offset        -6 s2 freq  -15936 delay   1729
+Mar 14 10:49:30 tsn2 ptp4l: [656615.796] rms   15 max   18 freq -63561 +/-  14 delay    23 +/-   0
+Mar 14 10:49:30 tsn2 phc2sys: [656616.445] CLOCK_REALTIME phc offset        -4 s2 freq  -15936 delay   1734
+Mar 14 10:49:31 tsn2 ptp4l: [656616.809] rms   11 max   15 freq -63544 +/-  15 delay    23 +/-   0
+Mar 14 10:49:31 tsn2 phc2sys: [656617.445] CLOCK_REALTIME phc offset        -9 s2 freq  -15942 delay   1732
+Mar 14 10:49:32 tsn2 ptp4l: [656617.821] rms   11 max   16 freq -63546 +/-  15 delay    23 +/-   0
+Mar 14 10:49:32 tsn2 phc2sys: [656618.445] CLOCK_REALTIME phc offset        -3 s2 freq  -15939 delay   1723
+Mar 14 10:49:33 tsn2 ptp4l: [656618.835] rms   12 max   18 freq -63555 +/-  15 delay    23 +/-   0
+Mar 14 10:49:33 tsn2 phc2sys: [656619.445] CLOCK_REALTIME phc offset       481 s2 freq  -15456 delay   2576
+Mar 14 10:49:34 tsn2 ptp4l: [656619.848] rms   13 max   23 freq -63554 +/-  17 delay    28 +/-   0
+Mar 14 10:49:34 tsn2 phc2sys: [656620.445] CLOCK_REALTIME phc offset      -469 s2 freq  -16262 delay   1718
+Mar 14 10:49:35 tsn2 ptp4l: [656620.860] rms   14 max   21 freq -63564 +/-  18 delay    31 +/-   0
+Mar 14 10:49:35 tsn2 phc2sys: [656621.445] CLOCK_REALTIME phc offset      -151 s2 freq  -16084 delay   1694
+Mar 14 10:49:36 tsn2 ptp4l: [656621.871] rms   12 max   18 freq -63560 +/-  17 delay    31 +/-   0
+Mar 14 10:49:36 tsn2 phc2sys: [656622.445] CLOCK_REALTIME phc offset         9 s2 freq  -15970 delay   1676
+Mar 14 10:49:37 tsn2 ptp4l: [656622.886] rms   13 max   18 freq -63556 +/-  18 delay    33 +/-   0
+Mar 14 10:49:37 tsn2 phc2sys: [656623.445] CLOCK_REALTIME phc offset        22 s2 freq  -15954 delay   1736
+Mar 14 10:49:38 tsn2 ptp4l: [656623.899] rms   12 max   16 freq -63562 +/-  16 delay    33 +/-   0
+Mar 14 10:49:38 tsn2 phc2sys: [656624.445] CLOCK_REALTIME phc offset       454 s2 freq  -15515 delay   2841
+Mar 14 10:49:39 tsn2 ptp4l: [656624.913] rms   11 max   19 freq -63560 +/-  15 delay    34 +/-   0
+Mar 14 10:49:39 tsn2 phc2sys: [656625.446] CLOCK_REALTIME phc offset        98 s2 freq  -15735 delay   2835
+Mar 14 10:49:40 tsn2 ptp4l: [656625.926] rms   12 max   15 freq -63556 +/-  16 delay    34 +/-   0
+Mar 14 10:49:40 tsn2 phc2sys: [656626.446] CLOCK_REALTIME phc offset      -159 s2 freq  -15963 delay   2831
+Mar 14 10:49:41 tsn2 ptp4l: [656626.937] rms   13 max   16 freq -63559 +/-  18 delay    33 +/-   0
+Mar 14 10:49:41 tsn2 phc2sys: [656627.446] CLOCK_REALTIME phc offset      -130 s2 freq  -15982 delay   2842
+Mar 14 10:49:42 tsn2 ptp4l: [656627.951] rms   11 max   15 freq -63570 +/-  13 delay    33 +/-   0
+Mar 14 10:49:42 tsn2 phc2sys: [656628.446] CLOCK_REALTIME phc offset       -69 s2 freq  -15960 delay   2841
+Mar 14 10:49:43 tsn2 ptp4l: [656628.967] rms   13 max   19 freq -63559 +/-  18 delay    32 +/-   0
+Mar 14 10:49:43 tsn2 phc2sys: [656629.447] CLOCK_REALTIME phc offset       -57 s2 freq  -15968 delay   2826
+Mar 14 10:49:44 tsn2 ptp4l: [656629.979] rms   14 max   21 freq -63564 +/-  20 delay    29 +/-   0
+Mar 14 10:49:44 tsn2 phc2sys: [656630.447] CLOCK_REALTIME phc offset      -435 s2 freq  -16363 delay   1719
+Mar 14 10:49:45 tsn2 ptp4l: [656630.990] rms   11 max   13 freq -63567 +/-  14 delay    27 +/-   0
+Mar 14 10:49:45 tsn2 phc2sys: [656631.447] CLOCK_REALTIME phc offset       403 s2 freq  -15656 delay   2823
+Mar 14 10:49:46 tsn2 ptp4l: [656632.003] rms   11 max   15 freq -63580 +/-   8 delay    27 +/-   0
+Mar 14 10:49:46 tsn2 phc2sys: [656632.447] CLOCK_REALTIME phc offset       158 s2 freq  -15780 delay   2839
+Mar 14 10:49:47 tsn2 ptp4l: [656633.018] rms   14 max   24 freq -63561 +/-  18 delay    24 +/-   0
+Mar 14 10:49:47 tsn2 phc2sys: [656633.447] CLOCK_REALTIME phc offset       -45 s2 freq  -15936 delay   2828
+Mar 14 10:49:48 tsn2 ptp4l: [656634.031] rms   12 max   19 freq -63568 +/-  17 delay    27 +/-   0
+Mar 14 10:49:48 tsn2 phc2sys: [656634.448] CLOCK_REALTIME phc offset       -14 s2 freq  -15918 delay   2823
+Mar 14 10:49:49 tsn2 ptp4l: [656635.046] rms   11 max   15 freq -63581 +/-  12 delay    25 +/-   0
+Mar 14 10:49:49 tsn2 phc2sys: [656635.448] CLOCK_REALTIME phc offset       -39 s2 freq  -15947 delay   2837
+Mar 14 10:49:50 tsn2 ptp4l: [656636.060] rms   12 max   24 freq -63566 +/-  15 delay    25 +/-   0
+Mar 14 10:49:50 tsn2 phc2sys: [656636.448] CLOCK_REALTIME phc offset       -27 s2 freq  -15947 delay   2840
+Mar 14 10:49:51 tsn2 ptp4l: [656637.075] rms   13 max   20 freq -63573 +/-  18 delay    27 +/-   0
+Mar 14 10:49:51 tsn2 phc2sys: [656637.448] CLOCK_REALTIME phc offset        -6 s2 freq  -15934 delay   2819
+Mar 14 10:49:52 tsn2 ptp4l: [656638.087] rms   11 max   17 freq -63584 +/-  13 delay    27 +/-   0
+Mar 14 10:49:52 tsn2 phc2sys: [656638.449] CLOCK_REALTIME phc offset        -9 s2 freq  -15939 delay   2818
+Mar 14 10:49:53 tsn2 ptp4l: [656639.102] rms    7 max   15 freq -63583 +/-  10 delay    29 +/-   0
+Mar 14 10:49:53 tsn2 phc2sys: [656639.449] CLOCK_REALTIME phc offset       -27 s2 freq  -15960 delay   2825
+Mar 14 10:49:54 tsn2 ptp4l: [656640.116] rms    9 max   21 freq -63576 +/-  11 delay    29 +/-   0
+Mar 14 10:49:54 tsn2 phc2sys: [656640.449] CLOCK_REALTIME phc offset         7 s2 freq  -15934 delay   2833
+Mar 14 10:49:55 tsn2 ptp4l: [656641.128] rms    9 max   15 freq -63573 +/-  12 delay    30 +/-   0
+Mar 14 10:49:55 tsn2 phc2sys: [656641.449] CLOCK_REALTIME phc offset         4 s2 freq  -15935 delay   2818
+Mar 14 10:49:56 tsn2 ptp4l: [656642.141] rms   13 max   17 freq -63582 +/-  17 delay    29 +/-   0
+Mar 14 10:49:56 tsn2 phc2sys: [656642.450] CLOCK_REALTIME phc offset        -6 s2 freq  -15943 delay   2818
+Mar 14 10:49:57 tsn2 ptp4l: [656643.153] rms   11 max   17 freq -63587 +/-  14 delay    31 +/-   0
+Mar 14 10:49:57 tsn2 phc2sys: [656643.450] CLOCK_REALTIME phc offset       -14 s2 freq  -15953 delay   2838
+Mar 14 10:49:58 tsn2 ptp4l: [656644.166] rms   10 max   16 freq -63581 +/-  13 delay    31 +/-   0
+Mar 14 10:49:58 tsn2 phc2sys: [656644.450] CLOCK_REALTIME phc offset        25 s2 freq  -15918 delay   2846
+Mar 14 10:49:59 tsn2 ptp4l: [656645.179] rms   11 max   18 freq -63594 +/-  13 delay    33 +/-   0
+Mar 14 10:49:59 tsn2 phc2sys: [656645.450] CLOCK_REALTIME phc offset        13 s2 freq  -15923 delay   2838
+Mar 14 10:50:00 tsn2 ptp4l: [656646.190] rms   12 max   22 freq -63591 +/-  16 delay    34 +/-   0
+Mar 14 10:50:00 tsn2 phc2sys: [656646.451] CLOCK_REALTIME phc offset       -28 s2 freq  -15960 delay   2852
+Mar 14 10:50:01 tsn2 ptp4l: [656647.206] rms   13 max   20 freq -63586 +/-  18 delay    33 +/-   0
+Mar 14 10:50:01 tsn2 phc2sys: [656647.451] CLOCK_REALTIME phc offset        58 s2 freq  -15882 delay   2843
+Mar 14 10:50:02 tsn2 ptp4l: [656648.218] rms    8 max   19 freq -63586 +/-  11 delay    30 +/-   0
+Mar 14 10:50:02 tsn2 phc2sys: [656648.451] CLOCK_REALTIME phc offset       -32 s2 freq  -15955 delay   2818
+Mar 14 10:50:03 tsn2 ptp4l: [656649.230] rms    9 max   20 freq -63589 +/-  12 delay    28 +/-   0
+Mar 14 10:50:03 tsn2 phc2sys: [656649.451] CLOCK_REALTIME phc offset       -16 s2 freq  -15949 delay   2814
+Mar 14 10:50:04 tsn2 ptp4l: [656650.242] rms   14 max   22 freq -63589 +/-  19 delay    30 +/-   0
+Mar 14 10:50:04 tsn2 phc2sys: [656650.452] CLOCK_REALTIME phc offset       -15 s2 freq  -15952 delay   2837
+Mar 14 10:50:05 tsn2 ptp4l: [656651.254] rms    6 max   14 freq -63599 +/-   6 delay    28 +/-   0
+Mar 14 10:50:05 tsn2 phc2sys: [656651.452] CLOCK_REALTIME phc offset        11 s2 freq  -15931 delay   2819
+Mar 14 10:50:06 tsn2 ptp4l: [656652.268] rms   10 max   20 freq -63590 +/-  13 delay    28 +/-   0
+Mar 14 10:50:06 tsn2 phc2sys: [656652.452] CLOCK_REALTIME phc offset        15 s2 freq  -15924 delay   2820
+Mar 14 10:50:07 tsn2 ptp4l: [656653.278] rms   12 max   22 freq -63597 +/-  17 delay    25 +/-   0
+Mar 14 10:50:07 tsn2 phc2sys: [656653.452] CLOCK_REALTIME phc offset         0 s2 freq  -15934 delay   2850
+Mar 14 10:50:08 tsn2 ptp4l: [656654.290] rms   12 max   16 freq -63596 +/-  17 delay    22 +/-   0
+Mar 14 10:50:08 tsn2 phc2sys: [656654.453] CLOCK_REALTIME phc offset        21 s2 freq  -15913 delay   2820
+Mar 14 10:50:09 tsn2 ptp4l: [656655.300] rms   10 max   20 freq -63601 +/-  13 delay    22 +/-   0
+Mar 14 10:50:09 tsn2 phc2sys: [656655.453] CLOCK_REALTIME phc offset        -2 s2 freq  -15930 delay   2809
+Mar 14 10:50:10 tsn2 ptp4l: [656656.311] rms   10 max   18 freq -63598 +/-  14 delay    21 +/-   0
+Mar 14 10:50:10 tsn2 phc2sys: [656656.453] CLOCK_REALTIME phc offset       -15 s2 freq  -15943 delay   2810
+Mar 14 10:50:11 tsn2 ptp4l: [656657.326] rms    9 max   14 freq -63601 +/-  13 delay    21 +/-   0
+Mar 14 10:50:11 tsn2 phc2sys: [656657.453] CLOCK_REALTIME phc offset       -11 s2 freq  -15944 delay   2809
+Mar 14 10:50:12 tsn2 ptp4l: [656658.342] rms    9 max   15 freq -63607 +/-  12 delay    22 +/-   0
+Mar 14 10:50:12 tsn2 phc2sys: [656658.454] CLOCK_REALTIME phc offset        47 s2 freq  -15889 delay   2810
+Mar 14 10:50:13 tsn2 ptp4l: [656659.358] rms   13 max   18 freq -63593 +/-  16 delay    21 +/-   0
+Mar 14 10:50:13 tsn2 phc2sys: [656659.454] CLOCK_REALTIME phc offset       -16 s2 freq  -15938 delay   2819
+Mar 14 10:50:14 tsn2 ptp4l: [656660.371] rms   13 max   17 freq -63603 +/-  18 delay    21 +/-   0
+Mar 14 10:50:14 tsn2 phc2sys: [656660.454] CLOCK_REALTIME phc offset       -32 s2 freq  -15959 delay   2833
+Mar 14 10:50:15 tsn2 ptp4l: [656661.382] rms   12 max   15 freq -63611 +/-  15 delay    22 +/-   0
+Mar 14 10:50:15 tsn2 phc2sys: [656661.454] CLOCK_REALTIME phc offset        -9 s2 freq  -15945 delay   2833
+Mar 14 10:50:16 tsn2 ptp4l: [656662.395] rms   11 max   20 freq -63610 +/-  15 delay    23 +/-   0
+Mar 14 10:50:16 tsn2 phc2sys: [656662.455] CLOCK_REALTIME phc offset       -14 s2 freq  -15953 delay   2810
+Mar 14 10:50:17 tsn2 ptp4l: [656663.408] rms    9 max   17 freq -63606 +/-  12 delay    23 +/-   0
+Mar 14 10:50:17 tsn2 phc2sys: [656663.455] CLOCK_REALTIME phc offset        37 s2 freq  -15906 delay   2822
+Mar 14 10:50:18 tsn2 ptp4l: [656664.420] rms    9 max   16 freq -63615 +/-  11 delay    26 +/-   0
+Mar 14 10:50:18 tsn2 phc2sys: [656664.455] CLOCK_REALTIME phc offset         0 s2 freq  -15932 delay   2825
+Mar 14 10:50:19 tsn2 ptp4l: [656665.434] rms    9 max   19 freq -63608 +/-  13 delay    29 +/-   0
+Mar 14 10:50:19 tsn2 phc2sys: [656665.455] CLOCK_REALTIME phc offset       -10 s2 freq  -15942 delay   2817
+Mar 14 10:50:20 tsn2 ptp4l: [656666.447] rms   11 max   16 freq -63604 +/-  15 delay    29 +/-   0
+Mar 14 10:50:20 tsn2 phc2sys: [656666.456] CLOCK_REALTIME phc offset       -15 s2 freq  -15950 delay   2818
+Mar 14 10:50:21 tsn2 phc2sys: [656667.456] CLOCK_REALTIME phc offset         0 s2 freq  -15940 delay   2817
+Mar 14 10:50:21 tsn2 ptp4l: [656667.457] rms   11 max   15 freq -63616 +/-  13 delay    29 +/-   0
+Mar 14 10:50:22 tsn2 phc2sys: [656668.456] CLOCK_REALTIME phc offset         9 s2 freq  -15931 delay   2822
+Mar 14 10:50:22 tsn2 ptp4l: [656668.467] rms   10 max   17 freq -63611 +/-  14 delay    29 +/-   0
+Mar 14 10:50:23 tsn2 phc2sys: [656669.456] CLOCK_REALTIME phc offset        31 s2 freq  -15906 delay   2825
+Mar 14 10:50:23 tsn2 ptp4l: [656669.480] rms   12 max   20 freq -63607 +/-  16 delay    29 +/-   0
+Mar 14 10:50:24 tsn2 phc2sys: [656670.456] CLOCK_REALTIME phc offset       -23 s2 freq  -15951 delay   2824
+Mar 14 10:50:24 tsn2 ptp4l: [656670.490] rms   12 max   21 freq -63621 +/-  14 delay    30 +/-   0
+Mar 14 10:50:25 tsn2 phc2sys: [656671.457] CLOCK_REALTIME phc offset       -32 s2 freq  -15967 delay   2828
+Mar 14 10:50:25 tsn2 ptp4l: [656671.504] rms   12 max   16 freq -63626 +/-  15 delay    30 +/-   0
+Mar 14 10:50:26 tsn2 phc2sys: [656672.457] CLOCK_REALTIME phc offset        29 s2 freq  -15915 delay   2826
+Mar 14 10:50:26 tsn2 ptp4l: [656672.519] rms    7 max   15 freq -63619 +/-  10 delay    30 +/-   0
+Mar 14 10:50:27 tsn2 phc2sys: [656673.457] CLOCK_REALTIME phc offset        21 s2 freq  -15915 delay   2805
+Mar 14 10:50:27 tsn2 ptp4l: [656673.531] rms   12 max   19 freq -63603 +/-  12 delay    30 +/-   0
+Mar 14 10:50:28 tsn2 phc2sys: [656674.458] CLOCK_REALTIME phc offset        -3 s2 freq  -15932 delay   2836
+Mar 14 10:50:28 tsn2 ptp4l: [656674.545] rms   10 max   16 freq -63625 +/-   9 delay    29 +/-   0
+Mar 14 10:50:29 tsn2 phc2sys: [656675.458] CLOCK_REALTIME phc offset         1 s2 freq  -15929 delay   2830
+Mar 14 10:50:29 tsn2 ptp4l: [656675.556] rms   11 max   16 freq -63619 +/-  15 delay    30 +/-   0
+Mar 14 10:50:30 tsn2 phc2sys: [656676.458] CLOCK_REALTIME phc offset       -16 s2 freq  -15946 delay   2815
+Mar 14 10:50:30 tsn2 ptp4l: [656676.568] rms   12 max   17 freq -63614 +/-  17 delay    30 +/-   0
+Mar 14 10:50:31 tsn2 phc2sys: [656677.458] CLOCK_REALTIME phc offset        30 s2 freq  -15905 delay   2827
+Mar 14 10:50:32 tsn2 ptp4l: [656677.579] rms   10 max   16 freq -63620 +/-  13 delay    33 +/-   0
+Mar 14 10:50:32 tsn2 phc2sys: [656678.458] CLOCK_REALTIME phc offset         0 s2 freq  -15926 delay   2825
+Mar 14 10:50:33 tsn2 ptp4l: [656678.593] rms    9 max   13 freq -63619 +/-  12 delay    33 +/-   0
+Mar 14 10:50:33 tsn2 phc2sys: [656679.459] CLOCK_REALTIME phc offset         2 s2 freq  -15924 delay   2819
+Mar 14 10:50:34 tsn2 ptp4l: [656679.605] rms   13 max   21 freq -63619 +/-  18 delay    33 +/-   0
+Mar 14 10:50:34 tsn2 phc2sys: [656680.459] CLOCK_REALTIME phc offset       -10 s2 freq  -15935 delay   2829
+Mar 14 10:50:35 tsn2 ptp4l: [656680.622] rms   13 max   19 freq -63622 +/-  18 delay    33 +/-   0
+Mar 14 10:50:35 tsn2 phc2sys: [656681.459] CLOCK_REALTIME phc offset         5 s2 freq  -15923 delay   2821
+Mar 14 10:50:36 tsn2 ptp4l: [656681.633] rms   12 max   19 freq -63620 +/-  16 delay    29 +/-   0
+Mar 14 10:50:36 tsn2 phc2sys: [656682.459] CLOCK_REALTIME phc offset        -4 s2 freq  -15931 delay   2811
+Mar 14 10:50:37 tsn2 ptp4l: [656682.645] rms    9 max   13 freq -63621 +/-  12 delay    27 +/-   0
+Mar 14 10:50:37 tsn2 phc2sys: [656683.460] CLOCK_REALTIME phc offset        -6 s2 freq  -15934 delay   2809
+Mar 14 10:50:38 tsn2 ptp4l: [656683.660] rms    9 max   17 freq -63628 +/-  11 delay    26 +/-   0
+Mar 14 10:50:38 tsn2 phc2sys: [656684.460] CLOCK_REALTIME phc offset         5 s2 freq  -15925 delay   2819
+Mar 14 10:50:39 tsn2 ptp4l: [656684.674] rms    8 max   17 freq -63629 +/-  11 delay    25 +/-   0
+Mar 14 10:50:39 tsn2 phc2sys: [656685.460] CLOCK_REALTIME phc offset        13 s2 freq  -15915 delay   2819
+Mar 14 10:50:40 tsn2 ptp4l: [656685.685] rms   12 max   17 freq -63620 +/-  15 delay    23 +/-   0
+Mar 14 10:50:40 tsn2 phc2sys: [656686.460] CLOCK_REALTIME phc offset         2 s2 freq  -15922 delay   2821
+Mar 14 10:50:41 tsn2 ptp4l: [656686.695] rms   13 max   16 freq -63634 +/-  17 delay    23 +/-   0
+Mar 14 10:50:41 tsn2 phc2sys: [656687.461] CLOCK_REALTIME phc offset         5 s2 freq  -15919 delay   2820
+Mar 14 10:50:42 tsn2 ptp4l: [656687.708] rms   12 max   19 freq -63627 +/-  17 delay    23 +/-   0
+Mar 14 10:50:42 tsn2 phc2sys: [656688.461] CLOCK_REALTIME phc offset        -4 s2 freq  -15926 delay   2823
+Mar 14 10:50:43 tsn2 ptp4l: [656688.722] rms    4 max    8 freq -63632 +/-   6 delay    23 +/-   0
+Mar 14 10:50:43 tsn2 phc2sys: [656689.461] CLOCK_REALTIME phc offset      -459 s2 freq  -16382 delay   1744
+Mar 14 10:50:44 tsn2 ptp4l: [656689.734] rms   13 max   21 freq -63625 +/-  17 delay    23 +/-   0
+Mar 14 10:50:44 tsn2 phc2sys: [656690.461] CLOCK_REALTIME phc offset         9 s2 freq  -16052 delay   1714
+Mar 14 10:50:45 tsn2 ptp4l: [656690.747] rms   11 max   16 freq -63636 +/-  14 delay    24 +/-   0
+Mar 14 10:50:45 tsn2 phc2sys: [656691.461] CLOCK_REALTIME phc offset       126 s2 freq  -15932 delay   1729
+Mar 14 10:50:46 tsn2 ptp4l: [656691.761] rms   11 max   15 freq -63631 +/-  15 delay    26 +/-   0
+Mar 14 10:50:46 tsn2 phc2sys: [656692.461] CLOCK_REALTIME phc offset       118 s2 freq  -15902 delay   1742
+Mar 14 10:50:47 tsn2 ptp4l: [656692.773] rms   10 max   14 freq -63636 +/-  14 delay    27 +/-   0
+Mar 14 10:50:47 tsn2 phc2sys: [656693.461] CLOCK_REALTIME phc offset       100 s2 freq  -15885 delay   1727
+Mar 14 10:50:48 tsn2 ptp4l: [656693.785] rms   10 max   14 freq -63645 +/-  11 delay    26 +/-   0
+Mar 14 10:50:48 tsn2 phc2sys: [656694.461] CLOCK_REALTIME phc offset        63 s2 freq  -15892 delay   1728
+Mar 14 10:50:49 tsn2 ptp4l: [656694.797] rms   11 max   17 freq -63633 +/-  15 delay    27 +/-   0
+Mar 14 10:50:49 tsn2 phc2sys: [656695.462] CLOCK_REALTIME phc offset        33 s2 freq  -15903 delay   1732
+Mar 14 10:50:50 tsn2 ptp4l: [656695.807] rms   11 max   18 freq -63627 +/-  14 delay    27 +/-   0
+Mar 14 10:50:50 tsn2 phc2sys: [656696.462] CLOCK_REALTIME phc offset         8 s2 freq  -15918 delay   1746
+Mar 14 10:50:51 tsn2 ptp4l: [656696.824] rms   12 max   20 freq -63640 +/-  16 delay    26 +/-   0
+Mar 14 10:50:51 tsn2 phc2sys: [656697.462] CLOCK_REALTIME phc offset        13 s2 freq  -15911 delay   1730
+Mar 14 10:50:52 tsn2 ptp4l: [656697.837] rms   11 max   15 freq -63638 +/-  15 delay    26 +/-   0
+Mar 14 10:50:52 tsn2 phc2sys: [656698.462] CLOCK_REALTIME phc offset        -5 s2 freq  -15925 delay   1688
+Mar 14 10:50:53 tsn2 ptp4l: [656698.851] rms    9 max   13 freq -63644 +/-  11 delay    27 +/-   0
+Mar 14 10:50:53 tsn2 phc2sys: [656699.462] CLOCK_REALTIME phc offset       -15 s2 freq  -15936 delay   1677
+Mar 14 10:50:54 tsn2 ptp4l: [656699.864] rms   11 max   27 freq -63644 +/-  15 delay    27 +/-   0
+Mar 14 10:50:54 tsn2 phc2sys: [656700.462] CLOCK_REALTIME phc offset       -29 s2 freq  -15955 delay   1721
+Mar 14 10:50:55 tsn2 ptp4l: [656700.875] rms   12 max   22 freq -63633 +/-  15 delay    28 +/-   0
+Mar 14 10:50:55 tsn2 phc2sys: [656701.462] CLOCK_REALTIME phc offset        -6 s2 freq  -15941 delay   1745
+Mar 14 10:50:56 tsn2 ptp4l: [656701.888] rms   14 max   20 freq -63629 +/-  19 delay    26 +/-   0
+Mar 14 10:50:56 tsn2 phc2sys: [656702.462] CLOCK_REALTIME phc offset        56 s2 freq  -15880 delay   1687
+Mar 14 10:50:57 tsn2 ptp4l: [656702.899] rms   12 max   20 freq -63636 +/-  16 delay    25 +/-   0
+Mar 14 10:50:57 tsn2 phc2sys: [656703.462] CLOCK_REALTIME phc offset       -21 s2 freq  -15941 delay   1744
+Mar 14 10:50:58 tsn2 ptp4l: [656703.912] rms   15 max   21 freq -63645 +/-  19 delay    25 +/-   0
+Mar 14 10:50:58 tsn2 phc2sys: [656704.462] CLOCK_REALTIME phc offset       -12 s2 freq  -15938 delay   1746
+Mar 14 10:50:59 tsn2 ptp4l: [656704.923] rms   10 max   17 freq -63636 +/-  13 delay    25 +/-   0
+Mar 14 10:50:59 tsn2 phc2sys: [656705.462] CLOCK_REALTIME phc offset        32 s2 freq  -15898 delay   1676
+Mar 14 10:51:00 tsn2 ptp4l: [656705.934] rms   11 max   19 freq -63639 +/-  15 delay    25 +/-   0
+Mar 14 10:51:00 tsn2 phc2sys: [656706.462] CLOCK_REALTIME phc offset       -27 s2 freq  -15947 delay   1729
+Mar 14 10:51:01 tsn2 ptp4l: [656706.949] rms   10 max   19 freq -63645 +/-  13 delay    26 +/-   0
+Mar 14 10:51:01 tsn2 phc2sys: [656707.462] CLOCK_REALTIME phc offset         6 s2 freq  -15922 delay   1718
+Mar 14 10:51:02 tsn2 ptp4l: [656707.963] rms   10 max   17 freq -63638 +/-  13 delay    25 +/-   0
+Mar 14 10:51:02 tsn2 phc2sys: [656708.462] CLOCK_REALTIME phc offset        -6 s2 freq  -15932 delay   1741
+Mar 14 10:51:03 tsn2 ptp4l: [656708.974] rms   12 max   23 freq -63631 +/-  15 delay    25 +/-   0
+Mar 14 10:51:03 tsn2 phc2sys: [656709.463] CLOCK_REALTIME phc offset         3 s2 freq  -15925 delay   1743
+Mar 14 10:51:04 tsn2 ptp4l: [656709.988] rms   13 max   16 freq -63637 +/-  17 delay    26 +/-   0
+Mar 14 10:51:04 tsn2 phc2sys: [656710.463] CLOCK_REALTIME phc offset        33 s2 freq  -15894 delay   1678
+Mar 14 10:51:05 tsn2 ptp4l: [656711.003] rms   14 max   20 freq -63636 +/-  19 delay    25 +/-   0
+Mar 14 10:51:05 tsn2 phc2sys: [656711.463] CLOCK_REALTIME phc offset        -9 s2 freq  -15926 delay   1727
+Mar 14 10:51:06 tsn2 ptp4l: [656712.015] rms    9 max   16 freq -63639 +/-  13 delay    26 +/-   0
+Mar 14 10:51:06 tsn2 phc2sys: [656712.463] CLOCK_REALTIME phc offset        -9 s2 freq  -15929 delay   1734
+Mar 14 10:51:07 tsn2 ptp4l: [656713.026] rms   11 max   15 freq -63635 +/-  14 delay    26 +/-   0
+Mar 14 10:51:07 tsn2 phc2sys: [656713.463] CLOCK_REALTIME phc offset        10 s2 freq  -15913 delay   1734
+Mar 14 10:51:08 tsn2 ptp4l: [656714.037] rms   10 max   17 freq -63640 +/-  14 delay    27 +/-   0
+Mar 14 10:51:08 tsn2 phc2sys: [656714.463] CLOCK_REALTIME phc offset       -10 s2 freq  -15930 delay   1739
+Mar 14 10:51:09 tsn2 ptp4l: [656715.048] rms   12 max   23 freq -63636 +/-  17 delay    26 +/-   0
+Mar 14 10:51:09 tsn2 phc2sys: [656715.463] CLOCK_REALTIME phc offset        16 s2 freq  -15907 delay   1732
+Mar 14 10:51:10 tsn2 ptp4l: [656716.061] rms   10 max   20 freq -63642 +/-  14 delay    26 +/-   0
+Mar 14 10:51:10 tsn2 phc2sys: [656716.463] CLOCK_REALTIME phc offset       -11 s2 freq  -15929 delay   1737
+Mar 14 10:51:11 tsn2 ptp4l: [656717.077] rms   11 max   21 freq -63636 +/-  15 delay    25 +/-   0
+Mar 14 10:51:11 tsn2 phc2sys: [656717.463] CLOCK_REALTIME phc offset        10 s2 freq  -15911 delay   1736
+Mar 14 10:51:12 tsn2 ptp4l: [656718.088] rms   10 max   17 freq -63629 +/-  13 delay    24 +/-   0
+Mar 14 10:51:12 tsn2 phc2sys: [656718.463] CLOCK_REALTIME phc offset         8 s2 freq  -15910 delay   1724
+Mar 14 10:51:13 tsn2 ptp4l: [656719.101] rms   12 max   22 freq -63632 +/-  17 delay    23 +/-   0
+Mar 14 10:51:13 tsn2 phc2sys: [656719.463] CLOCK_REALTIME phc offset        23 s2 freq  -15893 delay   1679
+Mar 14 10:51:14 tsn2 ptp4l: [656720.116] rms   12 max   18 freq -63638 +/-  16 delay    23 +/-   0
+Mar 14 10:51:14 tsn2 phc2sys: [656720.463] CLOCK_REALTIME phc offset       -30 s2 freq  -15939 delay   1738
+Mar 14 10:51:15 tsn2 ptp4l: [656721.131] rms   14 max   21 freq -63642 +/-  18 delay    25 +/-   0
+Mar 14 10:51:15 tsn2 phc2sys: [656721.463] CLOCK_REALTIME phc offset        19 s2 freq  -15899 delay   1688
+Mar 14 10:51:16 tsn2 ptp4l: [656722.144] rms   10 max   22 freq -63643 +/-  13 delay    25 +/-   0
+Mar 14 10:51:16 tsn2 phc2sys: [656722.463] CLOCK_REALTIME phc offset       -35 s2 freq  -15947 delay   1730
+Mar 14 10:51:17 tsn2 ptp4l: [656723.158] rms   10 max   19 freq -63635 +/-  13 delay    25 +/-   0
+Mar 14 10:51:17 tsn2 phc2sys: [656723.464] CLOCK_REALTIME phc offset         2 s2 freq  -15921 delay   1719
+Mar 14 10:51:18 tsn2 ptp4l: [656724.171] rms   11 max   18 freq -63640 +/-  15 delay    25 +/-   0
+Mar 14 10:51:18 tsn2 phc2sys: [656724.464] CLOCK_REALTIME phc offset         8 s2 freq  -15914 delay   1682
+Mar 14 10:51:19 tsn2 ptp4l: [656725.189] rms   14 max   26 freq -63635 +/-  19 delay    25 +/-   0
+Mar 14 10:51:19 tsn2 phc2sys: [656725.464] CLOCK_REALTIME phc offset        14 s2 freq  -15906 delay   1762
+Mar 14 10:51:20 tsn2 ptp4l: [656726.200] rms    9 max   18 freq -63640 +/-  12 delay    25 +/-   0
+Mar 14 10:51:20 tsn2 phc2sys: [656726.464] CLOCK_REALTIME phc offset       -18 s2 freq  -15933 delay   1743
+Mar 14 10:51:21 tsn2 ptp4l: [656727.213] rms    8 max   21 freq -63639 +/-  12 delay    26 +/-   0
+Mar 14 10:51:21 tsn2 phc2sys: [656727.464] CLOCK_REALTIME phc offset       -10 s2 freq  -15931 delay   1735
+Mar 14 10:51:22 tsn2 ptp4l: [656728.231] rms    9 max   15 freq -63640 +/-  12 delay    26 +/-   0
+Mar 14 10:51:22 tsn2 phc2sys: [656728.464] CLOCK_REALTIME phc offset         2 s2 freq  -15922 delay   1732
+Mar 14 10:51:23 tsn2 ptp4l: [656729.243] rms   11 max   16 freq -63638 +/-  16 delay    28 +/-   0
+Mar 14 10:51:23 tsn2 phc2sys: [656729.464] CLOCK_REALTIME phc offset         4 s2 freq  -15919 delay   1735
+Mar 14 10:51:24 tsn2 ptp4l: [656730.258] rms   11 max   17 freq -63632 +/-  14 delay    26 +/-   0
+Mar 14 10:51:24 tsn2 phc2sys: [656730.464] CLOCK_REALTIME phc offset        -1 s2 freq  -15923 delay   1748
+Mar 14 10:51:25 tsn2 ptp4l: [656731.268] rms   12 max   18 freq -63647 +/-  15 delay    28 +/-   0
+Mar 14 10:51:25 tsn2 phc2sys: [656731.464] CLOCK_REALTIME phc offset        33 s2 freq  -15889 delay   1695
+Mar 14 10:51:26 tsn2 ptp4l: [656732.279] rms   11 max   16 freq -63643 +/-  15 delay    25 +/-   0
+Mar 14 10:51:26 tsn2 phc2sys: [656732.464] CLOCK_REALTIME phc offset       -23 s2 freq  -15935 delay   1737
+Mar 14 10:51:27 tsn2 ptp4l: [656733.290] rms   14 max   18 freq -63631 +/-  17 delay    22 +/-   0
+Mar 14 10:51:27 tsn2 phc2sys: [656733.464] CLOCK_REALTIME phc offset        -5 s2 freq  -15924 delay   1743
+Mar 14 10:51:28 tsn2 ptp4l: [656734.301] rms   11 max   16 freq -63649 +/-  13 delay    22 +/-   0
+Mar 14 10:51:28 tsn2 phc2sys: [656734.464] CLOCK_REALTIME phc offset        14 s2 freq  -15907 delay   1695
+Mar 14 10:51:29 tsn2 ptp4l: [656735.312] rms   13 max   21 freq -63639 +/-  17 delay    24 +/-   0
+Mar 14 10:51:29 tsn2 phc2sys: [656735.464] CLOCK_REALTIME phc offset        -6 s2 freq  -15923 delay   1737
+Mar 14 10:51:30 tsn2 ptp4l: [656736.323] rms   11 max   17 freq -63645 +/-  16 delay    26 +/-   0
+Mar 14 10:51:30 tsn2 phc2sys: [656736.464] CLOCK_REALTIME phc offset        -9 s2 freq  -15927 delay   1710
+Mar 14 10:51:31 tsn2 ptp4l: [656737.334] rms   12 max   18 freq -63635 +/-  15 delay    27 +/-   0
+Mar 14 10:51:31 tsn2 phc2sys: [656737.465] CLOCK_REALTIME phc offset         0 s2 freq  -15921 delay   1731
+Mar 14 10:51:32 tsn2 ptp4l: [656738.345] rms   13 max   17 freq -63644 +/-  18 delay    27 +/-   0
+Mar 14 10:51:32 tsn2 phc2sys: [656738.465] CLOCK_REALTIME phc offset       -12 s2 freq  -15933 delay   1726
+Mar 14 10:51:33 tsn2 ptp4l: [656739.355] rms   13 max   16 freq -63639 +/-  17 delay    27 +/-   0
+Mar 14 10:51:33 tsn2 phc2sys: [656739.465] CLOCK_REALTIME phc offset         6 s2 freq  -15919 delay   1727
+Mar 14 10:51:34 tsn2 ptp4l: [656740.368] rms   12 max   21 freq -63648 +/-  17 delay    28 +/-   0
+Mar 14 10:51:34 tsn2 phc2sys: [656740.465] CLOCK_REALTIME phc offset         6 s2 freq  -15917 delay   1732
+Mar 14 10:51:35 tsn2 ptp4l: [656741.383] rms   12 max   18 freq -63643 +/-  16 delay    27 +/-   0
+Mar 14 10:51:35 tsn2 phc2sys: [656741.465] CLOCK_REALTIME phc offset        -2 s2 freq  -15923 delay   1714
+Mar 14 10:51:36 tsn2 ptp4l: [656742.394] rms   13 max   19 freq -63643 +/-  18 delay    28 +/-   0
+Mar 14 10:51:36 tsn2 phc2sys: [656742.465] CLOCK_REALTIME phc offset         2 s2 freq  -15920 delay   1735
+Mar 14 10:51:37 tsn2 ptp4l: [656743.408] rms   12 max   18 freq -63642 +/-  17 delay    29 +/-   0
+Mar 14 10:51:37 tsn2 phc2sys: [656743.465] CLOCK_REALTIME phc offset         5 s2 freq  -15916 delay   1744
+Mar 14 10:51:38 tsn2 ptp4l: [656744.420] rms   12 max   20 freq -63644 +/-  17 delay    28 +/-   0
+Mar 14 10:51:38 tsn2 phc2sys: [656744.465] CLOCK_REALTIME phc offset        25 s2 freq  -15895 delay   1686
+Mar 14 10:51:39 tsn2 ptp4l: [656745.432] rms   11 max   18 freq -63641 +/-  15 delay    29 +/-   0
+Mar 14 10:51:39 tsn2 phc2sys: [656745.465] CLOCK_REALTIME phc offset       -20 s2 freq  -15932 delay   1745
+Mar 14 10:51:40 tsn2 ptp4l: [656746.445] rms   10 max   14 freq -63637 +/-  14 delay    28 +/-   0
+Mar 14 10:51:40 tsn2 phc2sys: [656746.465] CLOCK_REALTIME phc offset       -10 s2 freq  -15928 delay   1736
+Mar 14 10:51:41 tsn2 ptp4l: [656747.453] rms   12 max   19 freq -63645 +/-  16 delay    28 +/-   0
+Mar 14 10:51:41 tsn2 phc2sys: [656747.465] CLOCK_REALTIME phc offset         5 s2 freq  -15916 delay   1728
+Mar 14 10:51:42 tsn2 phc2sys: [656748.465] CLOCK_REALTIME phc offset         2 s2 freq  -15918 delay   1735
+Mar 14 10:51:42 tsn2 ptp4l: [656748.466] rms   11 max   17 freq -63649 +/-  15 delay    28 +/-   0
+Mar 14 10:51:43 tsn2 phc2sys: [656749.465] CLOCK_REALTIME phc offset       -22 s2 freq  -15941 delay   1742
+Mar 14 10:51:43 tsn2 ptp4l: [656749.477] rms    9 max   21 freq -63649 +/-  12 delay    29 +/-   0
+Mar 14 10:51:44 tsn2 phc2sys: [656750.465] CLOCK_REALTIME phc offset        -1 s2 freq  -15927 delay   1734
+Mar 14 10:51:44 tsn2 ptp4l: [656750.488] rms   11 max   20 freq -63643 +/-  14 delay    31 +/-   0
+Mar 14 10:51:45 tsn2 phc2sys: [656751.466] CLOCK_REALTIME phc offset         0 s2 freq  -15926 delay   1733
+Mar 14 10:51:45 tsn2 ptp4l: [656751.502] rms   13 max   21 freq -63640 +/-  17 delay    29 +/-   0
+Mar 14 10:51:46 tsn2 phc2sys: [656752.466] CLOCK_REALTIME phc offset        24 s2 freq  -15902 delay   1736
+Mar 14 10:51:46 tsn2 ptp4l: [656752.514] rms   11 max   19 freq -63641 +/-  16 delay    27 +/-   0
+Mar 14 10:51:47 tsn2 phc2sys: [656753.466] CLOCK_REALTIME phc offset        31 s2 freq  -15888 delay   1683
+Mar 14 10:51:47 tsn2 ptp4l: [656753.526] rms   11 max   15 freq -63641 +/-  15 delay    27 +/-   0
+Mar 14 10:51:48 tsn2 phc2sys: [656754.466] CLOCK_REALTIME phc offset       -44 s2 freq  -15953 delay   1741
+Mar 14 10:51:48 tsn2 ptp4l: [656754.536] rms    7 max   10 freq -63647 +/-   8 delay    27 +/-   0
+Mar 14 10:51:49 tsn2 phc2sys: [656755.466] CLOCK_REALTIME phc offset        -6 s2 freq  -15929 delay   1726
+Mar 14 10:51:49 tsn2 ptp4l: [656755.551] rms   11 max   20 freq -63641 +/-  15 delay    27 +/-   0
+Mar 14 10:51:50 tsn2 phc2sys: [656756.466] CLOCK_REALTIME phc offset        23 s2 freq  -15901 delay   1680
+Mar 14 10:51:50 tsn2 ptp4l: [656756.565] rms   11 max   14 freq -63645 +/-  16 delay    30 +/-   0
+Mar 14 10:51:51 tsn2 phc2sys: [656757.466] CLOCK_REALTIME phc offset       -15 s2 freq  -15933 delay   1734
+Mar 14 10:51:51 tsn2 ptp4l: [656757.574] rms   11 max   18 freq -63650 +/-  15 delay    30 +/-   0
+Mar 14 10:51:52 tsn2 phc2sys: [656758.466] CLOCK_REALTIME phc offset        10 s2 freq  -15912 delay   1694
+Mar 14 10:51:53 tsn2 ptp4l: [656758.588] rms   10 max   21 freq -63652 +/-  13 delay    28 +/-   0
+Mar 14 10:51:53 tsn2 phc2sys: [656759.466] CLOCK_REALTIME phc offset       -11 s2 freq  -15930 delay   1709
+Mar 14 10:51:54 tsn2 ptp4l: [656759.599] rms    9 max   23 freq -63648 +/-  13 delay    28 +/-   0
+Mar 14 10:51:54 tsn2 phc2sys: [656760.466] CLOCK_REALTIME phc offset        24 s2 freq  -15898 delay   1684
+Mar 14 10:51:55 tsn2 ptp4l: [656760.614] rms   13 max   24 freq -63632 +/-  13 delay    28 +/-   0
+Mar 14 10:51:55 tsn2 phc2sys: [656761.466] CLOCK_REALTIME phc offset       -18 s2 freq  -15933 delay   1733
+Mar 14 10:51:56 tsn2 ptp4l: [656761.627] rms   11 max   17 freq -63650 +/-  13 delay    28 +/-   0
+Mar 14 10:51:56 tsn2 phc2sys: [656762.466] CLOCK_REALTIME phc offset       -10 s2 freq  -15931 delay   1744
+Mar 14 10:51:57 tsn2 ptp4l: [656762.638] rms   12 max   19 freq -63655 +/-  16 delay    28 +/-   0
+Mar 14 10:51:57 tsn2 phc2sys: [656763.466] CLOCK_REALTIME phc offset         3 s2 freq  -15921 delay   1729
+Mar 14 10:51:58 tsn2 ptp4l: [656763.653] rms   11 max   20 freq -63652 +/-  16 delay    28 +/-   0
+Mar 14 10:51:58 tsn2 phc2sys: [656764.466] CLOCK_REALTIME phc offset        23 s2 freq  -15900 delay   1682
+Mar 14 10:51:59 tsn2 ptp4l: [656764.664] rms   12 max   18 freq -63643 +/-  15 delay    27 +/-   0
+Mar 14 10:51:59 tsn2 phc2sys: [656765.467] CLOCK_REALTIME phc offset       -21 s2 freq  -15937 delay   1721
+Mar 14 10:52:00 tsn2 ptp4l: [656765.676] rms    9 max   20 freq -63647 +/-  13 delay    28 +/-   0
+Mar 14 10:52:00 tsn2 phc2sys: [656766.467] CLOCK_REALTIME phc offset       -18 s2 freq  -15940 delay   1746
+Mar 14 10:52:01 tsn2 ptp4l: [656766.687] rms    7 max   13 freq -63650 +/-  10 delay    25 +/-   0
+Mar 14 10:52:01 tsn2 phc2sys: [656767.467] CLOCK_REALTIME phc offset        31 s2 freq  -15896 delay   1691
+Mar 14 10:52:02 tsn2 ptp4l: [656767.703] rms   13 max   24 freq -63640 +/-  17 delay    25 +/-   0
+Mar 14 10:52:02 tsn2 phc2sys: [656768.467] CLOCK_REALTIME phc offset       -11 s2 freq  -15929 delay   1722
+Mar 14 10:52:03 tsn2 ptp4l: [656768.720] rms   11 max   16 freq -63651 +/-  14 delay    23 +/-   0
+Mar 14 10:52:03 tsn2 phc2sys: [656769.467] CLOCK_REALTIME phc offset        -2 s2 freq  -15923 delay   1743
+Mar 14 10:52:04 tsn2 ptp4l: [656769.731] rms   13 max   19 freq -63643 +/-  18 delay    23 +/-   0
+Mar 14 10:52:04 tsn2 phc2sys: [656770.467] CLOCK_REALTIME phc offset        36 s2 freq  -15886 delay   1684
+Mar 14 10:52:05 tsn2 ptp4l: [656770.744] rms    9 max   17 freq -63653 +/-  11 delay    23 +/-   0
+Mar 14 10:52:05 tsn2 phc2sys: [656771.467] CLOCK_REALTIME phc offset       -24 s2 freq  -15935 delay   1743
+Mar 14 10:52:06 tsn2 ptp4l: [656771.758] rms   11 max   20 freq -63641 +/-  14 delay    23 +/-   0
+Mar 14 10:52:06 tsn2 phc2sys: [656772.467] CLOCK_REALTIME phc offset        20 s2 freq  -15898 delay   1688
+Mar 14 10:52:07 tsn2 ptp4l: [656772.769] rms    7 max   13 freq -63653 +/-   7 delay    23 +/-   0
+Mar 14 10:52:07 tsn2 phc2sys: [656773.467] CLOCK_REALTIME phc offset         2 s2 freq  -15910 delay   1698
+Mar 14 10:52:08 tsn2 ptp4l: [656773.782] rms   13 max   24 freq -63638 +/-  17 delay    23 +/-   0
+Mar 14 10:52:08 tsn2 phc2sys: [656774.467] CLOCK_REALTIME phc offset       -11 s2 freq  -15923 delay   1718
+Mar 14 10:52:09 tsn2 ptp4l: [656774.794] rms   12 max   16 freq -63644 +/-  17 delay    23 +/-   0
+Mar 14 10:52:09 tsn2 phc2sys: [656775.467] CLOCK_REALTIME phc offset         1 s2 freq  -15914 delay   1733
+Mar 14 10:52:10 tsn2 ptp4l: [656775.806] rms   10 max   14 freq -63649 +/-  14 delay    23 +/-   0
+Mar 14 10:52:10 tsn2 phc2sys: [656776.467] CLOCK_REALTIME phc offset        13 s2 freq  -15902 delay   1683
+Mar 14 10:52:11 tsn2 ptp4l: [656776.821] rms   11 max   15 freq -63645 +/-  14 delay    24 +/-   0
+Mar 14 10:52:11 tsn2 phc2sys: [656777.467] CLOCK_REALTIME phc offset       -20 s2 freq  -15931 delay   1729
+Mar 14 10:52:12 tsn2 ptp4l: [656777.834] rms   15 max   22 freq -63652 +/-  21 delay    25 +/-   0
+Mar 14 10:52:12 tsn2 phc2sys: [656778.467] CLOCK_REALTIME phc offset        -3 s2 freq  -15920 delay   1728
+Mar 14 10:52:13 tsn2 ptp4l: [656778.846] rms   10 max   16 freq -63659 +/-  13 delay    25 +/-   0
+Mar 14 10:52:13 tsn2 phc2sys: [656779.468] CLOCK_REALTIME phc offset       -12 s2 freq  -15930 delay   1728
+Mar 14 10:52:14 tsn2 ptp4l: [656779.859] rms   14 max   24 freq -63644 +/-  18 delay    26 +/-   0
+Mar 14 10:52:14 tsn2 phc2sys: [656780.468] CLOCK_REALTIME phc offset        34 s2 freq  -15887 delay   1681
+Mar 14 10:52:15 tsn2 ptp4l: [656780.872] rms   12 max   17 freq -63645 +/-  16 delay    27 +/-   0
+Mar 14 10:52:15 tsn2 phc2sys: [656781.468] CLOCK_REALTIME phc offset       -16 s2 freq  -15927 delay   1740
+Mar 14 10:52:16 tsn2 ptp4l: [656781.885] rms    7 max   12 freq -63644 +/-  10 delay    26 +/-   0
+Mar 14 10:52:16 tsn2 phc2sys: [656782.468] CLOCK_REALTIME phc offset        -3 s2 freq  -15919 delay   1728
+Mar 14 10:52:17 tsn2 ptp4l: [656782.897] rms   13 max   24 freq -63651 +/-  17 delay    27 +/-   0
+Mar 14 10:52:17 tsn2 phc2sys: [656783.468] CLOCK_REALTIME phc offset        30 s2 freq  -15887 delay   1686
+Mar 14 10:52:18 tsn2 ptp4l: [656783.912] rms   12 max   18 freq -63657 +/-  15 delay    27 +/-   0
+Mar 14 10:52:18 tsn2 phc2sys: [656784.468] CLOCK_REALTIME phc offset       -11 s2 freq  -15919 delay   1692
+Mar 14 10:52:19 tsn2 ptp4l: [656784.927] rms    7 max   12 freq -63659 +/-   8 delay    26 +/-   0
+Mar 14 10:52:19 tsn2 phc2sys: [656785.468] CLOCK_REALTIME phc offset       -19 s2 freq  -15930 delay   1692
+Mar 14 10:52:20 tsn2 ptp4l: [656785.939] rms   13 max   27 freq -63645 +/-  16 delay    25 +/-   0
+Mar 14 10:52:20 tsn2 phc2sys: [656786.468] CLOCK_REALTIME phc offset       -22 s2 freq  -15939 delay   1746
+Mar 14 10:52:21 tsn2 ptp4l: [656786.951] rms    8 max   21 freq -63650 +/-  11 delay    25 +/-   0
+Mar 14 10:52:21 tsn2 phc2sys: [656787.468] CLOCK_REALTIME phc offset        22 s2 freq  -15902 delay   1724
+Mar 14 10:52:22 tsn2 ptp4l: [656787.963] rms   16 max   26 freq -63643 +/-  21 delay    25 +/-   0
+Mar 14 10:52:22 tsn2 phc2sys: [656788.468] CLOCK_REALTIME phc offset        24 s2 freq  -15893 delay   1705
+Mar 14 10:52:23 tsn2 ptp4l: [656788.977] rms   12 max   19 freq -63654 +/-  17 delay    25 +/-   0
+Mar 14 10:52:23 tsn2 phc2sys: [656789.468] CLOCK_REALTIME phc offset       -29 s2 freq  -15939 delay   1732
+Mar 14 10:52:24 tsn2 ptp4l: [656789.988] rms   13 max   19 freq -63654 +/-  18 delay    25 +/-   0
+Mar 14 10:52:24 tsn2 phc2sys: [656790.468] CLOCK_REALTIME phc offset        22 s2 freq  -15896 delay   1684
+Mar 14 10:52:25 tsn2 ptp4l: [656790.998] rms    9 max   13 freq -63659 +/-  11 delay    25 +/-   0
+Mar 14 10:52:25 tsn2 phc2sys: [656791.468] CLOCK_REALTIME phc offset       -21 s2 freq  -15933 delay   1728
+Mar 14 10:52:26 tsn2 ptp4l: [656792.010] rms   13 max   21 freq -63646 +/-  16 delay    25 +/-   0
+Mar 14 10:52:26 tsn2 phc2sys: [656792.468] CLOCK_REALTIME phc offset       -16 s2 freq  -15934 delay   1743
+Mar 14 10:52:27 tsn2 ptp4l: [656793.021] rms    7 max   15 freq -63661 +/-   6 delay    24 +/-   0
+Mar 14 10:52:27 tsn2 phc2sys: [656793.469] CLOCK_REALTIME phc offset        -7 s2 freq  -15930 delay   1748
+Mar 14 10:52:28 tsn2 ptp4l: [656794.032] rms    8 max   20 freq -63653 +/-  11 delay    25 +/-   0
+Mar 14 10:52:28 tsn2 phc2sys: [656794.469] CLOCK_REALTIME phc offset        21 s2 freq  -15904 delay   1732
+Mar 14 10:52:29 tsn2 ptp4l: [656795.045] rms   11 max   20 freq -63653 +/-  16 delay    25 +/-   0
+Mar 14 10:52:29 tsn2 phc2sys: [656795.469] CLOCK_REALTIME phc offset        10 s2 freq  -15909 delay   1729
+Mar 14 10:52:30 tsn2 ptp4l: [656796.057] rms   13 max   20 freq -63647 +/-  18 delay    25 +/-   0
+Mar 14 10:52:30 tsn2 phc2sys: [656796.469] CLOCK_REALTIME phc offset        14 s2 freq  -15902 delay   1731
+Mar 14 10:52:31 tsn2 ptp4l: [656797.069] rms   11 max   17 freq -63658 +/-  15 delay    25 +/-   0
+Mar 14 10:52:31 tsn2 phc2sys: [656797.469] CLOCK_REALTIME phc offset       -17 s2 freq  -15929 delay   1746
+Mar 14 10:52:32 tsn2 ptp4l: [656798.083] rms   11 max   17 freq -63655 +/-  16 delay    25 +/-   0
+Mar 14 10:52:32 tsn2 phc2sys: [656798.469] CLOCK_REALTIME phc offset         2 s2 freq  -15915 delay   1726
+Mar 14 10:52:33 tsn2 ptp4l: [656799.098] rms   11 max   20 freq -63656 +/-  15 delay    27 +/-   0
+Mar 14 10:52:33 tsn2 phc2sys: [656799.469] CLOCK_REALTIME phc offset        -2 s2 freq  -15918 delay   1721
+Mar 14 10:52:34 tsn2 ptp4l: [656800.111] rms   11 max   20 freq -63668 +/-  13 delay    29 +/-   0
+Mar 14 10:52:34 tsn2 phc2sys: [656800.469] CLOCK_REALTIME phc offset       -27 s2 freq  -15944 delay   1737
+Mar 14 10:52:35 tsn2 ptp4l: [656801.124] rms   13 max   21 freq -63651 +/-  16 delay    30 +/-   0
+Mar 14 10:52:35 tsn2 phc2sys: [656801.469] CLOCK_REALTIME phc offset         1 s2 freq  -15924 delay   1725
+Mar 14 10:52:36 tsn2 ptp4l: [656802.134] rms   13 max   17 freq -63659 +/-  18 delay    30 +/-   0
+Mar 14 10:52:36 tsn2 phc2sys: [656802.469] CLOCK_REALTIME phc offset        15 s2 freq  -15909 delay   1730
+Mar 14 10:52:37 tsn2 ptp4l: [656803.146] rms   12 max   17 freq -63653 +/-  17 delay    30 +/-   0
+Mar 14 10:52:37 tsn2 phc2sys: [656803.469] CLOCK_REALTIME phc offset        10 s2 freq  -15910 delay   1745
+Mar 14 10:52:38 tsn2 ptp4l: [656804.159] rms   11 max   15 freq -63667 +/-  13 delay    30 +/-   0
+Mar 14 10:52:38 tsn2 phc2sys: [656804.469] CLOCK_REALTIME phc offset       -18 s2 freq  -15935 delay   1744
+Mar 14 10:52:39 tsn2 ptp4l: [656805.170] rms   12 max   18 freq -63655 +/-  16 delay    29 +/-   0
+Mar 14 10:52:39 tsn2 phc2sys: [656805.469] CLOCK_REALTIME phc offset        12 s2 freq  -15910 delay   1731
+Mar 14 10:52:40 tsn2 ptp4l: [656806.185] rms   12 max   17 freq -63654 +/-  17 delay    30 +/-   0
+Mar 14 10:52:40 tsn2 phc2sys: [656806.469] CLOCK_REALTIME phc offset        25 s2 freq  -15894 delay   1727
+Mar 14 10:52:41 tsn2 ptp4l: [656807.199] rms   15 max   20 freq -63665 +/-  19 delay    30 +/-   0
+Mar 14 10:52:41 tsn2 phc2sys: [656807.470] CLOCK_REALTIME phc offset        -1 s2 freq  -15912 delay   1732
+Mar 14 10:52:42 tsn2 ptp4l: [656808.214] rms   12 max   20 freq -63663 +/-  16 delay    29 +/-   0
+Mar 14 10:52:42 tsn2 phc2sys: [656808.470] CLOCK_REALTIME phc offset       -10 s2 freq  -15922 delay   1736
+Mar 14 10:52:43 tsn2 ptp4l: [656809.229] rms   11 max   22 freq -63651 +/-  13 delay    28 +/-   0
+Mar 14 10:52:43 tsn2 phc2sys: [656809.470] CLOCK_REALTIME phc offset         2 s2 freq  -15913 delay   1724
+Mar 14 10:52:44 tsn2 ptp4l: [656810.241] rms   11 max   16 freq -63654 +/-  15 delay    28 +/-   0
+Mar 14 10:52:44 tsn2 phc2sys: [656810.470] CLOCK_REALTIME phc offset         0 s2 freq  -15914 delay   1733
+Mar 14 10:52:45 tsn2 ptp4l: [656811.254] rms   13 max   23 freq -63667 +/-  16 delay    28 +/-   0
+Mar 14 10:52:45 tsn2 phc2sys: [656811.470] CLOCK_REALTIME phc offset       -14 s2 freq  -15928 delay   1744
+Mar 14 10:52:46 tsn2 ptp4l: [656812.267] rms   12 max   18 freq -63661 +/-  16 delay    26 +/-   0
+Mar 14 10:52:46 tsn2 phc2sys: [656812.470] CLOCK_REALTIME phc offset        -4 s2 freq  -15922 delay   1729
+Mar 14 10:52:47 tsn2 ptp4l: [656813.279] rms   12 max   20 freq -63665 +/-  16 delay    26 +/-   0
+Mar 14 10:52:47 tsn2 phc2sys: [656813.470] CLOCK_REALTIME phc offset        30 s2 freq  -15889 delay   1697
+Mar 14 10:52:48 tsn2 ptp4l: [656814.293] rms   11 max   22 freq -63669 +/-  14 delay    26 +/-   0
+Mar 14 10:52:48 tsn2 phc2sys: [656814.470] CLOCK_REALTIME phc offset       -18 s2 freq  -15928 delay   1726
+Mar 14 10:52:49 tsn2 ptp4l: [656815.304] rms   13 max   18 freq -63661 +/-  17 delay    27 +/-   0
+Mar 14 10:52:49 tsn2 phc2sys: [656815.470] CLOCK_REALTIME phc offset         6 s2 freq  -15910 delay   1722
+Mar 14 10:52:50 tsn2 ptp4l: [656816.317] rms   11 max   18 freq -63657 +/-  14 delay    24 +/-   0
+Mar 14 10:52:50 tsn2 phc2sys: [656816.470] CLOCK_REALTIME phc offset         0 s2 freq  -15914 delay   1744
+Mar 14 10:52:51 tsn2 ptp4l: [656817.327] rms   11 max   15 freq -63674 +/-  10 delay    25 +/-   0
+Mar 14 10:52:51 tsn2 phc2sys: [656817.470] CLOCK_REALTIME phc offset         6 s2 freq  -15908 delay   1733
+Mar 14 10:52:52 tsn2 ptp4l: [656818.341] rms   11 max   16 freq -63667 +/-  15 delay    27 +/-   0
+Mar 14 10:52:52 tsn2 phc2sys: [656818.470] CLOCK_REALTIME phc offset        -2 s2 freq  -15914 delay   1731
+Mar 14 10:52:53 tsn2 ptp4l: [656819.354] rms    6 max   11 freq -63673 +/-   7 delay    28 +/-   0
+Mar 14 10:52:53 tsn2 phc2sys: [656819.470] CLOCK_REALTIME phc offset        25 s2 freq  -15888 delay   1684
+Mar 14 10:52:54 tsn2 ptp4l: [656820.366] rms   12 max   23 freq -63657 +/-  14 delay    28 +/-   0
+Mar 14 10:52:54 tsn2 phc2sys: [656820.470] CLOCK_REALTIME phc offset       -10 s2 freq  -15915 delay   1729
+Mar 14 10:52:55 tsn2 ptp4l: [656821.377] rms   13 max   15 freq -63674 +/-  15 delay    27 +/-   0
+Mar 14 10:52:55 tsn2 phc2sys: [656821.471] CLOCK_REALTIME phc offset       429 s2 freq  -15479 delay   2600
+Mar 14 10:52:56 tsn2 ptp4l: [656822.389] rms    9 max   15 freq -63674 +/-  12 delay    27 +/-   0
+Mar 14 10:52:56 tsn2 phc2sys: [656822.471] CLOCK_REALTIME phc offset      -449 s2 freq  -16229 delay   1741
+Mar 14 10:52:57 tsn2 ptp4l: [656823.399] rms   12 max   17 freq -63667 +/-  17 delay    25 +/-   0
+Mar 14 10:52:57 tsn2 phc2sys: [656823.471] CLOCK_REALTIME phc offset      -126 s2 freq  -16040 delay   1726
+Mar 14 10:52:58 tsn2 ptp4l: [656824.411] rms   12 max   17 freq -63664 +/-  16 delay    25 +/-   0
+Mar 14 10:52:58 tsn2 phc2sys: [656824.471] CLOCK_REALTIME phc offset        -3 s2 freq  -15955 delay   1737
+Mar 14 10:52:59 tsn2 ptp4l: [656825.427] rms   11 max   17 freq -63663 +/-  14 delay    22 +/-   0
+Mar 14 10:52:59 tsn2 phc2sys: [656825.471] CLOCK_REALTIME phc offset        49 s2 freq  -15904 delay   1736
+Mar 14 10:53:00 tsn2 ptp4l: [656826.441] rms   11 max   21 freq -63666 +/-  15 delay    24 +/-   0
+Mar 14 10:53:00 tsn2 phc2sys: [656826.471] CLOCK_REALTIME phc offset        47 s2 freq  -15891 delay   1740
+Mar 14 10:53:01 tsn2 ptp4l: [656827.458] rms   14 max   28 freq -63681 +/-  16 delay    24 +/-   0
+Mar 14 10:53:01 tsn2 phc2sys: [656827.471] CLOCK_REALTIME phc offset        23 s2 freq  -15901 delay   1732
+Mar 14 10:53:02 tsn2 phc2sys: [656828.471] CLOCK_REALTIME phc offset        10 s2 freq  -15907 delay   1729
+Mar 14 10:53:02 tsn2 ptp4l: [656828.473] rms    9 max   14 freq -63676 +/-  13 delay    24 +/-   0
+Mar 14 10:53:03 tsn2 phc2sys: [656829.471] CLOCK_REALTIME phc offset         1 s2 freq  -15913 delay   1721
+Mar 14 10:53:03 tsn2 ptp4l: [656829.485] rms    9 max   14 freq -63671 +/-  12 delay    22 +/-   0
+Mar 14 10:53:04 tsn2 phc2sys: [656830.471] CLOCK_REALTIME phc offset       -11 s2 freq  -15925 delay   1725
+Mar 14 10:53:04 tsn2 ptp4l: [656830.497] rms   10 max   24 freq -63671 +/-  13 delay    24 +/-   0
+Mar 14 10:53:05 tsn2 phc2sys: [656831.471] CLOCK_REALTIME phc offset        24 s2 freq  -15893 delay   1735
+Mar 14 10:53:05 tsn2 ptp4l: [656831.510] rms   12 max   19 freq -63661 +/-  14 delay    25 +/-   0
+Mar 14 10:53:06 tsn2 phc2sys: [656832.471] CLOCK_REALTIME phc offset         4 s2 freq  -15906 delay   1733
+Mar 14 10:53:06 tsn2 ptp4l: [656832.522] rms   14 max   24 freq -63678 +/-  18 delay    25 +/-   0
+Mar 14 10:53:07 tsn2 phc2sys: [656833.471] CLOCK_REALTIME phc offset       -17 s2 freq  -15926 delay   1735
+Mar 14 10:53:07 tsn2 ptp4l: [656833.534] rms   10 max   13 freq -63677 +/-  14 delay    26 +/-   0
+Mar 14 10:53:08 tsn2 phc2sys: [656834.471] CLOCK_REALTIME phc offset        -1 s2 freq  -15915 delay   1733
+Mar 14 10:53:08 tsn2 ptp4l: [656834.547] rms   10 max   15 freq -63674 +/-  13 delay    27 +/-   0
+Mar 14 10:53:09 tsn2 phc2sys: [656835.472] CLOCK_REALTIME phc offset        14 s2 freq  -15900 delay   1732
+Mar 14 10:53:09 tsn2 ptp4l: [656835.559] rms   12 max   16 freq -63677 +/-  17 delay    27 +/-   0
+Mar 14 10:53:10 tsn2 phc2sys: [656836.472] CLOCK_REALTIME phc offset        -4 s2 freq  -15914 delay   1733
+Mar 14 10:53:10 tsn2 ptp4l: [656836.576] rms   11 max   24 freq -63675 +/-  16 delay    28 +/-   0
+Mar 14 10:53:11 tsn2 phc2sys: [656837.472] CLOCK_REALTIME phc offset        24 s2 freq  -15887 delay   1692
+Mar 14 10:53:12 tsn2 ptp4l: [656837.587] rms   12 max   17 freq -63674 +/-  16 delay    28 +/-   0
+Mar 14 10:53:12 tsn2 phc2sys: [656838.472] CLOCK_REALTIME phc offset        11 s2 freq  -15893 delay   1683
+Mar 14 10:53:13 tsn2 ptp4l: [656838.597] rms   10 max   14 freq -63675 +/-  14 delay    30 +/-   0
+Mar 14 10:53:13 tsn2 phc2sys: [656839.472] CLOCK_REALTIME phc offset       -24 s2 freq  -15925 delay   1731
+Mar 14 10:53:14 tsn2 ptp4l: [656839.612] rms   12 max   17 freq -63684 +/-  15 delay    30 +/-   0
+Mar 14 10:53:14 tsn2 phc2sys: [656840.472] CLOCK_REALTIME phc offset       -12 s2 freq  -15920 delay   1722
+Mar 14 10:53:15 tsn2 ptp4l: [656840.626] rms   12 max   19 freq -63675 +/-  16 delay    30 +/-   0
+Mar 14 10:53:15 tsn2 phc2sys: [656841.472] CLOCK_REALTIME phc offset         1 s2 freq  -15911 delay   1734
+Mar 14 10:53:16 tsn2 ptp4l: [656841.637] rms   10 max   15 freq -63678 +/-  14 delay    29 +/-   0
+Mar 14 10:53:16 tsn2 phc2sys: [656842.472] CLOCK_REALTIME phc offset        -5 s2 freq  -15916 delay   1724
+Mar 14 10:53:17 tsn2 ptp4l: [656842.651] rms   11 max   20 freq -63685 +/-  14 delay    29 +/-   0
+Mar 14 10:53:17 tsn2 phc2sys: [656843.472] CLOCK_REALTIME phc offset        -9 s2 freq  -15922 delay   1726
+Mar 14 10:53:18 tsn2 ptp4l: [656843.664] rms   10 max   15 freq -63675 +/-  13 delay    27 +/-   0
+Mar 14 10:53:18 tsn2 phc2sys: [656844.472] CLOCK_REALTIME phc offset        15 s2 freq  -15900 delay   1724
+Mar 14 10:53:19 tsn2 ptp4l: [656844.678] rms    8 max   18 freq -63681 +/-  11 delay    27 +/-   0
+Mar 14 10:53:19 tsn2 phc2sys: [656845.472] CLOCK_REALTIME phc offset        17 s2 freq  -15894 delay   1729
+Mar 14 10:53:20 tsn2 ptp4l: [656845.691] rms   11 max   18 freq -63682 +/-  15 delay    29 +/-   0
+Mar 14 10:53:20 tsn2 phc2sys: [656846.472] CLOCK_REALTIME phc offset        -2 s2 freq  -15908 delay   1716
+Mar 14 10:53:21 tsn2 ptp4l: [656846.705] rms    9 max   22 freq -63682 +/-  12 delay    26 +/-   0
+Mar 14 10:53:21 tsn2 phc2sys: [656847.472] CLOCK_REALTIME phc offset        12 s2 freq  -15894 delay   1693
+Mar 14 10:53:22 tsn2 ptp4l: [656847.717] rms   13 max   24 freq -63675 +/-  17 delay    26 +/-   0
+Mar 14 10:53:22 tsn2 phc2sys: [656848.472] CLOCK_REALTIME phc offset       -26 s2 freq  -15929 delay   1747
+Mar 14 10:53:23 tsn2 ptp4l: [656848.731] rms    8 max   19 freq -63682 +/-  11 delay    24 +/-   0
+Mar 14 10:53:23 tsn2 phc2sys: [656849.473] CLOCK_REALTIME phc offset         5 s2 freq  -15906 delay   1730
+Mar 14 10:53:24 tsn2 ptp4l: [656849.742] rms   12 max   19 freq -63676 +/-  16 delay    24 +/-   0
+Mar 14 10:53:24 tsn2 phc2sys: [656850.473] CLOCK_REALTIME phc offset        13 s2 freq  -15896 delay   1716
+Mar 14 10:53:25 tsn2 ptp4l: [656850.753] rms   10 max   15 freq -63684 +/-  13 delay    23 +/-   0
+Mar 14 10:53:25 tsn2 phc2sys: [656851.473] CLOCK_REALTIME phc offset        -9 s2 freq  -15914 delay   1722
+Mar 14 10:53:26 tsn2 ptp4l: [656851.768] rms   10 max   15 freq -63690 +/-  11 delay    23 +/-   0
+Mar 14 10:53:26 tsn2 phc2sys: [656852.473] CLOCK_REALTIME phc offset       -18 s2 freq  -15926 delay   1742
+Mar 14 10:53:27 tsn2 ptp4l: [656852.781] rms    8 max   19 freq -63684 +/-  11 delay    23 +/-   0
+Mar 14 10:53:27 tsn2 phc2sys: [656853.473] CLOCK_REALTIME phc offset        21 s2 freq  -15892 delay   1722
+Mar 14 10:53:28 tsn2 ptp4l: [656853.796] rms   14 max   25 freq -63674 +/-  18 delay    24 +/-   0
+Mar 14 10:53:28 tsn2 phc2sys: [656854.473] CLOCK_REALTIME phc offset        11 s2 freq  -15896 delay   1738
+Mar 14 10:53:29 tsn2 ptp4l: [656854.806] rms   10 max   17 freq -63687 +/-  12 delay    23 +/-   0
+Mar 14 10:53:29 tsn2 phc2sys: [656855.473] CLOCK_REALTIME phc offset       -19 s2 freq  -15923 delay   1726
+Mar 14 10:53:30 tsn2 ptp4l: [656855.817] rms    7 max   12 freq -63695 +/-   5 delay    23 +/-   0
+Mar 14 10:53:30 tsn2 phc2sys: [656856.473] CLOCK_REALTIME phc offset        41 s2 freq  -15868 delay   1669
+Mar 14 10:53:31 tsn2 ptp4l: [656856.829] rms   15 max   18 freq -63683 +/-  20 delay    23 +/-   0
+Mar 14 10:53:31 tsn2 phc2sys: [656857.473] CLOCK_REALTIME phc offset       -30 s2 freq  -15927 delay   1745
+Mar 14 10:53:32 tsn2 ptp4l: [656857.841] rms   11 max   20 freq -63687 +/-  16 delay    23 +/-   0
+Mar 14 10:53:32 tsn2 phc2sys: [656858.473] CLOCK_REALTIME phc offset       -17 s2 freq  -15923 delay   1750
+Mar 14 10:53:33 tsn2 ptp4l: [656858.852] rms   13 max   22 freq -63683 +/-  18 delay    22 +/-   0
+Mar 14 10:53:33 tsn2 phc2sys: [656859.473] CLOCK_REALTIME phc offset         6 s2 freq  -15905 delay   1733
+Mar 14 10:53:34 tsn2 ptp4l: [656859.864] rms   12 max   16 freq -63681 +/-  16 delay    22 +/-   0
+Mar 14 10:53:34 tsn2 phc2sys: [656860.473] CLOCK_REALTIME phc offset        27 s2 freq  -15882 delay   1695
+Mar 14 10:53:35 tsn2 ptp4l: [656860.877] rms   13 max   21 freq -63688 +/-  18 delay    23 +/-   0
+Mar 14 10:53:35 tsn2 phc2sys: [656861.473] CLOCK_REALTIME phc offset       -22 s2 freq  -15923 delay   1725
+Mar 14 10:53:36 tsn2 ptp4l: [656861.890] rms   14 max   20 freq -63692 +/-  18 delay    23 +/-   0
+Mar 14 10:53:36 tsn2 phc2sys: [656862.473] CLOCK_REALTIME phc offset        -6 s2 freq  -15914 delay   1742
+Mar 14 10:53:37 tsn2 ptp4l: [656862.903] rms   10 max   14 freq -63698 +/-  12 delay    24 +/-   0
+Mar 14 10:53:37 tsn2 phc2sys: [656863.474] CLOCK_REALTIME phc offset         9 s2 freq  -15901 delay   1726
+Mar 14 10:53:38 tsn2 ptp4l: [656863.919] rms   12 max   20 freq -63688 +/-  15 delay    24 +/-   0
+Mar 14 10:53:38 tsn2 phc2sys: [656864.474] CLOCK_REALTIME phc offset         1 s2 freq  -15906 delay   1734
+Mar 14 10:53:39 tsn2 ptp4l: [656864.933] rms   12 max   22 freq -63694 +/-  17 delay    24 +/-   0
+Mar 14 10:53:39 tsn2 phc2sys: [656865.474] CLOCK_REALTIME phc offset         2 s2 freq  -15905 delay   1711
+Mar 14 10:53:40 tsn2 ptp4l: [656865.947] rms   10 max   17 freq -63692 +/-  13 delay    25 +/-   0
+Mar 14 10:53:40 tsn2 phc2sys: [656866.474] CLOCK_REALTIME phc offset        22 s2 freq  -15884 delay   1675
+Mar 14 10:53:41 tsn2 ptp4l: [656866.961] rms   10 max   19 freq -63689 +/-  13 delay    25 +/-   0
+Mar 14 10:53:41 tsn2 phc2sys: [656867.474] CLOCK_REALTIME phc offset         6 s2 freq  -15894 delay   1682
+Mar 14 10:53:42 tsn2 ptp4l: [656867.974] rms   12 max   19 freq -63695 +/-  17 delay    25 +/-   0
+Mar 14 10:53:42 tsn2 phc2sys: [656868.474] CLOCK_REALTIME phc offset       -51 s2 freq  -15949 delay   1746
+Mar 14 10:53:43 tsn2 ptp4l: [656868.984] rms    9 max   20 freq -63697 +/-  12 delay    27 +/-   0
+Mar 14 10:53:43 tsn2 phc2sys: [656869.474] CLOCK_REALTIME phc offset        -8 s2 freq  -15921 delay   1726
+Mar 14 10:53:44 tsn2 ptp4l: [656869.998] rms   12 max   21 freq -63693 +/-  16 delay    27 +/-   0
+Mar 14 10:53:44 tsn2 phc2sys: [656870.474] CLOCK_REALTIME phc offset        29 s2 freq  -15886 delay   1724
+Mar 14 10:53:45 tsn2 ptp4l: [656871.011] rms   15 max   17 freq -63685 +/-  19 delay    25 +/-   0
+Mar 14 10:53:45 tsn2 phc2sys: [656871.474] CLOCK_REALTIME phc offset         9 s2 freq  -15898 delay   1740
+Mar 14 10:53:46 tsn2 ptp4l: [656872.028] rms   13 max   22 freq -63694 +/-  18 delay    25 +/-   0
+Mar 14 10:53:46 tsn2 phc2sys: [656872.474] CLOCK_REALTIME phc offset        15 s2 freq  -15889 delay   1692
+Mar 14 10:53:47 tsn2 ptp4l: [656873.043] rms   13 max   19 freq -63699 +/-  18 delay    24 +/-   0
+Mar 14 10:53:47 tsn2 phc2sys: [656873.474] CLOCK_REALTIME phc offset       -17 s2 freq  -15917 delay   1733
+Mar 14 10:53:48 tsn2 ptp4l: [656874.054] rms   10 max   16 freq -63704 +/-  13 delay    22 +/-   0
+Mar 14 10:53:48 tsn2 phc2sys: [656874.474] CLOCK_REALTIME phc offset       -12 s2 freq  -15917 delay   1728
+Mar 14 10:53:49 tsn2 ptp4l: [656875.067] rms   11 max   24 freq -63696 +/-  15 delay    22 +/-   0
+Mar 14 10:53:49 tsn2 phc2sys: [656875.474] CLOCK_REALTIME phc offset         8 s2 freq  -15900 delay   1730
+Mar 14 10:53:50 tsn2 ptp4l: [656876.078] rms   14 max   21 freq -63693 +/-  19 delay    21 +/-   0
+Mar 14 10:53:50 tsn2 phc2sys: [656876.474] CLOCK_REALTIME phc offset        -2 s2 freq  -15908 delay   1738
+Mar 14 10:53:51 tsn2 ptp4l: [656877.091] rms   11 max   16 freq -63702 +/-  15 delay    21 +/-   0
+Mar 14 10:53:51 tsn2 phc2sys: [656877.475] CLOCK_REALTIME phc offset         0 s2 freq  -15906 delay   1729
+Mar 14 10:53:52 tsn2 ptp4l: [656878.105] rms   10 max   14 freq -63705 +/-  13 delay    21 +/-   0
+Mar 14 10:53:52 tsn2 phc2sys: [656878.475] CLOCK_REALTIME phc offset         5 s2 freq  -15901 delay   1721
+Mar 14 10:53:53 tsn2 ptp4l: [656879.118] rms   11 max   20 freq -63702 +/-  15 delay    20 +/-   0
+Mar 14 10:53:53 tsn2 phc2sys: [656879.475] CLOCK_REALTIME phc offset        20 s2 freq  -15885 delay   1690
+Mar 14 10:53:54 tsn2 ptp4l: [656880.133] rms   12 max   18 freq -63705 +/-  16 delay    21 +/-   0
+Mar 14 10:53:54 tsn2 phc2sys: [656880.475] CLOCK_REALTIME phc offset       -24 s2 freq  -15923 delay   1737
+Mar 14 10:53:55 tsn2 ptp4l: [656881.147] rms   12 max   21 freq -63696 +/-  15 delay    21 +/-   0
+Mar 14 10:53:55 tsn2 phc2sys: [656881.475] CLOCK_REALTIME phc offset        19 s2 freq  -15887 delay   1692
+Mar 14 10:53:56 tsn2 ptp4l: [656882.163] rms   14 max   21 freq -63703 +/-  20 delay    21 +/-   0
+Mar 14 10:53:56 tsn2 phc2sys: [656882.475] CLOCK_REALTIME phc offset       -21 s2 freq  -15921 delay   1730
+Mar 14 10:53:57 tsn2 ptp4l: [656883.176] rms   13 max   18 freq -63700 +/-  17 delay    22 +/-   0
+Mar 14 10:53:57 tsn2 phc2sys: [656883.475] CLOCK_REALTIME phc offset         2 s2 freq  -15905 delay   1734
+Mar 14 10:53:58 tsn2 ptp4l: [656884.190] rms   13 max   18 freq -63712 +/-  16 delay    24 +/-   0
+Mar 14 10:53:58 tsn2 phc2sys: [656884.475] CLOCK_REALTIME phc offset         9 s2 freq  -15897 delay   1729
+Mar 14 10:53:59 tsn2 ptp4l: [656885.205] rms    7 max   15 freq -63704 +/-  10 delay    25 +/-   0
+Mar 14 10:53:59 tsn2 phc2sys: [656885.475] CLOCK_REALTIME phc offset         7 s2 freq  -15896 delay   1735
+Mar 14 10:54:00 tsn2 ptp4l: [656886.218] rms   12 max   18 freq -63702 +/-  16 delay    26 +/-   0
+Mar 14 10:54:00 tsn2 phc2sys: [656886.475] CLOCK_REALTIME phc offset        28 s2 freq  -15873 delay   1687
+Mar 14 10:54:01 tsn2 ptp4l: [656887.230] rms   12 max   19 freq -63697 +/-  15 delay    26 +/-   0
+Mar 14 10:54:01 tsn2 phc2sys: [656887.475] CLOCK_REALTIME phc offset       -31 s2 freq  -15924 delay   1747
+Mar 14 10:54:02 tsn2 ptp4l: [656888.242] rms   13 max   19 freq -63702 +/-  18 delay    26 +/-   0
+Mar 14 10:54:02 tsn2 phc2sys: [656888.475] CLOCK_REALTIME phc offset         1 s2 freq  -15901 delay   1727
+Mar 14 10:54:03 tsn2 ptp4l: [656889.257] rms   11 max   16 freq -63706 +/-  15 delay    26 +/-   0
+Mar 14 10:54:03 tsn2 phc2sys: [656889.475] CLOCK_REALTIME phc offset         6 s2 freq  -15896 delay   1728
+Mar 14 10:54:04 tsn2 ptp4l: [656890.268] rms   11 max   18 freq -63708 +/-  14 delay    29 +/-   0
+Mar 14 10:54:04 tsn2 phc2sys: [656890.475] CLOCK_REALTIME phc offset        -3 s2 freq  -15903 delay   1724
+Mar 14 10:54:05 tsn2 ptp4l: [656891.279] rms   11 max   19 freq -63712 +/-  15 delay    32 +/-   0
+Mar 14 10:54:05 tsn2 phc2sys: [656891.475] CLOCK_REALTIME phc offset         8 s2 freq  -15893 delay   1683
+Mar 14 10:54:06 tsn2 ptp4l: [656892.293] rms   12 max   22 freq -63706 +/-  16 delay    29 +/-   0
+Mar 14 10:54:06 tsn2 phc2sys: [656892.476] CLOCK_REALTIME phc offset       -26 s2 freq  -15925 delay   1729
+Mar 14 10:54:07 tsn2 ptp4l: [656893.308] rms   13 max   24 freq -63705 +/-  18 delay    26 +/-   0
+Mar 14 10:54:07 tsn2 phc2sys: [656893.476] CLOCK_REALTIME phc offset         1 s2 freq  -15905 delay   1737
+Mar 14 10:54:08 tsn2 ptp4l: [656894.320] rms   10 max   20 freq -63722 +/-   7 delay    27 +/-   0
+Mar 14 10:54:08 tsn2 phc2sys: [656894.476] CLOCK_REALTIME phc offset        20 s2 freq  -15886 delay   1690
+Mar 14 10:54:09 tsn2 ptp4l: [656895.334] rms   10 max   20 freq -63711 +/-  13 delay    27 +/-   0
+Mar 14 10:54:09 tsn2 phc2sys: [656895.476] CLOCK_REALTIME phc offset         0 s2 freq  -15900 delay   1687
+Mar 14 10:54:10 tsn2 ptp4l: [656896.346] rms   14 max   23 freq -63703 +/-  17 delay    26 +/-   0
+Mar 14 10:54:10 tsn2 phc2sys: [656896.476] CLOCK_REALTIME phc offset       -10 s2 freq  -15910 delay   1737
+Mar 14 10:54:11 tsn2 ptp4l: [656897.357] rms    8 max   12 freq -63721 +/-   4 delay    26 +/-   0
+Mar 14 10:54:11 tsn2 phc2sys: [656897.476] CLOCK_REALTIME phc offset       -10 s2 freq  -15913 delay   1731
+Mar 14 10:54:12 tsn2 ptp4l: [656898.372] rms   12 max   18 freq -63708 +/-  16 delay    26 +/-   0
+Mar 14 10:54:12 tsn2 phc2sys: [656898.476] CLOCK_REALTIME phc offset        18 s2 freq  -15888 delay   1728
+Mar 14 10:54:13 tsn2 ptp4l: [656899.386] rms    9 max   16 freq -63716 +/-  11 delay    26 +/-   0
+Mar 14 10:54:13 tsn2 phc2sys: [656899.476] CLOCK_REALTIME phc offset        17 s2 freq  -15884 delay   1707
+Mar 14 10:54:14 tsn2 ptp4l: [656900.399] rms   13 max   19 freq -63712 +/-  18 delay    26 +/-   0
+Mar 14 10:54:14 tsn2 phc2sys: [656900.476] CLOCK_REALTIME phc offset        -5 s2 freq  -15901 delay   1692
+Mar 14 10:54:15 tsn2 ptp4l: [656901.412] rms   11 max   16 freq -63709 +/-  15 delay    26 +/-   0
+Mar 14 10:54:15 tsn2 phc2sys: [656901.476] CLOCK_REALTIME phc offset        -9 s2 freq  -15906 delay   1741
+Mar 14 10:54:16 tsn2 ptp4l: [656902.424] rms   13 max   17 freq -63713 +/-  18 delay    26 +/-   0
+Mar 14 10:54:16 tsn2 phc2sys: [656902.476] CLOCK_REALTIME phc offset        15 s2 freq  -15885 delay   1685
+Mar 14 10:54:17 tsn2 ptp4l: [656903.434] rms   13 max   19 freq -63723 +/-  17 delay    26 +/-   0
+Mar 14 10:54:17 tsn2 phc2sys: [656903.476] CLOCK_REALTIME phc offset       -28 s2 freq  -15923 delay   1726
+Mar 14 10:54:18 tsn2 ptp4l: [656904.445] rms    8 max   20 freq -63716 +/-  11 delay    25 +/-   0
+Mar 14 10:54:18 tsn2 phc2sys: [656904.476] CLOCK_REALTIME phc offset        19 s2 freq  -15885 delay   1687
+Mar 14 10:54:19 tsn2 ptp4l: [656905.462] rms    9 max   19 freq -63719 +/-  12 delay    25 +/-   0
+Mar 14 10:54:19 tsn2 phc2sys: [656905.476] CLOCK_REALTIME phc offset       -20 s2 freq  -15918 delay   1722
+Mar 14 10:54:20 tsn2 phc2sys: [656906.477] CLOCK_REALTIME phc offset        30 s2 freq  -15874 delay   1686
+Mar 14 10:54:20 tsn2 ptp4l: [656906.477] rms   13 max   20 freq -63711 +/-  17 delay    24 +/-   0
+Mar 14 10:54:21 tsn2 phc2sys: [656907.477] CLOCK_REALTIME phc offset        17 s2 freq  -15878 delay   1682
+Mar 14 10:54:21 tsn2 ptp4l: [656907.490] rms    9 max   15 freq -63707 +/-  11 delay    25 +/-   0
+Mar 14 10:54:22 tsn2 phc2sys: [656908.477] CLOCK_REALTIME phc offset       -33 s2 freq  -15923 delay   1748
+Mar 14 10:54:22 tsn2 ptp4l: [656908.502] rms   15 max   22 freq -63723 +/-  19 delay    25 +/-   0
+Mar 14 10:54:23 tsn2 phc2sys: [656909.477] CLOCK_REALTIME phc offset       -27 s2 freq  -15927 delay   1743
+Mar 14 10:54:23 tsn2 ptp4l: [656909.514] rms   12 max   22 freq -63727 +/-  15 delay    25 +/-   0
+Mar 14 10:54:24 tsn2 phc2sys: [656910.477] CLOCK_REALTIME phc offset         4 s2 freq  -15904 delay   1741
+Mar 14 10:54:24 tsn2 ptp4l: [656910.525] rms   13 max   21 freq -63714 +/-  17 delay    23 +/-   0
+Mar 14 10:54:25 tsn2 phc2sys: [656911.477] CLOCK_REALTIME phc offset        21 s2 freq  -15886 delay   1730
+Mar 14 10:54:25 tsn2 ptp4l: [656911.539] rms   12 max   18 freq -63722 +/-  16 delay    21 +/-   0
+Mar 14 10:54:26 tsn2 phc2sys: [656912.477] CLOCK_REALTIME phc offset        24 s2 freq  -15876 delay   1672
+Mar 14 10:54:26 tsn2 ptp4l: [656912.554] rms    9 max   21 freq -63722 +/-  12 delay    21 +/-   0
+Mar 14 10:54:27 tsn2 phc2sys: [656913.477] CLOCK_REALTIME phc offset         3 s2 freq  -15890 delay   1692
+Mar 14 10:54:27 tsn2 ptp4l: [656913.571] rms   10 max   20 freq -63717 +/-  14 delay    21 +/-   0
+Mar 14 10:54:28 tsn2 phc2sys: [656914.477] CLOCK_REALTIME phc offset       -26 s2 freq  -15918 delay   1716
+Mar 14 10:54:29 tsn2 ptp4l: [656914.582] rms    8 max   13 freq -63727 +/-  10 delay    21 +/-   0
+Mar 14 10:54:29 tsn2 phc2sys: [656915.477] CLOCK_REALTIME phc offset       -10 s2 freq  -15910 delay   1731
+Mar 14 10:54:30 tsn2 ptp4l: [656915.595] rms   13 max   20 freq -63720 +/-  18 delay    21 +/-   0
+Mar 14 10:54:30 tsn2 phc2sys: [656916.477] CLOCK_REALTIME phc offset        13 s2 freq  -15890 delay   1732
+Mar 14 10:54:31 tsn2 ptp4l: [656916.608] rms   11 max   16 freq -63725 +/-  14 delay    23 +/-   0
+Mar 14 10:54:31 tsn2 phc2sys: [656917.477] CLOCK_REALTIME phc offset       -10 s2 freq  -15909 delay   1745
+Mar 14 10:54:32 tsn2 ptp4l: [656917.621] rms   12 max   20 freq -63725 +/-  16 delay    22 +/-   0
+Mar 14 10:54:32 tsn2 phc2sys: [656918.477] CLOCK_REALTIME phc offset        25 s2 freq  -15877 delay   1731
+Mar 14 10:54:33 tsn2 ptp4l: [656918.633] rms   11 max   21 freq -63727 +/-  14 delay    23 +/-   0
+Mar 14 10:54:33 tsn2 phc2sys: [656919.477] CLOCK_REALTIME phc offset         2 s2 freq  -15893 delay   1723
+Mar 14 10:54:34 tsn2 ptp4l: [656919.646] rms    9 max   21 freq -63727 +/-  12 delay    22 +/-   0
+Mar 14 10:54:34 tsn2 phc2sys: [656920.478] CLOCK_REALTIME phc offset        -8 s2 freq  -15902 delay   1728
+Mar 14 10:54:35 tsn2 ptp4l: [656920.658] rms   13 max   22 freq -63721 +/-  18 delay    24 +/-   0
+Mar 14 10:54:35 tsn2 phc2sys: [656921.478] CLOCK_REALTIME phc offset        10 s2 freq  -15887 delay   1747
+Mar 14 10:54:36 tsn2 ptp4l: [656921.674] rms   12 max   20 freq -63717 +/-  16 delay    24 +/-   0
+Mar 14 10:54:36 tsn2 phc2sys: [656922.478] CLOCK_REALTIME phc offset         0 s2 freq  -15894 delay   1728
+Mar 14 10:54:37 tsn2 ptp4l: [656922.688] rms   14 max   25 freq -63740 +/-  13 delay    23 +/-   0
+Mar 14 10:54:37 tsn2 phc2sys: [656923.478] CLOCK_REALTIME phc offset        -2 s2 freq  -15896 delay   1729
+Mar 14 10:54:38 tsn2 ptp4l: [656923.703] rms    9 max   18 freq -63729 +/-  13 delay    23 +/-   0
+Mar 14 10:54:38 tsn2 phc2sys: [656924.478] CLOCK_REALTIME phc offset        27 s2 freq  -15867 delay   1679
+Mar 14 10:54:39 tsn2 ptp4l: [656924.717] rms   11 max   21 freq -63722 +/-  15 delay    23 +/-   0
+Mar 14 10:54:39 tsn2 phc2sys: [656925.478] CLOCK_REALTIME phc offset         7 s2 freq  -15879 delay   1679
+Mar 14 10:54:40 tsn2 ptp4l: [656925.729] rms   12 max   18 freq -63725 +/-  16 delay    23 +/-   0
+Mar 14 10:54:40 tsn2 phc2sys: [656926.478] CLOCK_REALTIME phc offset       -33 s2 freq  -15917 delay   1729
+Mar 14 10:54:41 tsn2 ptp4l: [656926.742] rms   13 max   23 freq -63739 +/-  16 delay    22 +/-   0
+Mar 14 10:54:41 tsn2 phc2sys: [656927.478] CLOCK_REALTIME phc offset       -14 s2 freq  -15908 delay   1713
+Mar 14 10:54:42 tsn2 ptp4l: [656927.756] rms   11 max   15 freq -63727 +/-  14 delay    23 +/-   0
+Mar 14 10:54:42 tsn2 phc2sys: [656928.478] CLOCK_REALTIME phc offset        -7 s2 freq  -15905 delay   1728
+Mar 14 10:54:43 tsn2 ptp4l: [656928.769] rms   14 max   19 freq -63741 +/-  17 delay    22 +/-   0
+Mar 14 10:54:43 tsn2 phc2sys: [656929.478] CLOCK_REALTIME phc offset         6 s2 freq  -15894 delay   1717
+Mar 14 10:54:44 tsn2 ptp4l: [656929.781] rms   12 max   21 freq -63731 +/-  17 delay    23 +/-   0
+Mar 14 10:54:44 tsn2 phc2sys: [656930.478] CLOCK_REALTIME phc offset         7 s2 freq  -15891 delay   1732
+Mar 14 10:54:45 tsn2 ptp4l: [656930.795] rms   12 max   19 freq -63733 +/-  17 delay    23 +/-   0
+Mar 14 10:54:45 tsn2 phc2sys: [656931.478] CLOCK_REALTIME phc offset        18 s2 freq  -15878 delay   1682
+Mar 14 10:54:46 tsn2 ptp4l: [656931.806] rms   11 max   16 freq -63739 +/-  14 delay    23 +/-   0
+Mar 14 10:54:46 tsn2 phc2sys: [656932.478] CLOCK_REALTIME phc offset        -9 s2 freq  -15900 delay   1764
+Mar 14 10:54:47 tsn2 ptp4l: [656932.819] rms   13 max   17 freq -63733 +/-  17 delay    21 +/-   0
+Mar 14 10:54:47 tsn2 phc2sys: [656933.478] CLOCK_REALTIME phc offset       -16 s2 freq  -15910 delay   1732
+Mar 14 10:54:48 tsn2 ptp4l: [656933.833] rms    9 max   14 freq -63735 +/-  12 delay    21 +/-   0
+Mar 14 10:54:48 tsn2 phc2sys: [656934.479] CLOCK_REALTIME phc offset        13 s2 freq  -15885 delay   1686
+Mar 14 10:54:49 tsn2 ptp4l: [656934.846] rms   13 max   19 freq -63729 +/-  17 delay    22 +/-   0
+Mar 14 10:54:49 tsn2 phc2sys: [656935.479] CLOCK_REALTIME phc offset       -19 s2 freq  -15913 delay   1743
+Mar 14 10:54:50 tsn2 ptp4l: [656935.861] rms   13 max   18 freq -63742 +/-  16 delay    21 +/-   0
+Mar 14 10:54:50 tsn2 phc2sys: [656936.479] CLOCK_REALTIME phc offset         2 s2 freq  -15898 delay   1741
+Mar 14 10:54:51 tsn2 ptp4l: [656936.871] rms   10 max   16 freq -63735 +/-  14 delay    21 +/-   0
+Mar 14 10:54:51 tsn2 phc2sys: [656937.479] CLOCK_REALTIME phc offset        14 s2 freq  -15886 delay   1739
+Mar 14 10:54:52 tsn2 ptp4l: [656937.883] rms   11 max   15 freq -63742 +/-  14 delay    21 +/-   0
+Mar 14 10:54:52 tsn2 phc2sys: [656938.479] CLOCK_REALTIME phc offset         1 s2 freq  -15894 delay   1723
+Mar 14 10:54:53 tsn2 ptp4l: [656938.893] rms   11 max   18 freq -63739 +/-  15 delay    22 +/-   0
+Mar 14 10:54:53 tsn2 phc2sys: [656939.479] CLOCK_REALTIME phc offset        13 s2 freq  -15882 delay   1689
+Mar 14 10:54:54 tsn2 ptp4l: [656939.903] rms    9 max   17 freq -63748 +/-  12 delay    22 +/-   0
+Mar 14 10:54:54 tsn2 phc2sys: [656940.479] CLOCK_REALTIME phc offset       -16 s2 freq  -15907 delay   1749
+Mar 14 10:54:55 tsn2 ptp4l: [656940.916] rms   11 max   20 freq -63736 +/-  14 delay    22 +/-   0
+Mar 14 10:54:55 tsn2 phc2sys: [656941.479] CLOCK_REALTIME phc offset         1 s2 freq  -15895 delay   1744
+Mar 14 10:54:56 tsn2 ptp4l: [656941.929] rms   13 max   24 freq -63738 +/-  18 delay    23 +/-   0
+Mar 14 10:54:56 tsn2 phc2sys: [656942.479] CLOCK_REALTIME phc offset         8 s2 freq  -15888 delay   1733
+Mar 14 10:54:57 tsn2 ptp4l: [656942.939] rms   12 max   18 freq -63744 +/-  17 delay    23 +/-   0
+Mar 14 10:54:57 tsn2 phc2sys: [656943.479] CLOCK_REALTIME phc offset        19 s2 freq  -15874 delay   1687
+Mar 14 10:54:58 tsn2 ptp4l: [656943.953] rms   10 max   16 freq -63746 +/-  14 delay    24 +/-   0
+Mar 14 10:54:58 tsn2 phc2sys: [656944.479] CLOCK_REALTIME phc offset       -20 s2 freq  -15908 delay   1748
+Mar 14 10:54:59 tsn2 ptp4l: [656944.964] rms   11 max   15 freq -63738 +/-  14 delay    25 +/-   0
+Mar 14 10:54:59 tsn2 phc2sys: [656945.479] CLOCK_REALTIME phc offset        20 s2 freq  -15874 delay   1690
+Mar 14 10:55:00 tsn2 ptp4l: [656945.975] rms    6 max   10 freq -63751 +/-   5 delay    26 +/-   0
+Mar 14 10:55:00 tsn2 phc2sys: [656946.479] CLOCK_REALTIME phc offset        -9 s2 freq  -15897 delay   1718
+Mar 14 10:55:01 tsn2 ptp4l: [656946.990] rms    9 max   20 freq -63746 +/-  12 delay    26 +/-   0
+Mar 14 10:55:01 tsn2 phc2sys: [656947.479] CLOCK_REALTIME phc offset        -8 s2 freq  -15898 delay   1746
+Mar 14 10:55:02 tsn2 ptp4l: [656948.004] rms    8 max   18 freq -63746 +/-  10 delay    26 +/-   0
+Mar 14 10:55:02 tsn2 phc2sys: [656948.480] CLOCK_REALTIME phc offset        21 s2 freq  -15872 delay   1682
+Mar 14 10:55:03 tsn2 ptp4l: [656949.017] rms    8 max   19 freq -63742 +/-  10 delay    25 +/-   0
+Mar 14 10:55:03 tsn2 phc2sys: [656949.480] CLOCK_REALTIME phc offset       -16 s2 freq  -15902 delay   1745
+Mar 14 10:55:04 tsn2 ptp4l: [656950.030] rms   11 max   21 freq -63736 +/-  13 delay    25 +/-   0
+Mar 14 10:55:04 tsn2 phc2sys: [656950.480] CLOCK_REALTIME phc offset        30 s2 freq  -15861 delay   1683
+Mar 14 10:55:05 tsn2 ptp4l: [656951.044] rms   13 max   21 freq -63747 +/-  17 delay    26 +/-   0
+Mar 14 10:55:05 tsn2 phc2sys: [656951.480] CLOCK_REALTIME phc offset       -26 s2 freq  -15908 delay   1726
+Mar 14 10:55:06 tsn2 ptp4l: [656952.055] rms   11 max   16 freq -63743 +/-  15 delay    25 +/-   0
+Mar 14 10:55:06 tsn2 phc2sys: [656952.480] CLOCK_REALTIME phc offset       438 s2 freq  -15452 delay   2621
+Mar 14 10:55:07 tsn2 ptp4l: [656953.068] rms   13 max   18 freq -63746 +/-  17 delay    26 +/-   0
+Mar 14 10:55:07 tsn2 phc2sys: [656953.480] CLOCK_REALTIME phc offset      -438 s2 freq  -16197 delay   1745
+Mar 14 10:55:08 tsn2 ptp4l: [656954.083] rms   10 max   15 freq -63743 +/-  14 delay    26 +/-   0
+Mar 14 10:55:08 tsn2 phc2sys: [656954.480] CLOCK_REALTIME phc offset      -112 s2 freq  -16002 delay   1684
+Mar 14 10:55:09 tsn2 ptp4l: [656955.097] rms   10 max   14 freq -63744 +/-  14 delay    27 +/-   0
+Mar 14 10:55:09 tsn2 phc2sys: [656955.480] CLOCK_REALTIME phc offset       -16 s2 freq  -15940 delay   1726
+Mar 14 10:55:10 tsn2 ptp4l: [656956.110] rms   10 max   16 freq -63750 +/-  14 delay    27 +/-   0
+Mar 14 10:55:10 tsn2 phc2sys: [656956.480] CLOCK_REALTIME phc offset        40 s2 freq  -15888 delay   1743
+Mar 14 10:55:11 tsn2 ptp4l: [656957.122] rms   13 max   25 freq -63748 +/-  18 delay    28 +/-   0
+Mar 14 10:55:11 tsn2 phc2sys: [656957.480] CLOCK_REALTIME phc offset        37 s2 freq  -15879 delay   1744
+Mar 14 10:55:12 tsn2 ptp4l: [656958.136] rms   13 max   15 freq -63754 +/-  17 delay    27 +/-   0
+Mar 14 10:55:12 tsn2 phc2sys: [656958.480] CLOCK_REALTIME phc offset        31 s2 freq  -15874 delay   1743
+Mar 14 10:55:13 tsn2 ptp4l: [656959.149] rms   12 max   17 freq -63752 +/-  17 delay    27 +/-   0
+Mar 14 10:55:13 tsn2 phc2sys: [656959.480] CLOCK_REALTIME phc offset        15 s2 freq  -15881 delay   1726
+Mar 14 10:55:14 tsn2 ptp4l: [656960.162] rms   11 max   15 freq -63751 +/-  15 delay    27 +/-   0
+Mar 14 10:55:14 tsn2 phc2sys: [656960.480] CLOCK_REALTIME phc offset        17 s2 freq  -15874 delay   1721
+Mar 14 10:55:15 tsn2 ptp4l: [656961.175] rms   12 max   19 freq -63745 +/-  16 delay    28 +/-   0
+Mar 14 10:55:15 tsn2 phc2sys: [656961.480] CLOCK_REALTIME phc offset        12 s2 freq  -15874 delay   1738
+Mar 14 10:55:16 tsn2 ptp4l: [656962.190] rms   12 max   19 freq -63752 +/-  16 delay    28 +/-   0
+Mar 14 10:55:16 tsn2 phc2sys: [656962.481] CLOCK_REALTIME phc offset         2 s2 freq  -15881 delay   1729
+Mar 14 10:55:17 tsn2 ptp4l: [656963.201] rms   12 max   18 freq -63751 +/-  16 delay    27 +/-   0
+Mar 14 10:55:17 tsn2 phc2sys: [656963.481] CLOCK_REALTIME phc offset       -25 s2 freq  -15907 delay   1750
+Mar 14 10:55:18 tsn2 ptp4l: [656964.211] rms   10 max   17 freq -63750 +/-  14 delay    27 +/-   0
+Mar 14 10:55:18 tsn2 phc2sys: [656964.481] CLOCK_REALTIME phc offset         5 s2 freq  -15885 delay   1729
+Mar 14 10:55:19 tsn2 ptp4l: [656965.227] rms    9 max   15 freq -63754 +/-  13 delay    26 +/-   0
+Mar 14 10:55:19 tsn2 phc2sys: [656965.481] CLOCK_REALTIME phc offset        13 s2 freq  -15875 delay   1690
+Mar 14 10:55:20 tsn2 ptp4l: [656966.240] rms   11 max   16 freq -63742 +/-  13 delay    26 +/-   0
+Mar 14 10:55:20 tsn2 phc2sys: [656966.481] CLOCK_REALTIME phc offset        -8 s2 freq  -15892 delay   1726
+Mar 14 10:55:21 tsn2 ptp4l: [656967.252] rms   11 max   22 freq -63765 +/-   7 delay    26 +/-   0
+Mar 14 10:55:21 tsn2 phc2sys: [656967.481] CLOCK_REALTIME phc offset         7 s2 freq  -15880 delay   1688
+Mar 14 10:55:22 tsn2 ptp4l: [656968.266] rms   13 max   21 freq -63747 +/-  17 delay    24 +/-   0
+Mar 14 10:55:22 tsn2 phc2sys: [656968.481] CLOCK_REALTIME phc offset       -13 s2 freq  -15898 delay   1730
+Mar 14 10:55:23 tsn2 ptp4l: [656969.278] rms   11 max   17 freq -63754 +/-  15 delay    22 +/-   0
+Mar 14 10:55:23 tsn2 phc2sys: [656969.481] CLOCK_REALTIME phc offset         3 s2 freq  -15885 delay   1732
+Mar 14 10:55:24 tsn2 ptp4l: [656970.292] rms   12 max   13 freq -63746 +/-  15 delay    22 +/-   0
+Mar 14 10:55:24 tsn2 phc2sys: [656970.481] CLOCK_REALTIME phc offset        18 s2 freq  -15870 delay   1730
+Mar 14 10:55:25 tsn2 ptp4l: [656971.306] rms   14 max   17 freq -63759 +/-  17 delay    22 +/-   0
+Mar 14 10:55:25 tsn2 phc2sys: [656971.481] CLOCK_REALTIME phc offset        11 s2 freq  -15871 delay   1681
+Mar 14 10:55:26 tsn2 ptp4l: [656972.318] rms   13 max   18 freq -63763 +/-  16 delay    24 +/-   0
+Mar 14 10:55:26 tsn2 phc2sys: [656972.481] CLOCK_REALTIME phc offset       -20 s2 freq  -15899 delay   1732
+Mar 14 10:55:27 tsn2 ptp4l: [656973.331] rms   13 max   18 freq -63759 +/-  17 delay    26 +/-   0
+Mar 14 10:55:27 tsn2 phc2sys: [656973.481] CLOCK_REALTIME phc offset        16 s2 freq  -15869 delay   1702
+Mar 14 10:55:28 tsn2 ptp4l: [656974.343] rms   12 max   24 freq -63756 +/-  16 delay    26 +/-   0
+Mar 14 10:55:28 tsn2 phc2sys: [656974.481] CLOCK_REALTIME phc offset       -27 s2 freq  -15907 delay   1736
+Mar 14 10:55:29 tsn2 ptp4l: [656975.357] rms    8 max   15 freq -63761 +/-  10 delay    25 +/-   0
+Mar 14 10:55:29 tsn2 phc2sys: [656975.481] CLOCK_REALTIME phc offset         8 s2 freq  -15880 delay   1745
+Mar 14 10:55:30 tsn2 ptp4l: [656976.368] rms    9 max   18 freq -63761 +/-  13 delay    25 +/-   0
+Mar 14 10:55:30 tsn2 phc2sys: [656976.482] CLOCK_REALTIME phc offset        -9 s2 freq  -15895 delay   1730
+Mar 14 10:55:31 tsn2 ptp4l: [656977.379] rms    9 max   18 freq -63763 +/-  12 delay    26 +/-   0
+Mar 14 10:55:31 tsn2 phc2sys: [656977.482] CLOCK_REALTIME phc offset         2 s2 freq  -15886 delay   1748
+Mar 14 10:55:32 tsn2 ptp4l: [656978.394] rms    9 max   21 freq -63756 +/-  12 delay    26 +/-   0
+Mar 14 10:55:32 tsn2 phc2sys: [656978.482] CLOCK_REALTIME phc offset         5 s2 freq  -15883 delay   1727
+Mar 14 10:55:33 tsn2 ptp4l: [656979.407] rms   11 max   17 freq -63751 +/-  15 delay    26 +/-   0
+Mar 14 10:55:33 tsn2 phc2sys: [656979.482] CLOCK_REALTIME phc offset        18 s2 freq  -15868 delay   1729
+Mar 14 10:55:34 tsn2 ptp4l: [656980.421] rms   11 max   16 freq -63768 +/-  13 delay    26 +/-   0
+Mar 14 10:55:34 tsn2 phc2sys: [656980.482] CLOCK_REALTIME phc offset        14 s2 freq  -15867 delay   1715
+Mar 14 10:55:35 tsn2 ptp4l: [656981.436] rms    8 max   19 freq -63765 +/-  11 delay    25 +/-   0
+Mar 14 10:55:35 tsn2 phc2sys: [656981.482] CLOCK_REALTIME phc offset       -33 s2 freq  -15910 delay   1741
+Mar 14 10:55:36 tsn2 ptp4l: [656982.447] rms   10 max   20 freq -63758 +/-  13 delay    23 +/-   0
+Mar 14 10:55:36 tsn2 phc2sys: [656982.482] CLOCK_REALTIME phc offset        26 s2 freq  -15861 delay   1684
+Mar 14 10:55:37 tsn2 ptp4l: [656983.461] rms   12 max   17 freq -63759 +/-  17 delay    23 +/-   0
+Mar 14 10:55:37 tsn2 phc2sys: [656983.482] CLOCK_REALTIME phc offset        -7 s2 freq  -15886 delay   1733
+Mar 14 10:55:38 tsn2 ptp4l: [656984.479] rms    9 max   16 freq -63769 +/-  12 delay    23 +/-   0
+Mar 14 10:55:38 tsn2 phc2sys: [656984.482] CLOCK_REALTIME phc offset        -9 s2 freq  -15890 delay   1729
+Mar 14 10:55:39 tsn2 phc2sys: [656985.482] CLOCK_REALTIME phc offset        11 s2 freq  -15873 delay   1693
+Mar 14 10:55:39 tsn2 ptp4l: [656985.491] rms    7 max   17 freq -63766 +/-  10 delay    23 +/-   0
+Mar 14 10:55:40 tsn2 phc2sys: [656986.482] CLOCK_REALTIME phc offset       -14 s2 freq  -15894 delay   1722
+Mar 14 10:55:40 tsn2 ptp4l: [656986.502] rms   10 max   21 freq -63761 +/-  14 delay    23 +/-   0
+Mar 14 10:55:41 tsn2 phc2sys: [656987.482] CLOCK_REALTIME phc offset        15 s2 freq  -15870 delay   1729
+Mar 14 10:55:41 tsn2 ptp4l: [656987.514] rms   14 max   19 freq -63759 +/-  19 delay    25 +/-   0
+Mar 14 10:55:42 tsn2 phc2sys: [656988.482] CLOCK_REALTIME phc offset       -14 s2 freq  -15894 delay   1743
+Mar 14 10:55:42 tsn2 ptp4l: [656988.526] rms   11 max   16 freq -63769 +/-  14 delay    24 +/-   0
+Mar 14 10:55:43 tsn2 phc2sys: [656989.482] CLOCK_REALTIME phc offset        24 s2 freq  -15860 delay   1677
+Mar 14 10:55:43 tsn2 ptp4l: [656989.541] rms    3 max    7 freq -63769 +/-   3 delay    24 +/-   0
+Mar 14 10:55:44 tsn2 phc2sys: [656990.483] CLOCK_REALTIME phc offset       -13 s2 freq  -15890 delay   1728
+Mar 14 10:55:44 tsn2 ptp4l: [656990.553] rms   12 max   18 freq -63756 +/-  15 delay    27 +/-   0
+Mar 14 10:55:45 tsn2 phc2sys: [656991.483] CLOCK_REALTIME phc offset        -6 s2 freq  -15887 delay   1726
+Mar 14 10:55:45 tsn2 ptp4l: [656991.565] rms   13 max   16 freq -63771 +/-  17 delay    28 +/-   0
+Mar 14 10:55:46 tsn2 phc2sys: [656992.483] CLOCK_REALTIME phc offset        -7 s2 freq  -15890 delay   1744
+Mar 14 10:55:46 tsn2 ptp4l: [656992.577] rms    8 max   19 freq -63767 +/-  11 delay    28 +/-   0
+Mar 14 10:55:47 tsn2 phc2sys: [656993.483] CLOCK_REALTIME phc offset        22 s2 freq  -15863 delay   1721
+Mar 14 10:55:48 tsn2 ptp4l: [656993.588] rms   13 max   19 freq -63759 +/-  17 delay    27 +/-   0
+Mar 14 10:55:48 tsn2 phc2sys: [656994.483] CLOCK_REALTIME phc offset        27 s2 freq  -15851 delay   1686
+Mar 14 10:55:49 tsn2 ptp4l: [656994.601] rms   11 max   18 freq -63762 +/-  15 delay    25 +/-   0
+Mar 14 10:55:49 tsn2 phc2sys: [656995.483] CLOCK_REALTIME phc offset       -33 s2 freq  -15903 delay   1741
+Mar 14 10:55:50 tsn2 ptp4l: [656995.616] rms   11 max   17 freq -63778 +/-  11 delay    27 +/-   0
+Mar 14 10:55:50 tsn2 phc2sys: [656996.483] CLOCK_REALTIME phc offset        14 s2 freq  -15866 delay   1687
+Mar 14 10:55:51 tsn2 ptp4l: [656996.632] rms   11 max   16 freq -63768 +/-  15 delay    27 +/-   0
+Mar 14 10:55:51 tsn2 phc2sys: [656997.483] CLOCK_REALTIME phc offset        -8 s2 freq  -15884 delay   1689
+Mar 14 10:55:52 tsn2 ptp4l:
