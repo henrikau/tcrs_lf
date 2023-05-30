@@ -43,33 +43,32 @@ main reactor {
         data = calloc(1, sizeof(data));
         lf_thread_create(&self->thread_id, &external, recvd);
 
-	/* Allocate and pin timestamps in memory to avoid pagefault-noise */
-	mlockall(MCL_CURRENT|MCL_FUTURE);
-	self->readings = malloc(sizeof(sensor_t)*BUFFER_SIZE);
-	if (self->readings) {
-		for (int i = 0; i < BUFFER_SIZE; i++)
-			memset(self->readings, 0, sizeof(sensor_t));
-	}
+	    /* Allocate and pin timestamps in memory to avoid pagefault-noise */
+	    mlockall(MCL_CURRENT|MCL_FUTURE);
+	    self->readings = malloc(sizeof(sensor_t)*BUFFER_SIZE);
+	    if (self->readings) {
+		    for (int i = 0; i < BUFFER_SIZE; i++)
+			    memset(self->readings, 0, sizeof(sensor_t));
+	    }
     =}
 
     reaction(shutdown) {=
         nh_destroy_standalone();
-
         if (data)
             free(data);
 
-	if (self->readings) {
-		    FILE *fd = fopen("netchan_e2e.csv", "w");
-		    fprintf(fd, "t1,t2,seqnr\n");
-		    for (int i = 0; i < self->idx; i++) {
-			    fprintf(fd, "%lu,%lu,%lu\n",
-				    self->readings[i].t1,
-				    self->readings[i].t2,
-				    self->readings[i].seqnr);
-		    }
-		    fclose(fd);
-		    free(self->readings);
-	}
+	    if (self->readings) {
+            FILE *fd = fopen("netchan_e2e.csv", "w");
+            fprintf(fd, "t1,t2,seqnr\n");
+            for (int i = 0; i < self->idx; i++) {
+                fprintf(fd, "%lu,%lu,%lu\n",
+                    self->readings[i].t1,
+                    self->readings[i].t2,
+                    self->readings[i].seqnr);
+            }
+            fclose(fd);
+            free(self->readings);
+	    }
     =}
 
     reaction (recvd) {=
@@ -78,12 +77,12 @@ main reactor {
             printf("Stop received, closing\n");
             request_stop();
         } else {
-		if (self->readings && self->idx < BUFFER_SIZE) {
-			self->readings[self->idx].t1 = data->t1;
-			self->readings[self->idx].t2 = data->t2;
-			self->readings[self->idx].seqnr = data->seqnr;
-			self->idx++;
-		}
-	}
+		    if (self->readings && self->idx < BUFFER_SIZE) {
+                self->readings[self->idx].t1 = data->t1;
+	    		self->readings[self->idx].t2 = data->t2;
+			    self->readings[self->idx].seqnr = data->seqnr;
+			    self->idx++;
+		    }
+	    }
     =}
 }
