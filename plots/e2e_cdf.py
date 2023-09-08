@@ -6,10 +6,10 @@ import matplotlib.pyplot as plt
 import statistics
 import numpy as np
 
-# path=os.path.abspath(os.path.dirname(sys.argv[0]))
-# sys.path.append('{}/net_chan/plots'.format(os.path.dirname(os.path.dirname(path))))
-from lib import *
-import lib.timedc_lib as tc
+path=os.path.abspath(os.path.dirname(sys.argv[0]))
+sys.path.append('{}/plotlib'.format(os.path.dirname(os.path.dirname(path))))
+# from lib import *
+import timedc_lib as tc
 
 
 SMALL_SIZE = 12
@@ -94,5 +94,5 @@ if __name__ == "__main__":
     ax = fig.add_subplot(224)
     plot_pdf_cdf(df_ncn, ax, "NetChan E2E (noise)", xlim = (2.012, 2.043))
     ax.set_xlabel("Delay (ms)")
-    fig.savefig("tcrs_e2e_cdf.png", bbox_inches='tight')
-    # plt.show()
+    #fig.savefig("tcrs_e2e_cdf.png", bbox_inches='tight')
+    plt.show()
