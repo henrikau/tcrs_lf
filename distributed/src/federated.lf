@@ -1,23 +1,37 @@
 target C {
-    files: ["../../include/manifest.h"],
     threading: true,
     keepalive: true,
     timeout: 300 sec,
     coordination: decentralized,
+    clock-sync: on,
+    clock-sync-options: {
+        local-federates-on: true,
+        collect-stats: true,
+        test-offset: 200 msec,
+        period: 5 msec,
+        trials: 10,
+        attenuation: 10
+    },
+    logging: LOG,
 }
 
 preamble {=
-    #include "manifest.h"
+    #define BUFFER_SIZE 216000 //6 hr
     #include <stdio.h>
     #include <sys/mman.h>
+    struct sensor_data {
+	    uint64_t t1; // data sent
+	    uint64_t t2; // data received
+	    uint64_t data;
+	    uint64_t seqnr;
+    };
+    typedef struct sensor_data sensor_t;
 =}
 
 reactor Talker {
 	timer t(0, 100 msecs);
-	timer hb(0,1 sec);
-	state hbctr:int(0);
 
-    output out:sensor_t;
+    output sensor_out:sensor_t;
     state ctr:uint64_t(0);
 
     reaction (t) -> sensor_out {=
@@ -26,57 +40,84 @@ reactor Talker {
         s.t1 = t1;
         s.seqnr = self->ctr;
         s.data = self->ctr;
+        lf_set(sensor_out, s);
+
+	/* If we have used the entire buffer, stop system, Listener
+	 * cannot accept more datapoints anyway.
+	 */
+        if (self->ctr >= BUFFER_SIZE) {
+            s.seqnr = -1;
+            s.data = -1;
+            lf_set(sensor_out, s);
+            lf_request_stop();
+        }
+
         self->ctr++;
-        lf_set(out, s);
     =}
-    reaction (hb) {=
-        printf("[HEARTBEAT] %d\n", self->hbctr);
-	    self->hbctr++;
+
+    reaction (shutdown) ->sensor_out {=
+        /* We should be closing down and a closing message should have
+	 * been sent, but just to make sure we send a last shutdown
+	 * message.
+	 */
+        sensor_t s;
+        s.t1 = lf_time_physical();
+        s.seqnr = -1;
+        s.data = -1;
+        lf_set(sensor_out, s);
     =}
 }
 
 reactor Listener {
-    input in:sensor_t;
+    input sensor_in:sensor_t;
     state idx:int(0);
     state readings:sensor_t*;
 
     reaction(sensor_in) {=
         sensor_in->value.t2 = lf_time_physical();
-        if (self->readings && self->idx < BUFFER_SIZE) {
-            self->readings[self->idx].t1 = in->value.t1;
-	        self->readings[self->idx].t2 = in->value.t2;
-	        self->readings[self->idx].seqnr = in->value.seqnr;
-	        self->idx++;
-	    }
+	if (self->readings && self->idx < BUFFER_SIZE) {
+            if (sensor_in->value.seqnr == -1 && sensor_in->value.data == -1) {
+				lf_request_stop();
+			} else {
+	            self->readings[self->idx].t1 = sensor_in->value.t1;
+	            self->readings[self->idx].t2 = sensor_in->value.t2;
+	            self->readings[self->idx].seqnr = sensor_in->value.seqnr;
+	            self->idx++;
+            }
+	}
     =}
 
     reaction(shutdown) {=
-	    if (self->readings) {
-            FILE *fd = fopen("federated_e2e.csv", "w");
-	        fprintf(fd, "t1,t2,seqnr\n");
-	        for (int i = 0; i < self->idx; i++) {
-		        fprintf(fd, "%lu,%lu,%lu\n",
-                    self->readings[i].t1,
-			        self->readings[i].t2,
-			        self->readings[i].seqnr);
-	        }
-	        fclose(fd);
-	        free(self->readings);
-        }
+        if (self->readings) {
+		FILE *fd = fopen("federated_no_clock_sync_e2e_6hr.csv", "w");
+		if (fd) {
+			fprintf(fd, "t1,t2,seqnr,diff\n");
+			for (int i = 0; i < self->idx; i++) {
+				fprintf(fd, "%lu,%lu,%lu,%lu\n",
+					self->readings[i].t1,
+					self->readings[i].t2,
+					self->readings[i].seqnr,
+					self->readings[i].t2 - self->readings[i].t1
+					);
+			}
+		}
+		fclose(fd);
+		free(self->readings);
+	}
     =}
 
     reaction(startup) {=
-        mlockall(MCL_CURRENT|MCL_FUTURE);
-        self->readings = malloc(sizeof(sensor_t)*BUFFER_SIZE);
-        if (self->readings) {
-	        for (int i = 0; i < BUFFER_SIZE; i++)
-		        memset(self->readings, 0, sizeof(sensor_t));
-        }
+       mlockall(MCL_CURRENT|MCL_FUTURE);
+       self->readings = malloc(sizeof(sensor_t)*BUFFER_SIZE);
+       if (self->readings) {
+	       for (int i = 0; i < BUFFER_SIZE; i++)
+		       memset(self->readings, 0, sizeof(sensor_t));
+       }
     =}
 }
 
 federated reactor {
     talker = new Talker();
     listener = new Listener();
-    talker.out -> listener.in after 2 ms;
+    talker.sensor_out -> listener.sensor_in after 2 ms;
 }

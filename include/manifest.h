@@ -8,7 +8,7 @@
 #ifndef MANIFEST_H
 #define MANIFEST_H
 #include <netchan.h>
-#define BUFFER_SIZE 10000
+#define BUFFER_SIZE 216000 //6 hr
 
 enum joints {
     BASE = 0,
